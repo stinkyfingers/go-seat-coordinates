@@ -32,6 +32,7 @@ docker run \
     -e EVENT_ID=0F00635BEE7872E5 \
     -e VENUE_ID=7 \
     -e DB_CONN_STRING='<DB_CONN_STRING>' \
+    -e INPUT_SOURCE=<'hex' or 'da' | default hex> \
     -v ~/.aws:/root/.aws:ro \
     -v "$(pwd)/results:/app/results" \
     go-seat-coordinates
