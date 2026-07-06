@@ -35,15 +35,3 @@ where ss.venue_id = $1`
 	}
 	return seats, nil
 }
-
-func (s *Seat) GetSection() string {
-	return s.SectionCode
-}
-
-func (s *Seat) GetRow() string {
-	return s.Row
-}
-
-func (s *Seat) GetSeatNumber() string {
-	return s.SeatNumber
-}

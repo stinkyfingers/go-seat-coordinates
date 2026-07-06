@@ -1,6 +1,6 @@
 Basic Process:
 
-- Get internal seats w/ sections 
+- Get internal seats w/ sections - either from DA or Hex databases (by flag, below)
 - Get TM data from many events and aggregate unique seat coordinates
     - ad hoc cmd to get TM event ids
 - Map internal -> external using Bedrock
@@ -11,7 +11,8 @@ Basic Process:
 RUN: 
 
 `go run main.go -v <venue_id> -e <event_id>` 
-- optionally pass `--db <CONN STRING>`
+- optionally pass `--db <DB_CONN STRING>`
+- optionally pass `--input-source <'da' or 'hex'>` - assure you have either a DA or Hex DB correct in the --db flag or DB_CONN_STRING .env value.
 - venue is the Hexagon venue ID. 
 - event is a TicketMaster Event ID for the team/venue.
 

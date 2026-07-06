@@ -19,10 +19,11 @@ import (
 )
 
 var (
-	venueId     = flag.Int("v", 0, "Venue ID")
-	eventId     = flag.String("e", "", "Event ID")
-	databaseURL = flag.String("db", "", "Database connection string (optional, can also be set via DB_CONN_STRING environment variable)")
-	skipLLM     = flag.Bool("skip-llm", false, "Skip LLM section mapping (optional, default false)")
+	venueId         = flag.Int("v", 0, "Venue ID")
+	eventId         = flag.String("e", "", "Event ID")
+	databaseURL     = flag.String("db", "", "Database connection string (optional, can also be set via DB_CONN_STRING environment variable)")
+	skipLLM         = flag.Bool("skip-llm", false, "Skip LLM section mapping (optional, default false)")
+	inputDataSource = flag.String("input-source", "hex", "Input data source (default 'hex', options: 'hex', 'da')")
 )
 
 func main() {
@@ -57,18 +58,27 @@ func main() {
 	}
 	defer db.Close()
 
+	var dataSource internal_seat.InternalSeater
+	switch *inputDataSource {
+	case "hex":
+		dataSource = internal_seat.NewHexagon(db)
+	case "da":
+		dataSource = internal_seat.NewDemandAnalytics(db)
+	default:
+		log.Fatalf("Invalid input data source: %s", *inputDataSource)
+	}
+
 	// run process
-	err = process(ctx, db, *venueId, *eventId, *skipLLM)
+	err = process(ctx, db, dataSource, *venueId, *eventId, *skipLLM)
 	if err != nil {
 		log.Fatalf("Error processing venue: %v", err)
 	}
 
 }
 
-func process(ctx context.Context, db *sql.DB, venueId int, eventId string, skipLLM bool) error {
+func process(ctx context.Context, db *sql.DB, dataSource internal_seat.InternalSeater, venueId int, eventId string, skipLLM bool) error {
 	// get seats from internal database - hexagon
-	hex := internal_seat.NewHexagon(db)
-	internalSeats, err := hex.GetSeats(ctx, venueId)
+	internalSeats, err := dataSource.GetSeats(ctx, venueId)
 	if err != nil {
 		log.Fatalf("Error getting seats: %v", err)
 	}
