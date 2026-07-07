@@ -38,9 +38,10 @@ func MapInternalToExternal(externalSeats, internalSeats seat.Seaters, skipLLM bo
 	internalSections := uniqueSections(internalSeats)
 	externalSections := uniqueSections(externalSeats)
 	sectionMap, unmappedInternalSections, unmappedExternalSections := getPerfectSectionMatches(externalSections, internalSections)
-	fmt.Printf("perfectly mapped %d sections\n", len(sectionMap))
+	fmt.Printf("perfectly mapped %d sections, leaving %d unmapped internal sections and %d unmapped external sections\n", len(sectionMap), len(unmappedInternalSections), len(unmappedExternalSections))
 
-	if !skipLLM && len(unmappedExternalSections) > 0 {
+	// LLM is not skipped and there are unmapped sections, so attempt to map them using LLM
+	if !skipLLM && len(unmappedExternalSections) > 0 && len(unmappedInternalSections) > 0 {
 		fmt.Printf("using LLM to attempt to map %d sections to %d unused external sections\n", len(unmappedInternalSections), len(unmappedExternalSections))
 		aiSectionMap, err := aiMapSections(unmappedExternalSections, unmappedInternalSections)
 		if err != nil {
