@@ -13,7 +13,7 @@ RUN:
 `go run main.go -v <venue_id> -e <event_id>` 
 - optionally pass `--db <DB_CONN STRING>`
 - optionally pass `--input-source <'da' or 'hex'>` - assure you have either a DA or Hex DB correct in the --db flag or DB_CONN_STRING .env value.
-- venue is the Hexagon venue ID. 
+- venue is the Hexagon or DA venue ID. 
 - event is a TicketMaster Event ID for the team/venue.
 
 
@@ -47,4 +47,6 @@ Output results are stored in ./results and named `output_<venue_id>_<event_id>.j
 TicketMaster Data
 
 ./ticketmaster_data stores data that we've collected from TicketMaster APIs
-- tm_events and attractions.json use DA projectIDs to denote team - needs update
+
+API
+https://app.ticketmaster.com/discovery/v2/events.json?apikey={apikey}

@@ -15,18 +15,22 @@ import (
 	"github.com/joho/godotenv"
 )
 
+/*
+	Uses the TM API to fetch all events for a given team abbreviation (e.g. lad)
+*/
+
 const (
 	attractionsFile = "ticketmaster_data/attractions.json"
 	tmEventsURL     = "https://app.ticketmaster.com/discovery/v2/events.json"
 	pageSize        = 200
 )
 
-var projectId = flag.Int("p", 0, "Project ID")
+var teamAbbreviation = flag.String("t", "", "Team Abbrevation, e.g. 'atb', 'bao'")
 
 func main() {
 	flag.Parse()
-	if *projectId == 0 {
-		log.Fatal("project_id is required")
+	if *teamAbbreviation == "" {
+		log.Fatal("team abbreviation is required")
 	}
 
 	if err := godotenv.Load(); err != nil {
@@ -38,7 +42,7 @@ func main() {
 		log.Fatal("TM_API_KEY not found in environment or .env")
 	}
 
-	attractionId, err := loadAttractionID(attractionsFile, *projectId)
+	attractionId, err := loadAttractionID(attractionsFile, *teamAbbreviation)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -48,10 +52,19 @@ func main() {
 		log.Fatal(err)
 	}
 
-	fmt.Println(eventIds)
+	f, err := os.Create(fmt.Sprintf("%s_tm_events.json", *teamAbbreviation))
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer f.Close()
+	err = json.NewEncoder(f).Encode(eventIds)
+	if err != nil {
+		log.Fatal(err)
+	}
+
 }
 
-func loadAttractionID(path string, projectId int) (string, error) {
+func loadAttractionID(path string, teamAbbreviation string) (string, error) {
 	data, err := os.ReadFile(path)
 	if err != nil {
 		return "", fmt.Errorf("attractions.json not found: %s: %w", path, err)
@@ -60,9 +73,9 @@ func loadAttractionID(path string, projectId int) (string, error) {
 	if err := json.Unmarshal(data, &attractions); err != nil {
 		return "", fmt.Errorf("parsing attractions.json: %w", err)
 	}
-	attractionId, ok := attractions[strconv.Itoa(projectId)]
+	attractionId, ok := attractions[teamAbbreviation]
 	if !ok || attractionId == "" {
-		return "", fmt.Errorf("no attraction ID found for project %d in %s", projectId, path)
+		return "", fmt.Errorf("no attraction ID found for team %s in %s", teamAbbreviation, path)
 	}
 	return attractionId, nil
 }
