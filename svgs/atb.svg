@@ -1,0 +1,1501 @@
+<svg data-component="svg" class="map__svg" viewBox="0 0 10240 7680"
+  style="background-image: url(&quot;https://mapsapi.tmol.io/maps/geometry/image/62/0/620099?removeFilters=ISM_Shadow&amp;avertaFonts=true&amp;app=PRD2663_EDP_NA&quot;); transform: rotate(0deg);">
+  <g class="seats"></g>
+  <g class="polygons">
+    <path data-component="svg__section" data-section-id="s_370" data-section-name="148"
+      class="block is-available is-filtered minimum"
+      d="M3831.48,680.05L3627.42,766.89L3483.2,868.684L3891.65,1445.64L3960.49,1397.34L4110.66,1333.71L3831.48,680.05Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_371" data-section-name="149"
+      class="block is-available is-filtered middle"
+      d="M4108.86,562.05L3831.5,680.071L4110.65,1333.72L4388.55,1215.97L4108.86,562.05Z"></path>
+    <path data-component="svg__section" data-section-id="s_372" data-section-name="150"
+      class="block is-available is-filtered middle"
+      d="M4390.3,442.25L4108.85,562.015L4388.53,1215.92L4670.24,1096.55L4390.3,442.25Z"></path>
+    <path data-component="svg__section" data-section-id="s_131" data-section-name="415"
+      class="block is-available is-filtered middle"
+      d="M8511.66,4185.9L8191.05,4560.16L8509.92,4833.51L8830.53,4459.25L8511.66,4185.9Z"></path>
+    <path data-component="svg__section" data-section-id="s_373" data-section-name="151"
+      class="block is-available is-filtered middle"
+      d="M4427.37,427.35L4390.35,442.169L4670.26,1096.53L4810.91,1037.23L4836.47,1036.99L4767.17,653.789L4427.37,427.35Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_133" data-section-name="143"
+      class="block is-available is-filtered middle"
+      d="M2802.3,1827.05L2781.29,1874.58L2744.65,2380.39L3313.94,2404.07L3316.71,2332.98L2802.3,1827.05Z"></path>
+    <path data-component="svg__section" data-section-id="s_135" data-section-name="322"
+      class="block is-available is-filtered minimum"
+      d="M6668.7,5506.65L6668.7,5506.65C6519.24,5681.08,6369.77,5855.52,6365.5,5860.42C6365.5,5860.42,6729.44,6173.4,6729.44,6173.4C6734.08,6168.06,6883.36,5993.84,7032.63,5819.62L7032.63,5819.62L6668.7,5506.65Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_137" data-section-name="416"
+      class="block is-available is-filtered minimum"
+      d="M8191.02,4560.15L7861.4,4944.93L8180.27,5218.28L8509.89,4833.5L8191.02,4560.15Z"></path>
+    <path data-component="svg__section" data-section-id="p_281" data-section-name="130 TABLES" class="block is-ga"
+      d="M4200.98,4540.15L3995.05,4717.1L4102.34,4842.32L4308.39,4665.35L4200.98,4540.15Z"></path>
+    <path data-component="svg__section" data-section-id="s_138" data-section-name="144"
+      class="block is-available is-filtered middle"
+      d="M2872.68,1667.85L2802.3,1827.07L3148.82,2167.46L3287.69,1851.95L2872.68,1667.85Z"></path>
+    <path data-component="svg__section" data-section-id="s_259" data-section-name="109" class="block"
+      d="M6951.18,2373.58L6949.78,2371.88L6959.61,2623.9L7169.65,2615.39L6970.77,2359.01L6951.18,2373.58Z"></path>
+    <path data-component="svg__section" data-section-id="p_280" data-section-name="122 TABLES" class="block is-ga"
+      d="M6023.0,4552.05L5896.45,4701.7L5914.4,4717.14L5935.46,4692.56L6124.52,4855.19L6230.97,4730.96L6023.0,4552.05Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_159"
+      data-section-name="230 - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M4093.1,4921.9L3920.35,5073.67L4138.17,5325.22C4137.09,5323.51,4136.01,5321.79,4136.01,5321.79C4152.05,5341.07,4168.64,5359.86,4185.77,5378.15C4185.77,5378.15,4349.17,5216.19,4349.17,5216.19L4349.17,5216.19C4336.66,5202.66,4214.88,5062.28,4093.1,4921.9Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_70" data-section-name="113"
+      class="block is-available is-filtered minimum"
+      d="M6802.78,3203.95L6581.75,3461.86L7006.16,3826.36L7226.48,3569.19L6802.78,3203.95Z"></path>
+    <path data-component="svg__section" data-section-id="p_399" data-section-name="SUITE 20 - Xfinity Suite"
+      class="block is-ga"
+      d="M6115.23,5586.45C6084.58,5614.6,6052.72,5641.46,6019.75,5666.95C6019.75,5666.95,6166.94,5869.11,6166.94,5869.11C6205.49,5839.57,6242.75,5808.43,6278.62,5775.79L6278.62,5775.79C6278.62,5775.79,6196.93,5681.12,6115.23,5586.45Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_72" data-section-name="114"
+      class="block is-available is-filtered minimum"
+      d="M6581.79,3461.9L6361.35,3719.21L6785.61,4083.71L7006.1,3826.42L6581.79,3461.9Z"></path>
+    <path data-component="svg__section" data-section-id="s_71" data-section-name="211"
+      class="block is-available is-filtered minimum"
+      d="M8010.5,2282.65L7592.25,2314.46L7616.81,2650.18L8035.35,2618.35L8010.5,2282.65Z"></path>
+    <path data-component="svg__section" data-section-id="p_397" data-section-name="SUITE 19 - Xfinity Suite"
+      class="block is-ga"
+      d="M6284.76,5405.1L6284.76,5405.1C6250.39,5444.95,6216.02,5484.79,6198.57,5503.58C6171.91,5532.28,6144.11,5559.95,6115.25,5586.44C6115.25,5586.44,6278.64,5775.78,6278.64,5775.78C6312.41,5745.05,6344.93,5712.97,6376.16,5679.66C6398.03,5656.34,6435.76,5612.69,6473.49,5569.05L6473.49,5569.05L6284.76,5405.1Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_398" data-section-name="SUITE 2 - Champions Suite"
+      class="block is-ga"
+      d="M5577.75,5005.4C5567.22,5010.97,5556.59,5016.36,5545.84,5021.56C5510.04,5038.88,5473.04,5054.11,5435.0,5067.08C5435.0,5067.08,5512.38,5304.06,5512.38,5304.06C5573.97,5283.32,5633.38,5257.85,5690.18,5228.08L5690.18,5228.08C5690.18,5228.08,5633.96,5116.74,5577.75,5005.4Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_156"
+      data-section-name="229 TABLES - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M4185.75,5378.15C4118.22,5445.05,4050.7,5511.96,4050.7,5511.96C4125.98,5591.76,4210.11,5663.13,4301.51,5724.51C4314.2,5733.02,4327.02,5741.35,4339.98,5749.48C4339.98,5749.48,4438.28,5586.81,4438.28,5586.81C4427.92,5580.27,4417.66,5573.59,4407.5,5566.77L4407.5,5566.77C4326.56,5512.42,4252.16,5449.07,4185.75,5378.15Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_395"
+      data-section-name="SUITE 16 - Party Suite - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 20 tickets."
+      class="block is-ga" d="M8060.15,2953.2L8016.95,3095.76L8256.0,3168.82L8312.85,2981.3L8060.15,2953.2Z"></path>
+    <path data-component="svg__section" data-section-id="p_396" data-section-name="SUITE 18 - Xfinity Suite"
+      class="block is-ga" d="M6446.9,5217.85L6284.75,5405.1L6473.48,5569.05L6634.14,5383.52L6446.9,5217.85Z"></path>
+    <path data-component="svg__section" data-section-id="s_78" data-section-name="214"
+      class="block is-available is-filtered middle"
+      d="M7507.73,3327.6L7496.73,3363.86L7332.25,3553.81L7719.02,3889.2L7955.6,3616.07L7998.24,3477.68L7507.73,3327.6Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_77" data-section-name="120" class="block"
+      d="M5985.27,4158.1L5806.95,4366.22L6231.01,4731.03L6408.71,4523.64L5985.27,4158.1Z"></path>
+    <path data-component="svg__section" data-section-id="s_79" data-section-name="215"
+      class="block is-available is-filtered minimum"
+      d="M7332.28,3553.8L7109.7,3810.84L7563.01,4203.92L7785.59,3946.88L7332.28,3553.8Z"></path>
+    <path data-component="svg__section" data-section-id="s_74" data-section-name="212"
+      class="block is-available is-filtered minimum"
+      d="M8035.33,2618.35L7616.79,2650.18L7635.5,2905.98L7615.2,2972.95L8016.91,3095.73L8060.12,2953.21L8035.33,2618.35Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_73" data-section-name="116"
+      class="block is-available is-filtered minimum"
+      d="M6361.35,3719.15L6174.0,3937.9L6596.86,4304.0L6785.63,4083.7L6361.35,3719.15Z"></path>
+    <path data-component="svg__section" data-section-id="s_76" data-section-name="213"
+      class="block is-available is-filtered middle"
+      d="M7615.25,2973.0L7507.75,3327.58L8081.58,3502.97L8189.05,3148.38L7615.25,2973.0Z"></path>
+    <path data-component="svg__section" data-section-id="s_75" data-section-name="118" class="block"
+      d="M6173.97,3937.8L5985.2,4158.09L6408.76,4523.69L6596.86,4304.0L6173.97,3937.8Z"></path>
+    <path data-component="svg__section" data-section-id="s_141" data-section-name="323" class="block"
+      d="M6365.5,5860.45C6289.6,5947.62,6204.72,6026.76,6112.3,6096.44C6112.3,6096.44,6396.71,6483.13,6396.71,6483.13C6518.34,6391.94,6629.91,6288.05,6729.44,6173.43L6729.44,6173.43C6729.44,6173.43,6547.47,6016.94,6365.5,5860.45Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_142" data-section-name="145"
+      class="block is-available is-filtered middle"
+      d="M2989.78,1402.85L2872.65,1667.84L3287.66,1851.94L3404.37,1586.76L2989.78,1402.85Z"></path>
+    <path data-component="svg__section" data-section-id="s_143" data-section-name="417"
+      class="block is-available is-filtered middle"
+      d="M7861.41,4944.95L7540.8,5319.21L7859.67,5592.56L8180.28,5218.3L7861.41,4944.95Z"></path>
+    <path data-component="svg__section" data-section-id="s_144" data-section-name="146"
+      class="block is-available is-filtered minimum"
+      d="M3258.89,1077.05L3079.29,1201.76L2989.8,1402.76L3404.39,1586.68L3431.02,1526.17L3589.65,1657.45L3642.79,1620.17L3258.89,1077.05Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_386" data-section-name="347"
+      class="block is-available is-filtered middle"
+      d="M2092.6,514.2L1914.25,897.722L2350.4,1101.84L2473.9,838.1L2092.6,514.2Z"></path>
+    <path data-component="svg__section" data-section-id="s_147" data-section-name="418"
+      class="block is-available is-filtered middle"
+      d="M7540.8,5319.2L7216.6,5697.66L7535.47,5971.01L7859.67,5592.55L7540.8,5319.2Z"></path>
+    <path data-component="svg__section" data-section-id="s_148" data-section-name="324" class="block"
+      d="M6112.34,6096.45C6002.84,6179.01,5882.76,6248.29,5754.5,6301.88C5754.5,6301.88,5858.44,6551.17,5858.44,6551.17C5913.85,6528.02,5967.95,6502.36,6020.59,6474.33C6084.46,6440.32,6146.19,6402.81,6205.52,6362.07C6228.15,6346.53,6250.44,6330.51,6272.37,6314.03L6272.37,6314.03C6272.37,6314.03,6192.35,6205.24,6112.34,6096.45Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_292"
+      data-section-name="HANK AARON TERRACE - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 20 tickets."
+      class="block is-ga"
+      d="M2506.6,883.95L2000.48,1983.17L1998.2,2014.51L2066.74,2031.44L2554.79,924.58L2506.6,883.95Z"></path>
+    <path data-component="svg__section" data-section-id="p_172"
+      data-section-name="231 - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga" d="M3951.6,4758.5L3634.3,5033.67L3777.56,5199.11L4093.1,4921.9L3951.6,4758.5Z"></path>
+    <path data-component="svg__section" data-section-id="s_61" data-section-name="38"
+      class="block is-available is-filtered minimum"
+      d="M3810.07,3094.2L3537.35,3328.51L3665.03,3477.53L3937.75,3243.22L3810.07,3094.2Z"></path>
+    <path data-component="svg__section" data-section-id="s_60" data-section-name="37"
+      class="block is-available is-filtered minimum"
+      d="M3937.77,3243.2L3665.05,3477.51L3791.14,3624.68L4063.87,3390.37L3937.77,3243.2Z"></path>
+    <path data-component="svg__section" data-section-id="p_166"
+      data-section-name="230 TABLES - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M3920.33,5073.65L3777.55,5199.09L3994.46,5449.57C3992.17,5446.44,3989.89,5443.32,3989.89,5443.32C4009.45,5466.82,4029.74,5489.71,4050.71,5511.94C4050.71,5511.94,4185.75,5378.13,4185.75,5378.13C4168.62,5359.84,4152.03,5341.04,4135.98,5321.77C4135.98,5321.77,4137.07,5323.48,4138.15,5325.19L4138.15,5325.19L3920.33,5073.65Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_67" data-section-name="111"
+      class="block is-available is-filtered minimum"
+      d="M7515.26,2789.25L6933.29,2812.72L6935.02,2861.65L6895.65,2987.55L7438.45,3159.25L7517.02,2914.77L7515.26,2789.25Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_66" data-section-name="110"
+      class="block is-available is-filtered minimum"
+      d="M7481.67,2602.75L6959.5,2623.9L6929.0,2695.44L6933.17,2812.76L7515.17,2789.26L7513.08,2643.51L7481.67,2602.75Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_69" data-section-name="210"
+      class="block is-available is-filtered middle"
+      d="M7986.98,1964.65L7579.1,2134.45L7592.27,2314.44L8010.52,2282.63L7986.98,1964.65Z"></path>
+    <path data-component="svg__section" data-section-id="s_68" data-section-name="112"
+      class="block is-available is-filtered middle"
+      d="M6895.63,2987.65L6842.56,3157.56L6802.75,3203.96L7226.56,3569.21L7354.39,3419.94L7438.33,3159.2L6895.63,2987.65Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_63" data-section-name="40"
+      class="block is-available is-filtered middle"
+      d="M3608.87,2883.35L3324.8,2972.31L3383.99,3149.42L3644.15,2999.87L3608.87,2883.35Z"></path>
+    <path data-component="svg__section" data-section-id="s_62" data-section-name="39"
+      class="block is-available is-filtered middle"
+      d="M3667.95,2864.85L3608.8,2883.35L3644.14,2999.88L3383.9,3149.49L3537.27,3328.43L3810.0,3094.12L3697.5,2961.35L3667.95,2864.85Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_65" data-section-name="42"
+      class="block is-available is-filtered middle"
+      d="M3316.73,2332.95L3303.0,2684.71L3653.9,2699.15L3653.99,2665.36L3316.73,2332.95Z"></path>
+    <path data-component="svg__section" data-section-id="s_64" data-section-name="41"
+      class="block is-available is-filtered minimum"
+      d="M3303.01,2684.7L3296.35,2854.43L3653.62,2799.51L3653.91,2699.14L3303.01,2684.7Z"></path>
+    <path data-component="svg__section" data-section-id="p_27"
+      data-section-name="4 - Truist Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M5298.68,4391.6C5293.24,4395.46,5287.68,4399.16,5282.0,4402.68C5272.76,4408.4,5263.21,4413.65,5253.37,4418.41C5237.24,4426.21,5220.36,4432.68,5202.85,4437.68C5202.85,4437.68,5237.11,4574.5,5237.11,4574.5C5238.91,4574.02,5240.7,4573.53,5242.49,4573.03C5268.66,4565.71,5293.88,4556.12,5317.92,4544.49C5332.14,4537.61,5345.94,4530.02,5359.28,4521.76C5363.76,4518.99,5368.19,4516.14,5372.56,4513.21L5372.56,4513.21C5372.56,4513.21,5335.62,4452.41,5298.68,4391.6Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_28"
+      data-section-name="5 - Truist Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M5202.81,4437.65C5202.26,4437.81,5201.71,4437.96,5201.16,4438.12C5174.1,4445.69,5145.56,4449.75,5116.08,4449.75C5107.98,4449.75,5099.96,4449.45,5092.02,4448.84C5092.02,4448.84,5081.75,4588.24,5081.75,4588.24C5094.25,4589.28,5106.89,4589.81,5119.66,4589.81C5160.26,4589.81,5199.62,4584.45,5237.08,4574.46L5237.08,4574.46C5237.08,4574.46,5219.94,4506.06,5202.81,4437.65Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_29"
+      data-section-name="6 - Truist Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M4939.05,4395.4C4901.55,4453.36,4864.05,4511.32,4864.05,4511.32C4871.33,4516.26,4878.75,4520.99,4886.32,4525.51C4909.1,4539.11,4933.16,4550.79,4958.29,4560.31C4973.21,4565.97,4988.5,4570.86,5004.12,4574.95C5029.22,4581.53,5055.17,4586.04,5081.76,4588.24C5081.76,4588.24,5092.03,4448.85,5092.03,4448.85C5072.83,4447.39,5054.11,4444.21,5036.02,4439.47C5025.22,4436.64,5014.65,4433.26,5004.33,4429.35C4986.94,4422.75,4970.29,4414.67,4954.52,4405.26L4954.52,4405.26C4949.26,4402.12,4944.11,4398.83,4939.05,4395.4Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_152" data-section-name="325" class="block"
+      d="M5754.5,6301.85C5630.76,6353.55,5499.42,6390.67,5362.6,6411.03C5362.6,6411.03,5402.31,6678.19,5402.31,6678.19C5497.27,6664.06,5589.97,6642.98,5679.88,6615.52C5740.73,6596.94,5800.31,6575.42,5858.44,6551.13L5858.44,6551.13C5858.44,6551.13,5806.47,6426.49,5754.5,6301.85Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_153" data-section-name="420"
+      class="block is-available is-filtered middle"
+      d="M7216.61,5697.65L6896.0,6071.91L7214.87,6345.26L7535.48,5971.0L7216.61,5697.65Z"></path>
+    <path data-component="svg__section" data-section-id="s_154" data-section-name="326" class="block"
+      d="M5362.6,6411.05C5282.39,6422.99,5200.31,6429.18,5116.78,6429.18C5035.65,6429.18,4955.88,6423.34,4877.87,6412.06C4877.87,6412.06,4838.2,6679.22,4838.2,6679.22C4929.16,6692.42,5022.18,6699.26,5116.8,6699.26C5213.81,6699.26,5309.15,6692.07,5402.3,6678.21L5402.3,6678.21C5402.3,6678.21,5382.45,6544.63,5362.6,6411.05Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_24"
+      data-section-name="1 - Truist Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga" d="M5540.6,4122.95L5478.35,4195.6L5585.9,4289.6L5648.89,4215.97L5540.6,4122.95Z"></path>
+    <path data-component="svg__section" data-section-id="s_155" data-section-name="422"
+      class="block is-available is-filtered middle"
+      d="M6896.02,6071.9L6896.02,6071.9C6803.93,6179.4,6711.84,6286.9,6711.84,6286.9C6635.97,6376.28,6552.73,6459.2,6463.05,6534.72C6463.05,6534.72,6737.78,6852.44,6737.78,6852.44C6843.51,6763.01,6941.74,6664.99,7031.39,6559.46C7031.39,6559.46,7123.14,6452.35,7214.89,6345.25L7214.89,6345.25L6896.02,6071.9Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_25"
+      data-section-name="2 - Truist Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga" d="M5478.37,4195.6L5415.85,4268.55L5524.5,4361.25L5585.87,4289.54L5478.37,4195.6Z"></path>
+    <path data-component="svg__section" data-section-id="p_26"
+      data-section-name="3 - Truist Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M5415.89,4268.55L5415.89,4268.55C5378.89,4311.57,5341.9,4354.58,5341.9,4354.58C5330.1,4366.67,5317.32,4377.8,5303.72,4387.88C5302.05,4389.11,5300.34,4390.31,5298.65,4391.52C5298.65,4391.52,5372.53,4513.13,5372.53,4513.13C5374.98,4511.49,5377.43,4509.84,5379.84,4508.16C5403.53,4491.66,5425.6,4473.0,5445.69,4452.4C5445.69,4452.4,5448.4,4449.62,5451.11,4446.85L5451.11,4446.85L5524.47,4361.23L5415.89,4268.55Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_380"
+      data-section-name="259 - Chophouse Deck - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 15 tickets."
+      class="block is-ga" d="M6962.41,1764.65L6883.35,1825.72L7050.36,2042.38L7129.42,1981.3L6962.41,1764.65Z"></path>
+    <path data-component="svg__section" data-section-id="p_379"
+      data-section-name="257 - Chophouse Deck - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 15 tickets."
+      class="block is-ga" d="M6632.11,1335.21L6553.05,1396.28L6718.27,1610.98L6797.33,1549.91L6632.11,1335.21Z"></path>
+    <path data-component="svg__section" data-section-id="p_258" data-section-name="108 - Chophouse Terrace Seating"
+      class="block is-ga" d="M7339.66,2417.79L7136.78,2572.78L7169.66,2615.35L7481.71,2602.7L7339.66,2417.79Z"></path>
+    <path data-component="svg__section" data-section-id="p_377"
+      data-section-name="155 - The Pen- To learn more about The Pen seating area please visit Braves.com/ThePen"
+      class="block is-ga"
+      d="M6400.1,881.4L6128.3,1401.61L6186.51,1431.61L6206.45,1458.39L6424.61,1229.72L6634.4,1002.6L6400.1,881.4Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_378"
+      data-section-name="250 - The Home Depot Clubhouse - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 40 tickets."
+      class="block is-ga" d="M4049.8,299.832L4316.36,186.0L4376.31,326.383L4109.75,440.215L4049.8,299.832Z"></path>
+    <path data-component="svg__section" data-section-id="p_257" data-section-name="107 - Chophouse Terrace Seating"
+      class="block is-ga"
+      d="M7134.92,2152.45L6912.55,2324.21L6951.17,2373.45L6970.88,2358.81L7136.64,2572.66L7339.51,2417.69L7134.92,2152.45Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_136"
+      data-section-name="227 TABLES - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M4739.05,5725.7C4711.42,5816.61,4683.8,5907.52,4683.8,5907.52C4692.88,5910.34,4702.0,5913.07,4711.16,5915.72C4784.87,5937.06,4860.96,5952.82,4938.95,5962.46C4938.95,5962.46,4961.71,5773.81,4961.71,5773.81C4894.05,5765.42,4828.02,5751.74,4764.06,5733.22L4764.06,5733.22C4755.68,5730.8,4747.35,5728.29,4739.05,5725.7Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_375"
+      data-section-name="153 - The Pen- To learn more about The Pen seating area please visit Braves.com/ThePen"
+      class="block is-ga" d="M5793.85,564.15L5594.0,946.561L5898.8,1105.82L6098.6,723.47L5793.85,564.15Z"></path>
+    <path data-component="svg__section" data-section-id="p_376"
+      data-section-name="154 - The Pen- To learn more about The Pen seating area please visit Braves.com/ThePen"
+      class="block is-ga"
+      d="M6098.51,723.55L5898.75,1105.8L6086.11,1204.12L6013.8,1341.95L6128.3,1401.58L6400.15,881.425L6098.51,723.55Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_374"
+      data-section-name="152 - The Pen- To learn more about The Pen seating area please visit Braves.com/ThePen"
+      class="block is-ga"
+      d="M5610.88,469.9L5559.48,555.176L5457.95,628.183L5404.04,849.414L5594.04,946.573L5793.89,564.134L5610.88,469.9Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_96" data-section-name="131" class="block"
+      d="M4245.26,4154.65L3823.5,4516.88L3995.07,4717.12L4416.76,4354.82L4245.26,4154.65Z"></path>
+    <path data-component="svg__section" data-section-id="p_139"
+      data-section-name="228 - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M4557.25,5389.95C4497.8,5488.4,4438.35,5586.86,4438.35,5586.86C4497.3,5624.03,4559.5,5656.53,4624.41,5683.84C4661.76,5699.56,4700.01,5713.55,4739.05,5725.73C4739.05,5725.73,4805.95,5505.68,4805.95,5505.68L4805.95,5505.68C4717.44,5477.92,4633.97,5438.78,4557.25,5389.95Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_98" data-section-name="312"
+      class="block is-available is-filtered middle"
+      d="M8848.94,2692.4L8369.9,2722.71L8389.35,3042.36L8873.45,3095.24L8848.94,2692.4Z"></path>
+    <path data-component="svg__section" data-section-id="s_97" data-section-name="133" class="block"
+      d="M4039.39,3914.45L3617.7,4276.75L3823.42,4516.87L4245.18,4154.64L4039.39,3914.45Z"></path>
+    <path data-component="svg__section" data-section-id="s_282" data-section-name="435"
+      class="block is-available is-filtered minimum"
+      d="M2379.2,4953.95L2060.0,5226.92L2385.01,5606.54L2704.21,5333.57L2379.2,4953.95Z"></path>
+    <path data-component="svg__section" data-section-id="s_162" data-section-name="423"
+      class="block is-available is-filtered middle"
+      d="M6463.03,6534.75C6380.65,6604.12,6292.85,6667.25,6200.35,6723.41C6200.35,6723.41,6422.38,7079.95,6422.38,7079.95C6461.66,7056.0,6500.24,7031.0,6538.06,7004.99C6607.21,6957.45,6673.85,6906.53,6737.76,6852.47L6737.76,6852.47C6737.76,6852.47,6600.39,6693.61,6463.03,6534.75Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_283" data-section-name="437" class="block"
+      d="M2057.95,4578.75L1738.75,4851.72L2060.0,5226.95L2379.2,4953.98L2057.95,4578.75Z"></path>
+    <path data-component="svg__section" data-section-id="s_163" data-section-name="327" class="block is-available"
+      d="M4484.97,6304.3C4433.03,6428.95,4381.1,6553.6,4381.1,6553.6C4447.88,6581.23,4516.54,6605.22,4586.85,6625.31C4668.54,6648.66,4752.45,6666.76,4838.18,6679.2C4838.18,6679.2,4877.86,6412.05,4877.86,6412.05L4877.86,6412.05C4740.74,6392.22,4609.06,6355.59,4484.97,6304.3Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_284" data-section-name="438"
+      class="block is-available is-filtered minimum"
+      d="M1730.9,4196.7L1411.7,4469.67L1738.78,4851.71L2057.98,4578.74L1730.9,4196.7Z"></path>
+    <path data-component="svg__section" data-section-id="s_164" data-section-name="328" class="block"
+      d="M4128.56,6101.9C4048.55,6210.68,3968.55,6319.45,3968.55,6319.45C3997.12,6340.71,4026.29,6361.19,4056.05,6380.87C4157.46,6447.93,4265.59,6505.65,4379.2,6552.81C4379.84,6553.07,4380.48,6553.34,4381.12,6553.6C4381.12,6553.6,4484.99,6304.3,4484.99,6304.3L4484.99,6304.3C4357.36,6251.55,4237.77,6183.3,4128.56,6101.9Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_165" data-section-name="424"
+      class="block is-available is-filtered middle"
+      d="M6200.34,6723.4C6077.52,6797.97,5946.4,6860.25,5808.7,6908.54C5808.7,6908.54,5968.38,7297.52,5968.38,7297.52C6081.79,7256.63,6191.41,7207.81,6296.59,7151.74C6339.26,7128.99,6381.21,7105.04,6422.38,7079.94L6422.38,7079.94C6422.38,7079.94,6311.36,6901.67,6200.34,6723.4Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_393"
+      data-section-name="SUITE 14 - Party Suite - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 32 tickets."
+      class="block is-ga" d="M8287.17,2628.1L8037.45,2647.09L8050.01,2816.81L8299.5,2797.84L8287.17,2628.1Z"></path>
+    <path data-component="svg__section" data-section-id="p_151"
+      data-section-name="229 - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M4349.15,5216.2C4267.45,5297.18,4185.75,5378.16,4185.75,5378.16C4252.16,5449.08,4326.56,5512.43,4407.5,5566.79C4417.68,5573.62,4427.96,5580.31,4438.34,5586.86C4438.34,5586.86,4557.25,5389.95,4557.25,5389.95L4557.25,5389.95C4480.55,5341.14,4410.61,5282.65,4349.15,5216.2Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_394"
+      data-section-name="SUITE 15 - Party Suite - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 24 tickets."
+      class="block is-ga" d="M8299.54,2797.85L8050.05,2816.82L8060.14,2953.14L8312.85,2981.26L8299.54,2797.85Z"></path>
+    <path data-component="svg__section" data-section-id="p_391"
+      data-section-name="SUITE 12 - Party Suite - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 36 tickets."
+      class="block is-ga" d="M8257.23,2215.9L8006.95,2234.93L8022.52,2445.32L8272.52,2426.31L8257.23,2215.9Z"></path>
+    <path data-component="svg__section" data-section-id="p_392"
+      data-section-name="SUITE 13 - Party Suite - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 36 tickets."
+      class="block is-ga" d="M8272.54,2426.35L8022.55,2445.36L8037.49,2647.11L8287.2,2628.12L8272.54,2426.35Z"></path>
+    <path data-component="svg__section" data-section-id="p_390"
+      data-section-name="SUITE 11 - Party Suite - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 52 tickets."
+      class="block is-ga" d="M8231.58,1862.85L7986.95,1964.69L8006.96,2234.98L8257.24,2215.95L8231.58,1862.85Z"></path>
+    <path data-component="svg__section" data-section-id="s_81" data-section-name="216"
+      class="block is-available is-filtered minimum"
+      d="M7109.71,3810.8L6867.05,4091.02L7255.22,4427.38L7495.83,4145.53L7109.71,3810.8Z"></path>
+    <path data-component="svg__section" data-section-id="p_388" data-section-name="SUITE 1 - Champions Suite"
+      class="block is-ga"
+      d="M5714.07,4918.2C5688.78,4937.48,5662.52,4955.57,5635.38,4972.37C5616.58,4984.01,5597.36,4995.04,5577.75,5005.42C5577.75,5005.42,5690.19,5228.1,5690.19,5228.1C5749.94,5196.79,5806.81,5160.71,5860.28,5120.37L5860.28,5120.37C5860.28,5120.37,5787.18,5019.29,5714.07,4918.2Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_83" data-section-name="217"
+      class="block is-available is-filtered middle"
+      d="M6867.06,4091.05L6628.7,4366.3L7016.85,4702.63L7255.21,4427.38L6867.06,4091.05Z"></path>
+    <path data-component="svg__section" data-section-id="p_389" data-section-name="SUITE 10 - Champions Suite"
+      class="block is-ga"
+      d="M4288.94,4682.05L4102.35,4842.36C4130.29,4874.97,4158.24,4907.59,4158.24,4907.59C4182.1,4937.27,4207.32,4965.82,4233.79,4993.16C4233.79,4993.16,4321.42,4906.63,4409.05,4820.1L4409.05,4820.1L4394.02,4804.69L4288.94,4682.05Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_387"
+      data-section-name="59 - Below the Chop - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 60 tickets."
+      class="block is-ga"
+      d="M6496.28,1782.57L6435.8,1828.78L6875.35,2399.0L6905.94,2368.81L6931.69,2348.86L6496.28,1782.57Z"></path>
+    <path data-component="svg__section" data-section-id="p_145"
+      data-section-name="228 TABLES - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M4438.3,5586.8C4389.15,5668.14,4340.0,5749.47,4340.0,5749.47C4406.81,5791.37,4477.22,5828.06,4550.67,5858.96C4594.03,5877.2,4638.45,5893.43,4683.81,5907.52C4683.81,5907.52,4739.06,5725.71,4739.06,5725.71C4700.01,5713.53,4661.76,5699.53,4624.42,5683.82L4624.42,5683.82C4559.48,5656.5,4497.27,5623.99,4438.3,5586.8Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_86" data-section-name="218" class="block"
+      d="M6628.67,4366.3L6392.35,4639.2L6845.65,5032.28L7081.97,4759.38L6628.67,4366.3Z"></path>
+    <path data-component="svg__section" data-section-id="s_171" data-section-name="329" class="block"
+      d="M3881.64,5875.85C3699.35,6032.01,3517.05,6188.17,3517.05,6188.17C3615.29,6299.23,3724.94,6399.97,3844.15,6488.57C3844.15,6488.57,4128.56,6101.89,4128.56,6101.89L4128.56,6101.89C4038.81,6034.99,3956.07,5959.21,3881.64,5875.85Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_49"
+      data-section-name="26 - Delta Club Premium Seating - To learn more about premium seating options please visit Brves.com/Premium"
+      class="block is-ga"
+      d="M4965.26,4562.9C4929.48,4667.45,4893.7,4771.99,4893.7,4771.99C4910.64,4777.92,4927.89,4783.2,4945.41,4787.79C4984.22,4797.95,5024.38,4804.79,5065.57,4807.9C5065.57,4807.9,5081.76,4588.26,5081.76,4588.26C5055.17,4586.05,5029.23,4581.55,5004.13,4574.97L5004.13,4574.97C4990.93,4571.51,4977.96,4567.48,4965.26,4562.9Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_46"
+      data-section-name="23 - Delta Club Premium Seating - To learn more about premium seating options please visit Brves.com/Premium"
+      class="block is-ga" d="M5579.1,4297.35L5485.8,4406.31L5650.88,4548.32L5743.15,4440.5L5579.1,4297.35Z"></path>
+    <path data-component="svg__section" data-section-id="s_210" data-section-name="340" class="block is-available"
+      d="M1952.77,3451.1L1495.95,3598.46L1618.77,3973.45L1642.58,4001.24L2071.98,3764.66L2045.26,3733.48L1952.77,3451.1Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_47"
+      data-section-name="24 - Delta Club Premium Seating - To learn more about premium seating options please visit Brves.com/Premium"
+      class="block is-ga"
+      d="M5485.83,4406.3L5451.09,4446.85C5448.38,4449.62,5445.68,4452.4,5445.68,4452.4C5423.53,4475.1,5399.02,4495.49,5372.55,4513.18C5372.55,4513.18,5486.06,4699.91,5486.06,4699.91C5527.5,4672.83,5565.78,4641.31,5600.21,4606.02C5600.21,4606.02,5605.39,4600.7,5610.58,4595.39L5610.58,4595.39L5650.91,4548.32L5485.83,4406.3Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_48"
+      data-section-name="25 - Delta Club Premium Seating - To learn more about premium seating options please visit Brves.com/Premium"
+      class="block is-ga"
+      d="M5372.53,4513.2C5368.15,4516.12,5363.73,4518.97,5359.25,4521.75C5345.9,4530.01,5332.1,4537.6,5317.89,4544.48C5293.84,4556.11,5268.62,4565.7,5242.46,4573.02C5239.07,4573.96,5235.66,4574.87,5232.24,4575.74C5196.25,4584.91,5158.5,4589.83,5119.66,4589.83C5106.89,4589.83,5094.24,4589.3,5081.73,4588.26C5081.73,4588.26,5065.55,4807.9,5065.55,4807.9C5082.44,4809.18,5099.5,4809.83,5116.71,4809.83C5174.24,4809.83,5230.07,4802.56,5283.37,4789.0C5288.53,4787.69,5293.66,4786.31,5298.77,4784.89C5337.62,4774.02,5375.06,4759.79,5410.76,4742.51C5431.84,4732.31,5452.32,4721.05,5472.11,4708.79C5476.79,4705.9,5481.43,4702.94,5486.04,4699.93L5486.04,4699.93C5486.04,4699.93,5429.28,4606.57,5372.53,4513.2Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_213" data-section-name="341"
+      class="block is-available is-filtered minimum"
+      d="M1840.2,3107.35L1355.15,3168.46L1495.96,3598.47L1952.79,3451.1L1840.2,3107.35Z"></path>
+    <path data-component="svg__section" data-section-id="s_214" data-section-name="241"
+      class="block is-available is-filtered middle"
+      d="M2604.77,2906.5L2097.5,2962.94L2186.31,3259.68L2667.58,3113.77L2604.77,2906.5Z"></path>
+    <path data-component="svg__section" data-section-id="p_44"
+      data-section-name="22 - Delta Club Premium Seating - To learn more about premium seating options please visit Brves.com/Premium"
+      class="block is-ga"
+      d="M5648.86,4215.95L5579.05,4297.45L5743.17,4440.59L5840.98,4326.43L5799.5,4290.8L5772.53,4322.18L5648.86,4215.95Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_100" data-section-name="135"
+      class="block is-available is-filtered minimum"
+      d="M3852.24,3696.0L3430.55,4058.3L3617.73,4276.76L4039.42,3914.46L3852.24,3696.0Z"></path>
+    <path data-component="svg__section" data-section-id="s_222" data-section-name="242"
+      class="block is-available is-filtered middle"
+      d="M2127.61,2504.8L2097.43,2962.81L2604.76,2906.49L2631.42,2541.8L2127.61,2504.8Z"></path>
+    <path data-component="svg__section" data-section-id="s_102" data-section-name="313"
+      class="block is-available is-filtered minimum"
+      d="M8389.32,3042.35L8393.21,3106.18L8288.8,3425.38L8744.75,3575.41L8877.88,3168.4L8873.43,3095.23L8389.32,3042.35Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_224" data-section-name="342"
+      class="block is-available is-filtered middle"
+      d="M1376.45,2818.15L1355.15,3168.38L1840.01,3106.76L1855.53,2847.87L1376.45,2818.15Z"></path>
+    <path data-component="svg__section" data-section-id="s_104" data-section-name="410"
+      class="block is-available is-filtered middle"
+      d="M9266.3,1719.2L8856.7,1895.45L8882.68,2303.17L9301.8,2275.9L9266.3,1719.2Z"></path>
+    <path data-component="svg__section" data-section-id="s_225" data-section-name="343"
+      class="block is-available is-filtered middle"
+      d="M1404.35,2359.35L1376.45,2818.16L1855.53,2847.88L1883.43,2389.07L1404.35,2359.35Z"></path>
+    <path data-component="svg__section" data-section-id="s_106" data-section-name="137"
+      class="block is-available is-filtered minimum"
+      d="M3663.04,3475.2L3241.35,3837.5L3430.53,4058.3L3852.23,3696.0L3663.04,3475.2Z"></path>
+    <path data-component="svg__section" data-section-id="s_108" data-section-name="314"
+      class="block is-available is-filtered minimum"
+      d="M8288.79,3425.4L8187.95,3733.69L8614.51,3973.58L8744.74,3575.43L8288.79,3425.4Z"></path>
+    <path data-component="svg__section" data-section-id="s_109" data-section-name="315"
+      class="block is-available is-filtered middle"
+      d="M8187.97,3733.7L7881.2,4091.7L8245.14,4404.67L8614.52,3973.6L8187.97,3733.7Z"></path>
+    <path data-component="svg__section" data-section-id="p_401" data-section-name="SUITE 22 - Xfinity Suite"
+      class="block is-ga"
+      d="M5913.3,5741.95C5882.85,5761.46,5851.63,5779.87,5819.7,5797.14C5817.22,5798.48,5814.74,5799.81,5812.25,5801.14C5812.25,5801.14,5924.67,6024.48,5924.67,6024.48C5929.34,6022.01,5934.0,6019.52,5938.65,6017.0C5974.08,5997.84,6008.76,5977.48,6042.64,5955.96L6042.64,5955.96C6042.64,5955.96,5977.97,5848.95,5913.3,5741.95Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_402" data-section-name="SUITE 23 - Xfinity Suite"
+      class="block is-ga"
+      d="M5812.26,5801.15C5776.1,5820.44,5739.03,5838.27,5701.15,5854.55C5701.15,5854.55,5795.12,6086.24,5795.12,6086.24C5839.28,6067.42,5882.5,6046.81,5924.68,6024.49L5924.68,6024.49C5924.68,6024.49,5868.47,5912.82,5812.26,5801.15Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_400" data-section-name="SUITE 21 - Xfinity Suite"
+      class="block is-ga"
+      d="M6019.75,5666.95C6000.93,5681.5,5981.74,5695.6,5962.21,5709.24C5946.14,5720.47,5929.83,5731.38,5913.3,5741.97C5913.3,5741.97,6042.64,5955.98,6042.64,5955.98C6063.88,5942.49,6084.79,5928.55,6105.38,5914.17C6126.25,5899.6,6146.77,5884.58,6166.94,5869.12L6166.94,5869.12C6166.94,5869.12,6093.34,5768.03,6019.75,5666.95Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_409" data-section-name="SUITE 3 - Champions Suite"
+      class="block is-ga"
+      d="M5434.98,5067.1C5417.64,5073.02,5400.08,5078.47,5382.32,5083.43C5349.67,5092.57,5316.33,5100.08,5282.4,5105.86C5282.4,5105.86,5322.6,5351.46,5322.6,5351.46C5387.72,5340.63,5451.12,5324.7,5512.36,5304.08L5512.36,5304.08C5512.36,5304.08,5473.67,5185.59,5434.98,5067.1Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_30"
+      data-section-name="7 - Truist Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M4819.8,4272.65L4715.05,4361.44L4788.23,4446.85C4790.94,4449.62,4793.64,4452.4,4793.64,4452.4C4815.03,4474.32,4838.62,4494.09,4864.05,4511.35C4864.05,4511.35,4939.05,4395.43,4939.05,4395.43C4921.43,4383.47,4905.09,4369.77,4890.27,4354.58L4890.27,4354.58C4890.27,4354.58,4855.04,4313.62,4819.8,4272.65Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_31"
+      data-section-name="8 - Truist Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga" d="M4760.2,4203.1L4656.3,4292.89L4715.07,4361.47L4819.72,4272.72L4760.2,4203.1Z"></path>
+    <path data-component="svg__section" data-section-id="p_407" data-section-name="SUITE 28 - Xfinity Suite"
+      class="block is-ga"
+      d="M5008.54,5969.4C4998.72,6094.0,4988.9,6218.6,4988.9,6218.6C5032.41,6221.91,5076.38,6223.6,5120.74,6223.6C5123.43,6223.6,5126.11,6223.59,5128.8,6223.58C5128.8,6223.58,5128.8,5973.61,5128.8,5973.61C5126.11,5973.62,5123.41,5973.63,5120.72,5973.63L5120.72,5973.63C5082.98,5973.63,5045.57,5972.2,5008.54,5969.4Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_32"
+      data-section-name="9 - Truist Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga" d="M4696.36,4128.55L4592.2,4218.03L4656.32,4292.92L4760.22,4203.07L4696.36,4128.55Z"></path>
+    <path data-component="svg__section" data-section-id="p_408" data-section-name="SUITE 29 - Xfinity Suite"
+      class="block is-ga"
+      d="M4884.31,5954.65C4864.33,6078.03,4844.35,6201.41,4844.35,6201.41C4891.92,6209.11,4940.15,6214.87,4988.94,6218.58C4988.94,6218.58,5008.59,5969.39,5008.59,5969.39L5008.59,5969.39C4966.64,5966.21,4925.19,5961.27,4884.31,5954.65Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_405" data-section-name="SUITE 26 - Xfinity Suite"
+      class="block is-ga"
+      d="M5373.15,5952.0C5332.39,5959.07,5291.04,5964.45,5249.2,5968.09C5249.2,5968.09,5268.85,6217.29,5268.85,6217.29C5317.55,6213.12,5365.66,6206.92,5413.12,6198.77L5413.12,6198.77C5413.12,6198.77,5393.13,6075.39,5373.15,5952.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_406" data-section-name="SUITE 27 - Xfinity Suite"
+      class="block is-ga"
+      d="M5249.23,5968.05C5209.54,5971.5,5169.39,5973.36,5128.85,5973.58C5128.85,5973.58,5128.85,6223.55,5128.85,6223.55C5176.0,6223.34,5222.7,6221.21,5268.88,6217.26L5268.88,6217.26C5268.88,6217.26,5259.06,6092.65,5249.23,5968.05Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_403" data-section-name="SUITE 24 - Xfinity Suite"
+      class="block is-ga"
+      d="M5701.12,5854.55C5659.26,5872.54,5616.4,5888.65,5572.65,5902.76C5572.65,5902.76,5645.41,6141.95,5645.41,6141.95C5696.37,6125.64,5746.31,6107.04,5795.09,6086.24L5795.09,6086.24C5795.09,6086.24,5748.1,5970.4,5701.12,5854.55Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_404" data-section-name="SUITE 25 - Xfinity Suite"
+      class="block is-ga"
+      d="M5524.36,5917.45C5474.97,5931.53,5424.52,5943.09,5373.15,5952.0C5373.15,5952.0,5413.12,6198.77,5413.12,6198.77C5473.06,6188.48,5531.94,6175.09,5589.6,6158.79L5589.6,6158.79C5589.6,6158.79,5556.98,6038.12,5524.36,5917.45Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_230" data-section-name="243"
+      class="block is-available is-filtered middle"
+      d="M2067.22,2031.7L2033.05,2497.86L2631.43,2541.8L2658.05,2177.57L2067.22,2031.7Z"></path>
+    <path data-component="svg__section" data-section-id="s_111" data-section-name="138"
+      class="block is-available is-filtered middle"
+      d="M3445.75,3221.6L3024.05,3583.89L3241.35,3837.5L3663.04,3475.2L3445.75,3221.6Z"></path>
+    <path data-component="svg__section" data-section-id="s_113" data-section-name="411"
+      class="block is-available is-filtered middle"
+      d="M9301.86,2275.95L8882.76,2303.31L8914.49,2801.11L9333.63,2774.33L9301.86,2275.95Z"></path>
+    <path data-component="svg__section" data-section-id="s_234" data-section-name="344"
+      class="block is-available is-filtered middle"
+      d="M1522.66,1739.75L1429.9,1939.23L1404.35,2359.36L1883.43,2389.08L1903.7,2055.7L1956.57,1942.81L1522.66,1739.75Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_116" data-section-name="412"
+      class="block is-available is-filtered middle"
+      d="M9333.69,2774.35L8914.54,2801.13L8938.48,3176.09L8863.05,3406.7L9261.79,3538.62L9362.77,3229.91L9333.69,2774.35Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_117" data-section-name="140" class="block"
+      d="M3324.79,2972.35L2786.7,3139.61L2868.12,3401.87L3024.06,3583.86L3445.76,3221.57L3383.99,3149.48L3324.79,2972.35Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_118" data-section-name="316"
+      class="block is-available is-filtered minimum"
+      d="M7881.22,4091.7L7578.05,4445.5L7941.99,4758.47L8245.15,4404.67L7881.22,4091.7Z"></path>
+    <path data-component="svg__section" data-section-id="s_119" data-section-name="317"
+      class="block is-available is-filtered minimum"
+      d="M7578.03,4445.5L7273.25,4801.18L7637.19,5114.15L7941.96,4758.47L7578.03,4445.5Z"></path>
+    <path data-component="svg__section" data-section-id="s_121" data-section-name="413"
+      class="block is-available is-filtered middle"
+      d="M8863.05,3406.7L8708.55,3879.06L9107.29,4010.99L9261.79,3538.63L8863.05,3406.7Z"></path>
+    <path data-component="svg__section" data-section-id="s_242" data-section-name="345"
+      class="block is-available is-filtered middle"
+      d="M1718.8,1317.95L1522.65,1739.74L1956.55,1942.8L2153.83,1521.54L1718.8,1317.95Z"></path>
+    <path data-component="svg__section" data-section-id="s_123" data-section-name="141"
+      class="block is-available is-filtered middle"
+      d="M2721.81,2695.95L2708.05,2886.17L2786.73,3139.6L3324.82,2972.34L3295.25,2883.86L3301.51,2720.41L2721.81,2695.95Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_124" data-section-name="142"
+      class="block is-available is-filtered middle"
+      d="M2744.61,2380.35L2721.8,2695.99L3301.6,2720.36L3313.96,2404.15L2744.61,2380.35Z"></path>
+    <path data-component="svg__section" data-section-id="s_125" data-section-name="318"
+      class="block is-available is-filtered minimum"
+      d="M7273.27,4801.15L6970.1,5154.95L7334.04,5467.92L7637.2,5114.12L7273.27,4801.15Z"></path>
+    <path data-component="svg__section" data-section-id="s_246" data-section-name="346"
+      class="block is-available is-filtered middle"
+      d="M1914.23,897.7L1718.8,1317.95L2153.83,1521.54L2350.38,1101.81L1914.23,897.7Z"></path>
+    <path data-component="svg__section" data-section-id="s_369" data-section-name="147"
+      class="block is-available is-filtered minimum"
+      d="M3483.18,868.7L3235.2,1043.74L3642.75,1620.26L3891.63,1445.67L3483.18,868.7Z"></path>
+    <path data-component="svg__section" data-section-id="s_128" data-section-name="414"
+      class="block is-available is-filtered middle"
+      d="M8708.56,3879.05L8667.84,4003.54L8511.65,4185.87L8830.52,4459.22L9041.09,4213.41L9107.31,4010.98L8708.56,3879.05Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_129" data-section-name="320"
+      class="block is-available is-filtered minimum"
+      d="M6970.08,5154.95L6668.7,5506.66L7032.64,5819.63L7334.01,5467.92L6970.08,5154.95Z"></path>
+    <path data-component="svg__section" data-section-id="p_52"
+      data-section-name="29 - Delta Club Premium Seating - To learn more about premium seating options please visit Brves.com/Premium"
+      class="block is-ga" d="M4663.32,4301.05L4494.75,4445.88L4586.78,4553.28L4755.35,4408.46L4663.32,4301.05Z"></path>
+    <path data-component="svg__section" data-section-id="p_53"
+      data-section-name="30 - Delta Club Premium Seating - To learn more about premium seating options please visit Brves.com/Premium"
+      class="block is-ga"
+      d="M4592.2,4218.1L4465.63,4326.81L4438.8,4295.47L4396.65,4331.52L4494.71,4445.89L4663.28,4301.06L4592.2,4218.1Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_50"
+      data-section-name="27 - Delta Club Premium Seating - To learn more about premium seating options please visit Brves.com/Premium"
+      class="block is-ga"
+      d="M4849.68,4501.2C4785.94,4591.93,4722.2,4682.66,4722.2,4682.66C4737.83,4693.92,4753.96,4704.52,4770.56,4714.43C4804.36,4734.61,4840.07,4751.93,4877.34,4766.06C4882.76,4768.11,4888.2,4770.1,4893.68,4772.01C4893.68,4772.01,4965.23,4562.92,4965.23,4562.92C4962.9,4562.08,4960.58,4561.22,4958.27,4560.35C4933.15,4550.82,4909.08,4539.15,4886.31,4525.55L4886.31,4525.55C4873.69,4518.01,4861.46,4509.88,4849.68,4501.2Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_51"
+      data-section-name="28 - Delta Club Premium Seating - To learn more about premium seating options please visit Brves.com/Premium"
+      class="block is-ga"
+      d="M4755.37,4408.45L4586.8,4553.28L4622.86,4595.36C4628.05,4600.68,4633.23,4606.0,4633.23,4606.0C4660.58,4634.03,4690.37,4659.69,4722.24,4682.64C4722.24,4682.64,4849.71,4501.17,4849.71,4501.17C4829.71,4486.44,4810.97,4470.11,4793.66,4452.38C4793.66,4452.38,4790.96,4449.6,4788.25,4446.83L4788.25,4446.83L4755.37,4408.45Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_89"
+      data-section-name="220 - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga" d="M6288.55,4759.0L6155.2,4912.99L6470.76,5190.2L6605.88,5034.17L6288.55,4759.0Z"></path>
+    <path data-component="svg__section" data-section-id="p_80"
+      data-section-name="122 - Delta Club Premium Seating - To learn more about premium seating options please visit Brves.com/Premium"
+      class="block is-ga" d="M5806.97,4366.2L5679.45,4515.02L5896.53,4701.77L6023.09,4552.13L5806.97,4366.2Z"></path>
+    <path data-component="svg__section" data-section-id="p_85"
+      data-section-name="125 - Delta Club Premium Seating - To learn more about premium seating options please visit Brves.com/Premium"
+      class="block is-ga"
+      d="M5283.4,4789.0C5230.1,4802.56,5174.27,4809.83,5116.74,4809.83C5099.53,4809.83,5082.47,4809.18,5065.58,4807.9C5065.58,4807.9,5042.8,5117.06,5042.8,5117.06C5067.23,5118.9,5091.9,5119.83,5116.8,5119.83C5199.19,5119.83,5279.2,5109.59,5355.67,5090.49L5355.67,5090.49C5355.67,5090.49,5319.54,4939.75,5283.4,4789.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_87"
+      data-section-name="126 - Delta Club Premium Seating - To learn more about premium seating options please visit Brves.com/Premium"
+      class="block is-ga"
+      d="M4855.64,4757.35C4796.87,4900.77,4738.1,5044.19,4738.1,5044.19C4747.83,5048.24,4757.64,5052.14,4767.53,5055.89C4799.87,5068.15,4833.02,5078.76,4866.88,5087.63C4923.68,5102.52,4982.47,5112.51,5042.78,5117.03C5042.78,5117.03,5065.56,4807.87,5065.56,4807.87C5024.37,4804.76,4984.2,4797.93,4945.4,4787.76C4922.21,4781.68,4899.51,4774.41,4877.36,4766.02L4877.36,4766.02C4870.06,4763.25,4862.82,4760.36,4855.64,4757.35Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_82"
+      data-section-name="123 - Delta Club Premium Seating - To learn more about premium seating options please visit Brves.com/Premium"
+      class="block is-ga"
+      d="M5679.42,4515.05L5610.57,4595.41C5605.38,4600.73,5600.2,4606.04,5600.2,4606.04C5565.77,4641.33,5527.49,4672.85,5486.05,4699.94C5486.05,4699.94,5647.15,4964.96,5647.15,4964.96C5710.87,4924.25,5769.59,4876.4,5822.16,4822.51C5822.16,4822.51,5830.84,4813.61,5839.52,4804.71L5839.52,4804.71L5914.46,4717.25L5679.42,4515.05Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_436"
+      data-section-name="JIM BEAM BOURBON DECK - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 25 tickets."
+      class="block is-ga" d="M2781.22,1874.53L2721.73,2695.87L2620.04,2689.1L2660.24,2148.43L2781.22,1874.53Z"></path>
+    <path data-component="svg__section" data-section-id="p_437"
+      data-section-name="ROOFTOP PATIO - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 25 tickets."
+      class="block is-ga" d="M7797.41,1168.05L7597.65,1320.67L7865.3,1670.33L8064.9,1517.51L7797.41,1168.05Z"></path>
+    <path data-component="svg__section" data-section-id="p_84"
+      data-section-name="124 - Delta Club Premium Seating - To learn more about premium seating options please visit Brves.com/Premium"
+      class="block is-ga"
+      d="M5486.07,4699.95C5481.46,4702.96,5476.82,4705.91,5472.14,4708.81C5452.35,4721.06,5431.87,4732.33,5410.79,4742.53C5375.09,4759.8,5337.65,4774.03,5298.8,4784.9C5293.69,4786.33,5288.56,4787.7,5283.4,4789.01C5283.4,4789.01,5355.67,5090.51,5355.67,5090.51C5364.61,5088.27,5373.51,5085.92,5382.36,5083.44C5439.08,5067.58,5493.74,5046.8,5545.86,5021.58C5576.63,5006.69,5606.51,4990.26,5635.4,4972.37C5639.34,4969.93,5643.26,4967.47,5647.16,4964.97L5647.16,4964.97C5647.16,4964.97,5566.61,4832.46,5486.07,4699.95Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_429" data-section-name="GENERAL ADMISSION"
+      class="block is-ga is-available is-filtered middle"
+      d="M1565.42,4003.43C1620.58,4067.85,1675.73,4132.27,1730.88,4196.69L1730.88,4196.69L1411.68,4469.65C1338.53,4384.21,1265.37,4298.76,1192.21,4213.31C1084.96,3885.82,977.704,3558.33,870.45,3230.85C898.978,2761.51,927.506,2292.18,956.034,1822.85L956.034,1822.85L1370.62,1924.69C1345.26,2341.89,1319.9,2759.1,1294.54,3176.31L1294.54,3176.31C1384.84,3452.02,1475.13,3727.72,1565.42,4003.43Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_203" data-section-name="157 - Chophouse Terrace Seating"
+      class="block is-ga" d="M6552.91,1396.26L6305.87,1585.28L6470.31,1802.36L6718.13,1610.97L6552.91,1396.26Z"></path>
+    <path data-component="svg__section" data-section-id="p_447" data-section-name="156 - Chophouse Terrace Seating"
+      class="block is-ga" d="M6424.61,1229.85L6206.45,1458.39L6305.75,1585.28L6552.91,1396.14L6424.61,1229.85Z"></path>
+    <path data-component="svg__section" data-section-id="s_435"
+      data-section-name="STANDING ROOM ONLY - Ticket provides entry but DOES NOT include a seated location."
+      class="block is-ga"
+      d="M9482.62,6921.66C9482.62,6880.28,9449.01,6846.66,9407.62,6846.66C9366.24,6846.66,8449.01,6846.66,8407.62,6846.66C8366.24,6846.66,8332.62,6880.28,8332.62,6921.66C8332.62,6963.05,8332.62,7210.28,8332.62,7251.66C8332.62,7293.05,8366.24,7326.66,8407.62,7326.66C8449.01,7326.66,9366.24,7326.66,9407.62,7326.66C9449.01,7326.66,9482.62,7293.05,9482.62,7251.66L9482.62,7251.66C9482.62,7210.28,9482.62,6963.05,9482.62,6921.66Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_412" data-section-name="SUITE 32 - Xfinity Suite"
+      class="block is-ga"
+      d="M4442.08,5807.95C4385.89,5919.6,4329.7,6031.25,4329.7,6031.25C4370.15,6052.21,4411.53,6071.61,4453.77,6089.38C4456.2,6090.4,4458.63,6091.42,4461.07,6092.43C4461.07,6092.43,4554.85,5860.71,4554.85,5860.71C4553.46,5860.14,4552.08,5859.56,4550.7,5858.98L4550.7,5858.98C4513.7,5843.41,4477.47,5826.38,4442.08,5807.95Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_413" data-section-name="SUITE 33 - Xfinity Suite"
+      class="block is-ga"
+      d="M4339.96,5749.45C4275.31,5856.43,4210.65,5963.4,4210.65,5963.4C4249.33,5987.53,4289.04,6010.17,4329.69,6031.24C4329.69,6031.24,4442.08,5807.94,4442.08,5807.94L4442.08,5807.94C4407.2,5789.78,4373.13,5770.26,4339.96,5749.45Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_410" data-section-name="SUITE 30 - Xfinity Suite"
+      class="block is-ga"
+      d="M4736.44,5922.8C4703.85,6043.46,4671.25,6164.12,4671.25,6164.12C4727.83,6179.4,4785.57,6191.89,4844.31,6201.41C4844.31,6201.41,4884.27,5954.65,4884.27,5954.65L4884.27,5954.65C4834.09,5946.52,4784.77,5935.86,4736.44,5922.8Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_411" data-section-name="SUITE 31 - Xfinity Suite"
+      class="block is-ga"
+      d="M4554.83,5860.7C4507.94,5976.56,4461.05,6092.42,4461.05,6092.42C4509.95,6112.73,4559.98,6130.85,4611.02,6146.66C4611.02,6146.66,4683.72,5907.5,4683.72,5907.5L4683.72,5907.5C4639.84,5893.86,4596.84,5878.22,4554.83,5860.7Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_418" data-section-name="SUITE 38 - Xfinity Suite"
+      class="block is-ga" d="M3883.71,5321.7L3695.0,5485.63L3776.83,5580.12L3965.54,5416.19L3883.71,5321.7Z"></path>
+    <path data-component="svg__section" data-section-id="p_419" data-section-name="SUITE 39 - Xfinity Suite"
+      class="block is-ga" d="M3803.68,5229.25L3615.95,5394.31L3695.01,5485.61L3883.72,5321.68L3803.68,5229.25Z"></path>
+    <path data-component="svg__section" data-section-id="p_416" data-section-name="SUITE 36 - Xfinity Suite"
+      class="block is-ga"
+      d="M4050.7,5511.95C3959.55,5597.46,3868.4,5682.97,3868.4,5682.97C3901.45,5718.03,3935.95,5751.7,3971.82,5783.88C3971.82,5783.88,4135.15,5594.59,4135.15,5594.59L4135.15,5594.59C4105.91,5568.18,4077.74,5540.61,4050.7,5511.95Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_417" data-section-name="SUITE 37 - Xfinity Suite"
+      class="block is-ga"
+      d="M3965.56,5416.2L3776.85,5580.13L3805.52,5613.23C3801.66,5608.25,3797.79,5603.26,3797.79,5603.26C3820.51,5630.56,3844.07,5657.15,3868.42,5682.98C3868.42,5682.98,4050.72,5511.96,4050.72,5511.96C4029.76,5489.73,4009.48,5466.85,3989.92,5443.36C3989.92,5443.36,3992.21,5446.48,3994.49,5449.61L3994.49,5449.61L3965.56,5416.2Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_414" data-section-name="SUITE 34 - Xfinity Suite"
+      class="block is-ga"
+      d="M4232.09,5674.85C4158.52,5775.91,4084.95,5876.97,4084.95,5876.97C4110.17,5896.0,4135.93,5914.35,4162.21,5931.99C4178.17,5942.71,4194.33,5953.17,4210.66,5963.36C4210.66,5963.36,4339.97,5749.41,4339.97,5749.41C4327.03,5741.3,4314.23,5732.98,4301.56,5724.48L4301.56,5724.48C4277.91,5708.59,4254.74,5692.04,4232.09,5674.85Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_415" data-section-name="SUITE 35 - Xfinity Suite"
+      class="block is-ga"
+      d="M4135.18,5594.55C4053.52,5689.2,3971.85,5783.84,3971.85,5783.84C4008.19,5816.45,4045.92,5847.52,4084.96,5876.98C4084.96,5876.98,4232.1,5674.86,4232.1,5674.86L4232.1,5674.86C4198.64,5649.46,4166.31,5622.66,4135.18,5594.55Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_200" data-section-name="430"
+      class="block is-available is-filtered middle"
+      d="M3352.6,6090.9L3033.4,6363.87C3117.11,6461.64,3200.81,6559.41,3200.81,6559.41C3291.0,6665.58,3389.88,6764.15,3496.34,6854.02C3496.34,6854.02,3768.5,6534.13,3768.5,6534.13C3679.09,6458.77,3596.08,6376.05,3520.41,6286.91L3520.41,6286.91C3520.41,6286.91,3436.5,6188.9,3352.6,6090.9Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_201" data-section-name="431"
+      class="block is-available is-filtered middle"
+      d="M3027.55,5711.25L2708.35,5984.22L3033.36,6363.84L3352.56,6090.87L3027.55,5711.25Z"></path>
+    <path data-component="svg__section" data-section-id="s_202" data-section-name="339"
+      class="block is-available is-filtered middle"
+      d="M2071.95,3764.65L1642.55,4001.23L2004.85,4424.01L2369.39,4111.73L2071.95,3764.65Z"></path>
+    <path data-component="svg__section" data-section-id="s_205" data-section-name="239"
+      class="block is-available is-filtered middle"
+      d="M2756.46,3378.35L2311.17,3626.41L2553.28,3910.11L2932.35,3581.47L2756.46,3378.35Z"></path>
+    <path data-component="svg__section" data-section-id="s_207" data-section-name="240"
+      class="block is-available is-filtered middle"
+      d="M2667.57,3113.75L2186.33,3259.79L2290.39,3600.69L2311.09,3626.26L2756.46,3378.34L2743.04,3362.84L2667.57,3113.75Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_208" data-section-name="433"
+      class="block is-available is-filtered middle"
+      d="M2704.2,5333.6L2385.0,5606.57L2708.35,5984.25L3027.55,5711.28L2704.2,5333.6Z"></path>
+    <path data-component="svg__section" data-section-id="p_423" data-section-name="SUITE 6 - Champions Suite"
+      class="block is-ga"
+      d="M4800.72,5067.8C4761.48,5185.36,4722.25,5302.92,4722.25,5302.92C4783.12,5323.61,4846.13,5339.67,4910.85,5350.69C4910.85,5350.69,4951.79,5105.94,4951.79,5105.94C4923.05,5101.06,4894.73,5094.94,4866.89,5087.65L4866.89,5087.65C4844.51,5081.78,4822.45,5075.16,4800.72,5067.8Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_424" data-section-name="SUITE 7 - Champions Suite"
+      class="block is-ga"
+      d="M4659.35,5007.25C4602.63,5117.17,4545.9,5227.09,4545.9,5227.09C4602.25,5256.75,4661.17,5282.17,4722.25,5302.93C4722.25,5302.93,4800.72,5067.81,4800.72,5067.81C4789.57,5064.03,4778.51,5060.06,4767.54,5055.91L4767.54,5055.91C4730.36,5041.81,4694.24,5025.54,4659.35,5007.25Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_421" data-section-name="SUITE 40 - Xfinity Suite"
+      class="block is-ga" d="M3634.34,5033.65L3445.5,5197.42L3577.14,5349.44L3764.87,5184.38L3634.34,5033.65Z"></path>
+    <path data-component="svg__section" data-section-id="p_90"
+      data-section-name="127 - Delta Club Premium Seating - To learn more about premium seating options please visit Brves.com/Premium"
+      class="block is-ga"
+      d="M4676.04,4646.25C4576.42,4764.98,4476.8,4883.72,4476.8,4883.72C4518.83,4919.62,4563.94,4952.04,4611.66,4980.54C4652.02,5004.64,4694.26,5025.95,4738.08,5044.19C4738.08,5044.19,4855.62,4757.35,4855.62,4757.35C4826.15,4745.0,4797.73,4730.62,4770.55,4714.39L4770.55,4714.39C4737.06,4694.38,4705.44,4671.56,4676.04,4646.25Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_422" data-section-name="SUITE 5 - Champions Suite"
+      class="block is-ga"
+      d="M4951.79,5105.95C4931.32,5228.32,4910.85,5350.7,4910.85,5350.7C4978.51,5362.21,5048.05,5368.2,5118.99,5368.2C5119.48,5368.2,5119.98,5368.2,5120.48,5368.2C5120.48,5368.2,5120.48,5119.82,5120.48,5119.82C5119.25,5119.82,5118.02,5119.82,5116.79,5119.82L5116.79,5119.82C5060.56,5119.82,5005.44,5115.05,4951.79,5105.95Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_91"
+      data-section-name="128 - Delta Club Premium Seating - To learn more about premium seating options please visit Brves.com/Premium"
+      class="block is-ga"
+      d="M4524.0,4480.05L4288.9,4682.04L4393.98,4804.68C4402.66,4813.58,4411.34,4822.48,4411.34,4822.48C4432.22,4843.88,4454.06,4864.32,4476.8,4883.75C4476.8,4883.75,4676.05,4646.28,4676.05,4646.28C4661.18,4633.48,4646.88,4620.04,4633.19,4606.01C4633.19,4606.01,4628.01,4600.7,4622.82,4595.38L4622.82,4595.38L4524.0,4480.05Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_420" data-section-name="SUITE 4 - Champions Suite"
+      class="block is-ga"
+      d="M5282.45,5105.85C5229.77,5114.82,5175.68,5119.62,5120.5,5119.82C5120.5,5119.82,5120.5,5368.21,5120.5,5368.21C5189.35,5368.12,5256.88,5362.4,5322.64,5351.46L5322.64,5351.46C5322.64,5351.46,5302.54,5228.65,5282.45,5105.85Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_99"
+      data-section-name="223 TABLES - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M6063.54,5369.75C6000.47,5438.31,5930.01,5499.96,5853.43,5553.45C5840.77,5562.3,5827.94,5570.92,5814.95,5579.31C5814.95,5579.31,5913.2,5741.98,5913.2,5741.98C5929.75,5731.38,5946.07,5720.46,5962.16,5709.22C6048.13,5649.18,6127.37,5580.17,6198.54,5503.55L6198.54,5503.55C6198.54,5503.55,6131.04,5436.65,6063.54,5369.75Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_427" data-section-name="SUITE A" class="block is-ga"
+      d="M5935.55,4692.65L5839.54,4804.7L5831.3,4813.15C5919.09,4901.75,6006.89,4990.36,6006.89,4990.36C6032.37,4963.89,6056.67,4936.28,6079.72,4907.62C6079.72,4907.62,6102.15,4881.44,6124.57,4855.27L6124.57,4855.27L5935.55,4692.65Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_92"
+      data-section-name="222 - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M6155.22,4913.0L6155.22,4913.0C6032.63,5054.79,5910.04,5196.58,5900.05,5207.62C5900.05,5207.62,6063.59,5369.72,6063.59,5369.72C6077.68,5354.4,6202.88,5209.62,6328.07,5064.84L6328.07,5064.84L6155.22,4913.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_428" data-section-name="SUITE B" class="block is-ga"
+      d="M5831.26,4813.15L5831.26,4813.15C5826.7,4817.83,5822.14,4822.5,5822.14,4822.5C5788.52,4856.96,5752.39,4888.94,5714.05,4918.18C5714.05,4918.18,5860.25,5120.35,5860.25,5120.35C5912.51,5080.93,5961.53,5037.44,6006.84,4990.36L6006.84,4990.36C6006.84,4990.36,5919.05,4901.76,5831.26,4813.15Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_93"
+      data-section-name="130 - Delta Club Premium Seating - To learn more about premium seating options please visit Brves.com/Premium"
+      class="block is-ga" d="M4416.75,4354.8L4201.0,4540.16L4308.34,4665.33L4524.04,4480.01L4416.75,4354.8Z"></path>
+    <path data-component="svg__section" data-section-id="p_425" data-section-name="SUITE 8 - Champions Suite"
+      class="block is-ga"
+      d="M4524.66,4922.1C4451.3,5021.33,4377.95,5120.57,4377.95,5120.57C4430.78,5160.39,4486.91,5196.06,4545.87,5227.09C4545.87,5227.09,4659.32,5007.25,4659.32,5007.25C4643.17,4998.78,4627.27,4989.88,4611.66,4980.55L4611.66,4980.55C4581.58,4962.59,4552.54,4943.07,4524.66,4922.1Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_94"
+      data-section-name="222 TABLES - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M6328.06,5064.85L6328.06,5064.85C6202.85,5209.64,6077.65,5354.44,6063.55,5369.76C6063.55,5369.76,6198.55,5503.56,6198.55,5503.56C6215.99,5484.78,6343.38,5337.5,6470.77,5190.22L6470.77,5190.22L6328.06,5064.85Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_426" data-section-name="SUITE 9 - Champions Suite"
+      class="block is-ga"
+      d="M4409.02,4820.1L4409.02,4820.1C4321.38,4906.63,4233.75,4993.15,4233.75,4993.15C4278.4,5039.26,4326.61,5081.88,4377.95,5120.59C4377.95,5120.59,4524.66,4922.12,4524.66,4922.12C4484.36,4891.82,4446.48,4858.5,4411.35,4822.49L4411.35,4822.49C4411.35,4822.49,4410.18,4821.29,4409.02,4820.1Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_95"
+      data-section-name="223 - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M5900.04,5207.65C5839.85,5274.17,5771.26,5332.94,5695.95,5382.31C5695.95,5382.31,5814.95,5579.34,5814.95,5579.34C5827.94,5570.95,5840.77,5562.33,5853.43,5553.49C5930.03,5499.99,6000.5,5438.32,6063.58,5369.74L6063.58,5369.74C6063.58,5369.74,5981.81,5288.7,5900.04,5207.65Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_173" data-section-name="425"
+      class="block is-available is-filtered middle"
+      d="M5808.72,6908.55C5674.24,6955.71,5533.49,6989.52,5388.05,7008.39C5388.05,7008.39,5416.1,7428.14,5416.1,7428.14C5565.69,7410.32,5711.25,7379.33,5851.58,7336.42C5890.94,7324.39,5929.88,7311.42,5968.39,7297.53L5968.39,7297.53C5968.39,7297.53,5888.56,7103.04,5808.72,6908.55Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_174" data-section-name="330"
+      class="block is-available is-filtered minimum"
+      d="M3577.78,5521.8L3213.25,5834.07C3360.63,6006.02,3508.0,6177.97,3517.04,6188.18C3517.04,6188.18,3881.63,5875.86,3881.63,5875.86L3881.63,5875.86C3872.72,5865.88,3725.25,5693.84,3577.78,5521.8Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_175" data-section-name="426"
+      class="block is-available is-filtered minimum"
+      d="M5388.07,7008.4C5299.07,7019.95,5208.32,7025.91,5116.17,7025.91C5026.65,7025.91,4938.45,7020.28,4851.88,7009.37C4851.88,7009.37,4823.85,7429.05,4823.85,7429.05C4919.75,7440.18,5017.29,7445.91,5116.17,7445.91C5217.67,7445.91,5317.77,7439.87,5416.12,7428.15L5416.12,7428.15C5416.12,7428.15,5402.09,7218.28,5388.07,7008.4Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_38" data-section-name="15" class="block"
+      d="M6276.52,3315.7L6148.65,3464.95L6396.48,3678.15L6524.36,3528.91L6276.52,3315.7Z"></path>
+    <path data-component="svg__section" data-section-id="s_37" data-section-name="14" class="block"
+      d="M6402.54,3168.65L6276.55,3315.73L6524.39,3528.94L6650.39,3381.88L6402.54,3168.65Z"></path>
+    <path data-component="svg__section" data-section-id="s_39" data-section-name="16" class="block"
+      d="M6148.68,3464.95L6021.75,3613.12L6269.57,3826.31L6396.51,3678.15L6148.68,3464.95Z"></path>
+    <path data-component="svg__section" data-section-id="s_179" data-section-name="331"
+      class="block is-available is-filtered minimum"
+      d="M3277.58,5171.5L2913.05,5483.77L3213.25,5834.08L3577.79,5521.81L3277.58,5171.5Z"></path>
+    <path data-component="svg__section" data-section-id="p_114"
+      data-section-name="225 TABLES - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M5517.4,5720.95C5511.68,5722.81,5505.95,5724.63,5500.19,5726.42C5433.84,5746.97,5365.18,5762.29,5294.7,5771.88C5294.7,5771.88,5317.25,5960.55,5317.25,5960.55C5399.28,5949.57,5479.17,5931.82,5556.35,5907.91C5561.82,5906.21,5567.28,5904.49,5572.73,5902.73L5572.73,5902.73C5572.73,5902.73,5545.06,5811.84,5517.4,5720.95Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_233"
+      data-section-name="244 - Hank Aaron Terrace- To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 20 tickets."
+      class="block is-ga"
+      d="M2492.99,1600.4L2278.85,2083.81L2658.05,2177.46L2660.15,2148.41L2772.09,1895.22L2565.37,1803.52L2627.79,1662.69L2492.99,1600.4Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_112"
+      data-section-name="225 - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M5450.43,5500.85C5391.54,5520.3,5330.34,5534.68,5267.35,5543.48C5267.35,5543.48,5294.71,5771.91,5294.71,5771.91C5365.18,5762.32,5433.82,5747.0,5500.16,5726.45C5505.91,5724.67,5511.64,5722.85,5517.36,5720.99L5517.36,5720.99C5517.36,5720.99,5483.9,5610.92,5450.43,5500.85Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_34" data-section-name="11"
+      class="block is-available is-filtered minimum"
+      d="M6929.16,2695.35L6586.05,2709.27L6586.05,2821.91L6935.03,2861.66L6929.16,2695.35Z"></path>
+    <path data-component="svg__section" data-section-id="s_33" data-section-name="10"
+      class="block is-available is-filtered minimum"
+      d="M6931.89,2348.95L6906.03,2368.61L6586.05,2689.25L6586.19,2709.39L6929.19,2695.44L6959.61,2623.9L6949.78,2371.89L6931.89,2348.95Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_36" data-section-name="13"
+      class="block is-available is-filtered middle"
+      d="M6581.73,3042.0L6518.28,3124.61L6469.42,3090.58L6402.6,3168.59L6650.39,3381.76L6820.59,3183.05L6581.73,3042.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_35" data-section-name="12" class="block"
+      d="M6566.1,2882.95L6544.52,2951.2L6442.7,3070.05L6518.27,3124.52L6580.42,3041.34L6820.6,3183.1L6842.53,3157.51L6895.67,2987.67L6566.1,2882.95Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_182" data-section-name="233"
+      class="block is-available is-filtered middle"
+      d="M3611.07,4365.2L3158.1,4758.04L3394.72,5031.17L3847.64,4638.38L3611.07,4365.2Z"></path>
+    <path data-component="svg__section" data-section-id="s_183" data-section-name="427"
+      class="block is-available is-filtered middle"
+      d="M4414.13,6905.2C4335.22,7099.98,4256.3,7294.76,4256.3,7294.76C4311.34,7314.81,4367.27,7332.99,4424.02,7349.22C4553.33,7386.22,4686.91,7413.14,4823.84,7429.03C4823.84,7429.03,4851.88,7009.36,4851.88,7009.36L4851.88,7009.36C4700.32,6990.25,4553.81,6954.94,4414.13,6905.2Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_184" data-section-name="333"
+      class="block is-available is-filtered minimum"
+      d="M2973.98,4817.2L2609.45,5129.47L2913.05,5483.75L3277.58,5171.47L2973.98,4817.2Z"></path>
+    <path data-component="svg__section" data-section-id="s_185" data-section-name="235"
+      class="block is-available is-filtered middle"
+      d="M3385.98,4105.25L3001.89,4438.33L3224.87,4700.12L3611.09,4365.2L3385.98,4105.25Z"></path>
+    <path data-component="svg__section" data-section-id="s_188" data-section-name="428"
+      class="block is-available is-filtered middle"
+      d="M4029.03,6721.65C3918.94,6900.48,3808.85,7079.32,3808.85,7079.32C3918.25,7146.09,4033.16,7204.73,4152.73,7254.41C4186.87,7268.6,4221.39,7282.05,4256.28,7294.76C4256.28,7294.76,4414.11,6905.2,4414.11,6905.2L4414.11,6905.2C4278.78,6857.01,4149.88,6795.28,4029.03,6721.65Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_189" data-section-name="429"
+      class="block is-available is-filtered middle"
+      d="M3768.47,6534.15C3632.38,6694.09,3496.3,6854.04,3496.3,6854.04C3570.84,6916.96,3649.09,6975.62,3730.68,7029.64C3756.41,7046.67,3782.46,7063.24,3808.84,7079.34C3808.84,7079.34,4029.01,6721.67,4029.01,6721.67L4029.01,6721.67C3937.29,6665.79,3850.2,6603.04,3768.47,6534.15Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_130"
+      data-section-name="227 - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M4805.95,5505.65C4772.5,5615.68,4739.05,5725.7,4739.05,5725.7C4747.35,5728.29,4755.69,5730.8,4764.06,5733.22C4828.04,5751.75,4894.08,5765.43,4961.77,5773.82C4961.77,5773.82,4989.28,5545.46,4989.28,5545.46L4989.28,5545.46C4926.27,5537.6,4864.99,5524.16,4805.95,5505.65Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_247"
+      data-section-name="246 - Hank Aaron Terrace- To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 20 tickets."
+      class="block is-ga"
+      d="M2555.56,925.25L2067.7,2031.67L2278.86,2083.81L2492.89,1600.49L2627.74,1662.69L2696.25,1507.79L2902.84,1599.41L3025.66,1321.58L2555.56,925.25Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_127"
+      data-section-name="226 TABLES - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M5294.65,5771.9C5285.24,5773.18,5275.78,5774.37,5266.29,5775.44C5218.55,5780.85,5169.99,5783.65,5120.8,5783.65C5077.1,5783.65,5033.9,5781.43,4991.33,5777.15C4981.43,5776.15,4971.54,5775.02,4961.71,5773.8C4961.71,5773.8,4938.95,5962.44,4938.95,5962.44C4949.86,5963.79,4960.82,5965.02,4971.79,5966.12C5020.77,5971.06,5070.46,5973.65,5120.73,5973.65C5176.54,5973.65,5231.62,5970.51,5285.81,5964.44C5296.31,5963.27,5306.77,5961.97,5317.2,5960.57L5317.2,5960.57C5317.2,5960.57,5305.93,5866.24,5294.65,5771.9Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_241"
+      data-section-name="245 - Hank Aaron Terrace- To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 20 tickets."
+      class="block is-ga" d="M2696.33,1507.8L2565.4,1803.55L2772.08,1895.24L2902.86,1599.41L2696.33,1507.8Z"></path>
+    <path data-component="svg__section" data-section-id="p_120"
+      data-section-name="226 - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M5267.33,5543.45C5259.15,5544.59,5250.95,5545.66,5242.72,5546.61C5202.7,5551.24,5161.98,5553.63,5120.72,5553.63C5085.02,5553.63,5049.74,5551.86,5014.96,5548.39C5006.37,5547.53,4997.79,5546.51,4989.27,5545.45C4989.27,5545.45,4961.75,5773.81,4961.75,5773.81C4971.58,5775.03,4981.46,5776.11,4991.35,5777.1C5033.91,5781.38,5077.11,5783.65,5120.8,5783.65C5170.03,5783.65,5218.61,5780.84,5266.39,5775.43C5275.86,5774.35,5285.29,5773.16,5294.69,5771.88L5294.69,5771.88C5294.69,5771.88,5281.01,5657.67,5267.33,5543.45Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_193" data-section-name="335"
+      class="block is-available is-filtered minimum"
+      d="M2672.98,4466.0L2308.45,4778.27L2609.44,5129.5L2973.97,4817.23L2672.98,4466.0Z"></path>
+    <path data-component="svg__section" data-section-id="s_194" data-section-name="237"
+      class="block is-available is-filtered middle"
+      d="M3138.84,3819.9L2754.59,4152.84L3001.78,4438.17L3385.97,4105.29L3138.84,3819.9Z"></path>
+    <path data-component="svg__section" data-section-id="s_196" data-section-name="238"
+      class="block is-available is-filtered middle"
+      d="M2932.35,3581.45L2479.2,3974.43L2685.71,4212.81L3138.81,3819.87L2932.35,3581.45Z"></path>
+    <path data-component="svg__section" data-section-id="s_198" data-section-name="337"
+      class="block is-available is-filtered minimum"
+      d="M2369.38,4111.75L2004.85,4424.02L2308.45,4778.3L2672.98,4466.02L2369.38,4111.75Z"></path>
+    <path data-component="svg__section" data-section-id="s_59" data-section-name="36" class="block"
+      d="M4063.87,3390.35L3791.15,3624.66L3918.83,3773.68L4191.55,3539.37L4063.87,3390.35Z"></path>
+    <path data-component="svg__section" data-section-id="p_335"
+      data-section-name="241 B2 - Lexus Premium Box - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 8 tickets."
+      class="block is-ga"
+      d="M2048.53,3139.78C2079.66,3130.28,2110.79,3120.79,2141.91,3111.29C2127.11,3061.84,2112.31,3012.38,2097.51,2962.93C2064.43,2966.58,2031.35,2970.23,1998.27,2973.89L1998.27,2973.89C2015.02,3029.18,2031.78,3084.48,2048.53,3139.78Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_336"
+      data-section-name="242 B1 - Lexus Premium Box - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 14 tickets."
+      class="block is-ga" d="M2016.27,2726.81L1998.2,2973.89L2097.5,2962.94L2112.44,2733.8L2016.27,2726.81Z"></path>
+    <path data-component="svg__section" data-section-id="p_333"
+      data-section-name="240 B2 - Lexus Premium Box - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 8 tickets."
+      class="block is-ga" d="M2186.34,3259.81L2093.46,3288.1L2151.78,3480.57L2245.05,3452.12L2186.34,3259.81Z"></path>
+    <path data-component="svg__section" data-section-id="p_212" data-section-name="158 - Chophouse Terrace Seating"
+      class="block is-ga" d="M6718.25,1611.1L6496.42,1782.45L6660.97,1996.72L6883.03,1825.2L6718.25,1611.1Z"></path>
+    <path data-component="svg__section" data-section-id="p_334"
+      data-section-name="241 B1 - Lexus Premium Box - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 8 tickets."
+      class="block is-ga" d="M2141.81,3111.32L2048.53,3139.78L2093.46,3288.1L2186.33,3259.79L2141.81,3111.32Z"></path>
+    <path data-component="svg__section" data-section-id="p_331" data-section-name="239 B2 - Lexus Premium Box"
+      class="block is-ga" d="M2311.06,3626.38L2221.1,3676.52L2356.49,3832.77L2432.17,3768.31L2311.06,3626.38Z"></path>
+    <path data-component="svg__section" data-section-id="p_332"
+      data-section-name="240 B1 - Lexus Premium Box - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 12 tickets."
+      class="block is-ga"
+      d="M2245.05,3452.12L2151.78,3480.57L2205.76,3658.73L2221.15,3676.5L2311.07,3626.4L2290.4,3600.71L2245.05,3452.12Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_330"
+      data-section-name="252 - Back Porch - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 100 tickets."
+      class="block is-ga" d="M5531.82,288.466L5054.64,288.466L5054.64,439.826L5531.82,439.826L5531.82,288.466Z"></path>
+    <path data-component="svg__section" data-section-id="s_56" data-section-name="33" class="block"
+      d="M4273.72,3846.35L4105.15,3991.18L4203.39,4105.83L4371.96,3961.0L4273.72,3846.35Z"></path>
+    <path data-component="svg__section" data-section-id="s_55" data-section-name="32" class="block"
+      d="M4371.97,3961.0L4203.4,4105.83L4298.46,4216.77L4467.02,4071.94L4371.97,3961.0Z"></path>
+    <path data-component="svg__section" data-section-id="s_58" data-section-name="35" class="block"
+      d="M4191.66,3539.45L3918.85,3773.66L4014.5,3885.4L4183.07,3740.57L4155.42,3708.3L4259.61,3618.71L4191.66,3539.45Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_57" data-section-name="34" class="block"
+      d="M4183.07,3740.55L4014.5,3885.38L4105.14,3991.16L4273.71,3846.34L4183.07,3740.55Z"></path>
+    <path data-component="svg__section" data-section-id="p_339" data-section-name="216 B1 - Lexus Premium Box"
+      class="block is-ga"
+      d="M7375.6,4286.48C7397.64,4305.65,7419.68,4324.83,7441.71,4344.01C7482.16,4297.31,7522.61,4250.6,7563.05,4203.89C7540.64,4184.49,7518.22,4165.08,7495.8,4145.67L7495.8,4145.67C7455.73,4192.61,7415.67,4239.54,7375.6,4286.48Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_219" data-section-name="160 - Chophouse Terrace Seating"
+      class="block is-ga" d="M7050.41,2042.53L6828.14,2214.23L6912.58,2324.2L7134.95,2152.42L7050.41,2042.53Z"></path>
+    <path data-component="svg__section" data-section-id="p_337"
+      data-section-name="242 B2 - Lexus Premium Box - To learn more about this space, please contact a Braves representative at 404-577-9100 Opt. 3 or visit Braves.com/hospitality. Minimum 14 tickets."
+      class="block is-ga"
+      d="M2016.27,2726.81C2048.36,2729.14,2080.44,2731.47,2112.53,2733.81C2117.54,2657.44,2122.55,2581.08,2127.56,2504.72C2096.04,2502.43,2064.52,2500.14,2033.0,2497.84L2033.0,2497.84C2027.43,2574.17,2021.85,2650.49,2016.27,2726.81Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_216" data-section-name="159 - Chophouse Terrace Seating"
+      class="block is-ga" d="M6883.0,1825.2L6660.95,1996.72L6828.03,2214.21L7050.26,2042.41L6883.0,1825.2Z"></path>
+    <path data-component="svg__section" data-section-id="s_54" data-section-name="31" class="block"
+      d="M4467.02,4071.95L4298.45,4216.78L4396.78,4331.54L4565.33,4186.7L4467.02,4071.95Z"></path>
+    <path data-component="svg__section" data-section-id="p_338" data-section-name="214 B3 - Lexus Premium Box"
+      class="block is-ga"
+      d="M7899.04,3815.86C7876.86,3796.64,7854.69,3777.41,7832.51,3758.18C7794.69,3801.85,7756.87,3845.52,7719.04,3889.18C7741.22,3908.42,7763.41,3927.65,7785.59,3946.88L7785.59,3946.88C7823.4,3903.21,7861.22,3859.54,7899.04,3815.86Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_346" data-section-name="237 B2 - Lexus Premium Box"
+      class="block is-ga"
+      d="M2808.68,4354.72C2831.82,4335.02,2854.95,4315.32,2878.08,4295.61C2836.9,4248.05,2795.71,4200.49,2754.52,4152.93C2731.6,4172.9,2708.68,4192.86,2685.76,4212.83L2685.76,4212.83C2726.73,4260.13,2767.71,4307.43,2808.68,4354.72Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_347" data-section-name="239 B1 - Lexus Premium Box"
+      class="block is-ga"
+      d="M2432.19,3768.29C2406.96,3789.78,2381.72,3811.28,2356.49,3832.77C2397.4,3879.99,2438.31,3927.21,2479.22,3974.43C2503.91,3953.02,2528.59,3931.62,2553.28,3910.21L2553.28,3910.21C2512.92,3862.91,2472.55,3815.6,2432.19,3768.29Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_105"
+      data-section-name="224 TABLES - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M5814.99,5579.3C5787.17,5597.27,5758.61,5614.19,5729.36,5630.01C5662.1,5666.38,5591.22,5696.92,5517.4,5720.94C5517.4,5720.94,5572.72,5902.72,5572.72,5902.72C5658.77,5874.95,5741.37,5839.49,5819.69,5797.13C5851.6,5779.87,5882.8,5761.47,5913.24,5741.97L5913.24,5741.97C5913.24,5741.97,5864.11,5660.63,5814.99,5579.3Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_344" data-section-name="235 B2 - Lexus Premium Box"
+      class="block is-ga"
+      d="M3001.79,4438.3C3038.97,4481.96,3076.15,4525.61,3113.34,4569.26C3090.48,4588.73,3067.63,4608.19,3044.78,4627.66C3007.44,4584.54,2970.1,4541.42,2932.77,4498.31L2932.77,4498.31C2962.39,4472.55,2982.09,4455.43,3001.79,4438.3Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_345" data-section-name="237 B1 - Lexus Premium Box"
+      class="block is-ga" d="M2878.13,4295.57L2808.68,4354.72L2932.94,4498.17L3001.64,4438.32L2878.13,4295.57Z"></path>
+    <path data-component="svg__section" data-section-id="p_342" data-section-name="217 B2 - Lexus Premium Box"
+      class="block is-ga"
+      d="M7201.14,4621.79C7179.43,4602.9,7157.73,4584.01,7136.02,4565.12C7096.3,4610.99,7056.58,4656.86,7016.86,4702.73C7038.58,4721.61,7060.3,4740.48,7082.02,4759.36L7082.02,4759.36C7121.72,4713.5,7161.43,4667.65,7201.14,4621.79Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_343" data-section-name="235 B1 - Lexus Premium Box"
+      class="block is-ga"
+      d="M3113.34,4569.26C3090.48,4588.73,3067.63,4608.19,3044.78,4627.66C3082.47,4671.19,3120.17,4714.73,3157.87,4758.26C3180.21,4738.92,3202.55,4719.58,3224.9,4700.23L3224.9,4700.23C3187.71,4656.58,3150.52,4612.92,3113.34,4569.26Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_101"
+      data-section-name="224 - Xfinity Club Premium Seating - To learn more about premium seating options please visit Braves.com/Premium"
+      class="block is-ga"
+      d="M5695.97,5382.3C5620.35,5431.87,5537.94,5471.95,5450.45,5500.84C5450.45,5500.84,5517.38,5720.98,5517.38,5720.98C5591.21,5696.96,5662.09,5666.42,5729.36,5630.04C5758.6,5614.23,5787.15,5597.31,5814.97,5579.34L5814.97,5579.34C5814.97,5579.34,5755.47,5480.82,5695.97,5382.3Z">
+    </path>
+    <path data-component="svg__section" data-section-id="p_340" data-section-name="216 B2 - Lexus Premium Box"
+      class="block is-ga" d="M7375.59,4286.5L7255.2,4427.5L7320.37,4484.12L7441.71,4344.01L7375.59,4286.5Z"></path>
+    <path data-component="svg__section" data-section-id="p_341" data-section-name="217 B1 - Lexus Premium Box"
+      class="block is-ga" d="M7255.2,4427.5L7135.99,4565.17L7201.14,4621.79L7320.36,4484.13L7255.2,4427.5Z"></path>
+    <path data-component="svg__section" data-section-id="s_45" data-section-name="21" class="block"
+      d="M5725.93,4126.1L5675.8,4184.6L5840.99,4326.49L5891.0,4268.12L5725.93,4126.1Z"></path>
+    <path data-component="svg__section" data-section-id="s_41" data-section-name="18" class="block"
+      d="M6008.86,3795.9L5914.6,3905.91L6079.68,4047.93L6173.94,3937.92L6008.86,3795.9Z"></path>
+    <path data-component="svg__section" data-section-id="s_40" data-section-name="17" class="block"
+      d="M6104.45,3684.3L6008.85,3795.88L6173.93,3937.9L6269.53,3826.32L6104.45,3684.3Z"></path>
+    <path data-component="svg__section" data-section-id="p_348" data-section-name="214 B1 - Lexus Premium Box"
+      class="block is-ga"
+      d="M7998.26,3477.66C7984.05,3523.79,7969.83,3569.92,7955.62,3616.05C7949.45,3623.18,7943.28,3630.31,7937.11,3637.43C7959.28,3656.65,7981.44,3675.87,8003.61,3695.09C8013.74,3683.4,8023.87,3671.7,8034.0,3660.0C8049.86,3607.66,8065.73,3555.32,8081.59,3502.97L8081.59,3502.97C8053.81,3494.54,8026.04,3486.1,7998.26,3477.66Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_43" data-section-name="20" class="block"
+      d="M5820.21,4016.1L5725.95,4126.11L5891.03,4268.13L5985.29,4158.12L5820.21,4016.1Z"></path>
+    <path data-component="svg__section" data-section-id="p_349" data-section-name="214 B2 - Lexus Premium Box"
+      class="block is-ga"
+      d="M8003.61,3695.09C7981.44,3675.87,7959.28,3656.65,7937.11,3637.43C7902.24,3677.68,7867.38,3717.93,7832.51,3758.18C7854.69,3777.41,7876.86,3796.64,7899.04,3815.86L7899.04,3815.86C7933.9,3775.61,7968.76,3735.35,8003.61,3695.09Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_42" data-section-name="19" class="block"
+      d="M5914.62,3905.9L5820.2,4016.09L5985.28,4158.11L6079.7,4047.92L5914.62,3905.9Z"></path>
+  </g>
+  <g class="labels"><text data-component="svg__label" data-label-id="s_370" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3824" y="1009">148</tspan>
+    </text><text data-component="svg__label" data-label-id="s_371" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="4118" y="904">149</tspan>
+    </text><text data-component="svg__label" data-label-id="s_372" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="4398" y="785">150</tspan>
+    </text><text data-component="svg__label" data-label-id="s_131" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="8509" y="4433">415</tspan>
+    </text><text data-component="svg__label" data-label-id="s_373" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="4645" y="708">151</tspan>
+    </text><text data-component="svg__label" data-label-id="s_133" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2986" y="2152">143</tspan>
+    </text><text data-component="svg__label" data-label-id="s_135" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6698" y="5763">322</tspan>
+    </text><text data-component="svg__label" data-label-id="s_137" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="8184" y="4812">416</tspan>
+    </text><text data-component="svg__label" data-label-id="p_281" class="label" transform="" font-size="39">
+      <tspan dy="1em" x="4150" y="4623">130</tspan>
+      <tspan dy="2em" x="4150" y="4623">TABLES</tspan>
+    </text><text data-component="svg__label" data-label-id="s_138" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3047" y="1816">144</tspan>
+    </text><text data-component="svg__label" data-label-id="s_259" class="label" transform="" font-size="79">
+      <tspan dy="1em" x="7030" y="2486">109</tspan>
+    </text><text data-component="svg__label" data-label-id="p_280" class="label" transform="" font-size="39">
+      <tspan dy="1em" x="6072" y="4641">122</tspan>
+      <tspan dy="2em" x="6072" y="4641">TABLES</tspan>
+    </text><text data-component="svg__label" data-label-id="p_159" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4135" y="5082">230</tspan>
+    </text><text data-component="svg__label" data-label-id="s_70" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6903" y="3438">113</tspan>
+    </text><text data-component="svg__label" data-label-id="p_399" class="label" transform="rotate(51,6166,5706) "
+      font-size="49">
+      <tspan dy="1em" x="6166" y="5706">SUITE 20</tspan>
+    </text><text data-component="svg__label" data-label-id="s_72" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6682" y="3696">114</tspan>
+    </text><text data-component="svg__label" data-label-id="s_71" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7812" y="2390">211</tspan>
+    </text><text data-component="svg__label" data-label-id="p_397" class="label" transform="" font-size="59">
+      <tspan dy="1em" x="6294" y="5535">SUITE</tspan>
+      <tspan dy="2em" x="6294" y="5535">19</tspan>
+    </text><text data-component="svg__label" data-label-id="p_398" class="label" transform="" font-size="49">
+      <tspan dy="1em" x="5551" y="5118">SUITE</tspan>
+      <tspan dy="2em" x="5551" y="5118">2</tspan>
+    </text><text data-component="svg__label" data-label-id="p_156" class="label" transform="rotate(39,4292,5499) "
+      font-size="59">
+      <tspan dy="1em" x="4292" y="5499">229</tspan>
+      <tspan dy="2em" x="4292" y="5499">TABLES</tspan>
+    </text><text data-component="svg__label" data-label-id="p_395" class="label" transform="rotate(10,8179,2961) "
+      font-size="69">
+      <tspan dy="1em" x="8179" y="2961">SUITE</tspan>
+      <tspan dy="2em" x="8179" y="2961">16</tspan>
+    </text><text data-component="svg__label" data-label-id="p_396" class="label" transform="" font-size="59">
+      <tspan dy="1em" x="6458" y="5344">SUITE</tspan>
+      <tspan dy="2em" x="6458" y="5344">18</tspan>
+    </text><text data-component="svg__label" data-label-id="s_78" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7664" y="3497">214</tspan>
+    </text><text data-component="svg__label" data-label-id="s_77" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6106" y="4368">120</tspan>
+    </text><text data-component="svg__label" data-label-id="s_79" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7446" y="3802">215</tspan>
+    </text><text data-component="svg__label" data-label-id="s_74" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7848" y="2761">212</tspan>
+    </text><text data-component="svg__label" data-label-id="s_73" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6478" y="3934">116</tspan>
+    </text><text data-component="svg__label" data-label-id="s_76" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7847" y="3161">213</tspan>
+    </text><text data-component="svg__label" data-label-id="s_75" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6290" y="4154">118</tspan>
+    </text><text data-component="svg__label" data-label-id="s_141" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6412" y="6090">323</tspan>
+    </text><text data-component="svg__label" data-label-id="s_142" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3137" y="1550">145</tspan>
+    </text><text data-component="svg__label" data-label-id="s_143" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7859" y="5192">417</tspan>
+    </text><text data-component="svg__label" data-label-id="s_144" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3288" y="1297">146</tspan>
+    </text><text data-component="svg__label" data-label-id="s_386" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2194" y="763">347</tspan>
+    </text><text data-component="svg__label" data-label-id="s_147" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7537" y="5568">418</tspan>
+    </text><text data-component="svg__label" data-label-id="s_148" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6004" y="6250">324</tspan>
+    </text><text data-component="svg__label" data-label-id="p_292" class="label" transform="rotate(-64,2221,1466) "
+      font-size="73">
+      <tspan dy="1em" x="2221" y="1466">HAT</tspan>
+    </text><text data-component="svg__label" data-label-id="p_172" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3862" y="4912">231</tspan>
+    </text><text data-component="svg__label" data-label-id="s_61" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3736" y="3209">38</tspan>
+    </text><text data-component="svg__label" data-label-id="s_60" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3863" y="3357">37</tspan>
+    </text><text data-component="svg__label" data-label-id="p_166" class="label" transform="rotate(49,4037,5236) "
+      font-size="59">
+      <tspan dy="1em" x="4037" y="5236">230</tspan>
+      <tspan dy="2em" x="4037" y="5236">TABLES</tspan>
+    </text><text data-component="svg__label" data-label-id="s_67" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7220" y="2868">111</tspan>
+    </text><text data-component="svg__label" data-label-id="s_66" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7222" y="2631">110</tspan>
+    </text><text data-component="svg__label" data-label-id="s_69" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7810" y="2092">210</tspan>
+    </text><text data-component="svg__label" data-label-id="s_68" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7110" y="3157">112</tspan>
+    </text><text data-component="svg__label" data-label-id="s_63" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3479" y="2928">40</tspan>
+    </text><text data-component="svg__label" data-label-id="s_62" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3598" y="3064">39</tspan>
+    </text><text data-component="svg__label" data-label-id="s_65" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3433" y="2495">42</tspan>
+    </text><text data-component="svg__label" data-label-id="s_64" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3460" y="2674">41</tspan>
+    </text><text data-component="svg__label" data-label-id="p_27" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5279" y="4420">4</tspan>
+    </text><text data-component="svg__label" data-label-id="p_28" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5153" y="4454">5</tspan>
+    </text><text data-component="svg__label" data-label-id="p_29" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4989" y="4432">6</tspan>
+    </text><text data-component="svg__label" data-label-id="s_152" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="5596" y="6421">325</tspan>
+    </text><text data-component="svg__label" data-label-id="s_153" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7214" y="5945">420</tspan>
+    </text><text data-component="svg__label" data-label-id="s_154" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="5119" y="6484">326</tspan>
+    </text><text data-component="svg__label" data-label-id="p_24" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5562" y="4140">1</tspan>
+    </text><text data-component="svg__label" data-label-id="s_155" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6836" y="6383">422</tspan>
+    </text><text data-component="svg__label" data-label-id="p_25" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5499" y="4212">2</tspan>
+    </text><text data-component="svg__label" data-label-id="p_26" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5406" y="4322">3</tspan>
+    </text><text data-component="svg__label" data-label-id="p_380" class="label" transform="rotate(51,7061,1864) "
+      font-size="99">
+      <tspan dy="1em" x="7061" y="1864">259</tspan>
+    </text><text data-component="svg__label" data-label-id="p_379" class="label" transform="rotate(51,6728,1432) "
+      font-size="99">
+      <tspan dy="1em" x="6728" y="1432">257</tspan>
+    </text><text data-component="svg__label" data-label-id="p_258" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7297" y="2474">108</tspan>
+    </text><text data-component="svg__label" data-label-id="p_377" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6365" y="1081">155</tspan>
+    </text><text data-component="svg__label" data-label-id="p_378" class="label" transform="rotate(-22,4176,227) "
+      font-size="119">
+      <tspan dy="1em" x="4176" y="227">250</tspan>
+    </text><text data-component="svg__label" data-label-id="p_257" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7136" y="2294">107</tspan>
+    </text><text data-component="svg__label" data-label-id="p_136" class="label" transform="rotate(11,4841,5769) "
+      font-size="59">
+      <tspan dy="1em" x="4841" y="5769">227</tspan>
+      <tspan dy="2em" x="4841" y="5769">TABLES</tspan>
+    </text><text data-component="svg__label" data-label-id="p_375" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="5845" y="768">153</tspan>
+    </text><text data-component="svg__label" data-label-id="p_376" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6143" y="964">154</tspan>
+    </text><text data-component="svg__label" data-label-id="p_374" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="5575" y="641">152</tspan>
+    </text><text data-component="svg__label" data-label-id="s_96" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="4119" y="4359">131</tspan>
+    </text><text data-component="svg__label" data-label-id="p_139" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4629" y="5495">228</tspan>
+    </text><text data-component="svg__label" data-label-id="s_98" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="8628" y="2811">312</tspan>
+    </text><text data-component="svg__label" data-label-id="s_97" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3930" y="4139">133</tspan>
+    </text><text data-component="svg__label" data-label-id="s_282" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2381" y="5203">435</tspan>
+    </text><text data-component="svg__label" data-label-id="s_162" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6461" y="6730">423</tspan>
+    </text><text data-component="svg__label" data-label-id="s_283" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2057" y="4826">437</tspan>
+    </text><text data-component="svg__label" data-label-id="s_163" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="4641" y="6422">327</tspan>
+    </text><text data-component="svg__label" data-label-id="s_284" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="1733" y="4447">438</tspan>
+    </text><text data-component="svg__label" data-label-id="s_164" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="4233" y="6254">328</tspan>
+    </text><text data-component="svg__label" data-label-id="s_165" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6104" y="6937">424</tspan>
+    </text><text data-component="svg__label" data-label-id="p_393" class="label" transform="rotate(-5,8161,2629) "
+      font-size="69">
+      <tspan dy="1em" x="8161" y="2629">SUITE</tspan>
+      <tspan dy="2em" x="8161" y="2629">14</tspan>
+    </text><text data-component="svg__label" data-label-id="p_151" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4375" y="5334">229</tspan>
+    </text><text data-component="svg__label" data-label-id="p_394" class="label" transform="rotate(-5,8179,2795) "
+      font-size="69">
+      <tspan dy="1em" x="8179" y="2795">SUITE</tspan>
+      <tspan dy="2em" x="8179" y="2795">15</tspan>
+    </text><text data-component="svg__label" data-label-id="p_391" class="label" transform="rotate(-5,8131,2238) "
+      font-size="69">
+      <tspan dy="1em" x="8131" y="2238">SUITE</tspan>
+      <tspan dy="2em" x="8131" y="2238">12</tspan>
+    </text><text data-component="svg__label" data-label-id="p_392" class="label" transform="rotate(-5,8146,2444) "
+      font-size="69">
+      <tspan dy="1em" x="8146" y="2444">SUITE</tspan>
+      <tspan dy="2em" x="8146" y="2444">13</tspan>
+    </text><text data-component="svg__label" data-label-id="p_390" class="label" transform="" font-size="69">
+      <tspan dy="1em" x="8125" y="1989">SUITE</tspan>
+      <tspan dy="2em" x="8125" y="1989">11</tspan>
+    </text><text data-component="svg__label" data-label-id="s_81" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7176" y="4034">216</tspan>
+    </text><text data-component="svg__label" data-label-id="p_388" class="label" transform="" font-size="49">
+      <tspan dy="1em" x="5703" y="5029">SUITE</tspan>
+      <tspan dy="2em" x="5703" y="5029">1</tspan>
+    </text><text data-component="svg__label" data-label-id="s_83" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6941" y="4310">217</tspan>
+    </text><text data-component="svg__label" data-label-id="p_389" class="label" transform="" font-size="49">
+      <tspan dy="1em" x="4257" y="4787">SUITE</tspan>
+      <tspan dy="2em" x="4257" y="4787">10</tspan>
+    </text><text data-component="svg__label" data-label-id="p_387" class="label" transform="rotate(51,6720,2045) "
+      font-size="79">
+      <tspan dy="1em" x="6720" y="2045">59</tspan>
+    </text><text data-component="svg__label" data-label-id="p_145" class="label" transform="rotate(24,4574,5677) "
+      font-size="59">
+      <tspan dy="1em" x="4574" y="5677">228</tspan>
+      <tspan dy="2em" x="4574" y="5677">TABLES</tspan>
+    </text><text data-component="svg__label" data-label-id="s_86" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6736" y="4622">218</tspan>
+    </text><text data-component="svg__label" data-label-id="s_171" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3829" y="6100">329</tspan>
+    </text><text data-component="svg__label" data-label-id="p_49" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4998" y="4626">26</tspan>
+    </text><text data-component="svg__label" data-label-id="p_46" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5613" y="4357">23</tspan>
+    </text><text data-component="svg__label" data-label-id="s_210" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="1775" y="3634">340</tspan>
+    </text><text data-component="svg__label" data-label-id="p_47" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5505" y="4484">24</tspan>
+    </text><text data-component="svg__label" data-label-id="p_48" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5256" y="4612">25</tspan>
+    </text><text data-component="svg__label" data-label-id="s_213" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="1651" y="3256">341</tspan>
+    </text><text data-component="svg__label" data-label-id="s_214" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2378" y="2993">241</tspan>
+    </text><text data-component="svg__label" data-label-id="p_44" class="label" transform="" font-size="79">
+      <tspan dy="1em" x="5704" y="4276">22</tspan>
+    </text><text data-component="svg__label" data-label-id="s_100" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3733" y="3909">135</tspan>
+    </text><text data-component="svg__label" data-label-id="s_222" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2364" y="2649">242</tspan>
+    </text><text data-component="svg__label" data-label-id="s_102" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="8592" y="3211">313</tspan>
+    </text><text data-component="svg__label" data-label-id="s_224" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="1593" y="2909">342</tspan>
+    </text><text data-component="svg__label" data-label-id="s_104" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="9086" y="1969">410</tspan>
+    </text><text data-component="svg__label" data-label-id="s_225" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="1628" y="2527">343</tspan>
+    </text><text data-component="svg__label" data-label-id="s_106" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3545" y="3690">137</tspan>
+    </text><text data-component="svg__label" data-label-id="s_108" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="8467" y="3604">314</tspan>
+    </text><text data-component="svg__label" data-label-id="s_109" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="8237" y="3978">315</tspan>
+    </text><text data-component="svg__label" data-label-id="p_401" class="label" transform="rotate(61,5945,5866) "
+      font-size="49">
+      <tspan dy="1em" x="5945" y="5866">SUITE 22</tspan>
+    </text><text data-component="svg__label" data-label-id="p_402" class="label" transform="rotate(65,5832,5930) "
+      font-size="49">
+      <tspan dy="1em" x="5832" y="5930">SUITE 23</tspan>
+    </text><text data-component="svg__label" data-label-id="p_400" class="label" transform="rotate(56,6058,5792) "
+      font-size="49">
+      <tspan dy="1em" x="6058" y="5792">SUITE 21</tspan>
+    </text><text data-component="svg__label" data-label-id="p_409" class="label" transform="" font-size="49">
+      <tspan dy="1em" x="5383" y="5168">SUITE</tspan>
+      <tspan dy="2em" x="5383" y="5168">3</tspan>
+    </text><text data-component="svg__label" data-label-id="p_30" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4828" y="4324">7</tspan>
+    </text><text data-component="svg__label" data-label-id="p_31" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4736" y="4216">8</tspan>
+    </text><text data-component="svg__label" data-label-id="p_407" class="label" transform="rotate(-87,5030,6095) "
+      font-size="49">
+      <tspan dy="1em" x="5030" y="6095">SUITE 28</tspan>
+    </text><text data-component="svg__label" data-label-id="p_32" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4675" y="4144">9</tspan>
+    </text><text data-component="svg__label" data-label-id="p_408" class="label" transform="rotate(-83,4898,6084) "
+      font-size="49">
+      <tspan dy="1em" x="4898" y="6084">SUITE 29</tspan>
+    </text><text data-component="svg__label" data-label-id="p_405" class="label" transform="rotate(83,5351,6080) "
+      font-size="49">
+      <tspan dy="1em" x="5351" y="6080">SUITE 26</tspan>
+    </text><text data-component="svg__label" data-label-id="p_406" class="label" transform="rotate(87,5218,6093) "
+      font-size="49">
+      <tspan dy="1em" x="5218" y="6093">SUITE 27</tspan>
+    </text><text data-component="svg__label" data-label-id="p_403" class="label" transform="rotate(70,5704,5982) "
+      font-size="49">
+      <tspan dy="1em" x="5704" y="5982">SUITE 24</tspan>
+    </text><text data-component="svg__label" data-label-id="p_404" class="label" transform="" font-size="49">
+      <tspan dy="1em" x="5471" y="6020">SUITE</tspan>
+      <tspan dy="2em" x="5471" y="6020">25</tspan>
+    </text><text data-component="svg__label" data-label-id="s_230" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2334" y="2233">243</tspan>
+    </text><text data-component="svg__label" data-label-id="s_111" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3342" y="3453">138</tspan>
+    </text><text data-component="svg__label" data-label-id="s_113" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="9107" y="2462">411</tspan>
+    </text><text data-component="svg__label" data-label-id="s_234" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="1656" y="2022">344</tspan>
+    </text><text data-component="svg__label" data-label-id="s_116" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="9131" y="3058">412</tspan>
+    </text><text data-component="svg__label" data-label-id="s_117" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3103" y="3174">140</tspan>
+    </text><text data-component="svg__label" data-label-id="s_118" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7910" y="4348">316</tspan>
+    </text><text data-component="svg__label" data-label-id="s_119" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7606" y="4703">317</tspan>
+    </text><text data-component="svg__label" data-label-id="s_121" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="8984" y="3632">413</tspan>
+    </text><text data-component="svg__label" data-label-id="s_242" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="1836" y="1554">345</tspan>
+    </text><text data-component="svg__label" data-label-id="s_123" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2990" y="2809">141</tspan>
+    </text><text data-component="svg__label" data-label-id="s_124" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3019" y="2474">142</tspan>
+    </text><text data-component="svg__label" data-label-id="s_125" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7302" y="5058">318</tspan>
+    </text><text data-component="svg__label" data-label-id="s_246" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2033" y="1133">346</tspan>
+    </text><text data-component="svg__label" data-label-id="s_369" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3576" y="1198">147</tspan>
+    </text><text data-component="svg__label" data-label-id="s_128" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="8817" y="4073">414</tspan>
+    </text><text data-component="svg__label" data-label-id="s_129" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="7000" y="5410">320</tspan>
+    </text><text data-component="svg__label" data-label-id="p_52" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4624" y="4361">29</tspan>
+    </text><text data-component="svg__label" data-label-id="p_53" class="label" transform="" font-size="79">
+      <tspan dy="1em" x="4545" y="4277">30</tspan>
+    </text><text data-component="svg__label" data-label-id="p_50" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4851" y="4573">27</tspan>
+    </text><text data-component="svg__label" data-label-id="p_51" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4720" y="4477">28</tspan>
+    </text><text data-component="svg__label" data-label-id="p_89" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="6379" y="4908">220</tspan>
+    </text><text data-component="svg__label" data-label-id="p_80" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="5850" y="4457">122</tspan>
+    </text><text data-component="svg__label" data-label-id="p_85" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="5187" y="4890">125</tspan>
+    </text><text data-component="svg__label" data-label-id="p_87" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="4920" y="4871">126</tspan>
+    </text><text data-component="svg__label" data-label-id="p_82" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="5691" y="4660">123</tspan>
+    </text><text data-component="svg__label" data-label-id="p_436" class="label" transform="rotate(-85,2655,2358) "
+      font-size="58">
+      <tspan dy="1em" x="2655" y="2358">DECK</tspan>
+    </text><text data-component="svg__label" data-label-id="p_437" class="label" transform="" font-size="76">
+      <tspan dy="1em" x="7831" y="1368">ROOF</tspan>
+    </text><text data-component="svg__label" data-label-id="p_84" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="5448" y="4824">124</tspan>
+    </text><text data-component="svg__label" data-label-id="s_429" class="label" transform="rotate(-85,972,2566) "
+      font-size="119">
+      <tspan dy="1em" x="972" y="2566">GENERAL</tspan>
+      <tspan dy="2em" x="972" y="2566">ADMISSION</tspan>
+    </text><text data-component="svg__label" data-label-id="s_429" class="label" transform="rotate(-288,1366,3602) "
+      font-size="119">
+      <tspan dy="1em" x="1366" y="3602">GENERAL</tspan>
+      <tspan dy="2em" x="1366" y="3602">ADMISSION</tspan>
+    </text><text data-component="svg__label" data-label-id="p_203" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6500" y="1509">157</tspan>
+    </text><text data-component="svg__label" data-label-id="p_447" class="label" transform="rotate(-37,6319,1339) "
+      font-size="119">
+      <tspan dy="1em" x="6319" y="1339">156</tspan>
+    </text><text data-component="svg__label" data-label-id="s_435" class="label" transform="" font-size="108">
+      <tspan dy="1em" x="8907" y="6943">STANDING ROOM</tspan>
+      <tspan dy="2em" x="8907" y="6943">ONLY</tspan>
+    </text><text data-component="svg__label" data-label-id="p_412" class="label" transform="rotate(-66,4415,5938) "
+      font-size="49">
+      <tspan dy="1em" x="4415" y="5938">SUITE 32</tspan>
+    </text><text data-component="svg__label" data-label-id="p_413" class="label" transform="rotate(-61,4299,5874) "
+      font-size="49">
+      <tspan dy="1em" x="4299" y="5874">SUITE 33</tspan>
+    </text><text data-component="svg__label" data-label-id="p_410" class="label" transform="" font-size="49">
+      <tspan dy="1em" x="4785" y="6020">SUITE</tspan>
+      <tspan dy="2em" x="4785" y="6020">30</tspan>
+    </text><text data-component="svg__label" data-label-id="p_411" class="label" transform="rotate(-71,4547,5992) "
+      font-size="49">
+      <tspan dy="1em" x="4547" y="5992">SUITE 31</tspan>
+    </text><text data-component="svg__label" data-label-id="p_418" class="label" transform="rotate(-40,3806,5426) "
+      font-size="49">
+      <tspan dy="1em" x="3806" y="5426">SUITE 38</tspan>
+    </text><text data-component="svg__label" data-label-id="p_419" class="label" transform="rotate(-41,3727,5331) "
+      font-size="49">
+      <tspan dy="1em" x="3727" y="5331">SUITE 39</tspan>
+    </text><text data-component="svg__label" data-label-id="p_416" class="label" transform="rotate(-45,3979,5620) "
+      font-size="49">
+      <tspan dy="1em" x="3979" y="5620">SUITE 36</tspan>
+    </text><text data-component="svg__label" data-label-id="p_417" class="label" transform="rotate(-42,3891,5524) "
+      font-size="49">
+      <tspan dy="1em" x="3891" y="5524">SUITE 37</tspan>
+    </text><text data-component="svg__label" data-label-id="p_414" class="label" transform="rotate(-56,4186,5801) "
+      font-size="49">
+      <tspan dy="1em" x="4186" y="5801">SUITE 34</tspan>
+    </text><text data-component="svg__label" data-label-id="p_415" class="label" transform="rotate(-50,4077,5714) "
+      font-size="49">
+      <tspan dy="1em" x="4077" y="5714">SUITE 35</tspan>
+    </text><text data-component="svg__label" data-label-id="s_200" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3402" y="6393">430</tspan>
+    </text><text data-component="svg__label" data-label-id="s_201" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3029" y="5961">431</tspan>
+    </text><text data-component="svg__label" data-label-id="s_202" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2014" y="4003">339</tspan>
+    </text><text data-component="svg__label" data-label-id="s_205" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2621" y="3547">239</tspan>
+    </text><text data-component="svg__label" data-label-id="s_207" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2459" y="3267">240</tspan>
+    </text><text data-component="svg__label" data-label-id="s_208" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2705" y="5582">433</tspan>
+    </text><text data-component="svg__label" data-label-id="p_423" class="label" transform="" font-size="49">
+      <tspan dy="1em" x="4846" y="5173">SUITE</tspan>
+      <tspan dy="2em" x="4846" y="5173">6</tspan>
+    </text><text data-component="svg__label" data-label-id="p_424" class="label" transform="" font-size="49">
+      <tspan dy="1em" x="4684" y="5108">SUITE</tspan>
+      <tspan dy="2em" x="4684" y="5108">7</tspan>
+    </text><text data-component="svg__label" data-label-id="p_421" class="label" transform="" font-size="59">
+      <tspan dy="1em" x="3607" y="5129">SUITE</tspan>
+      <tspan dy="2em" x="3607" y="5129">40</tspan>
+    </text><text data-component="svg__label" data-label-id="p_90" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="4677" y="4770">127</tspan>
+    </text><text data-component="svg__label" data-label-id="p_422" class="label" transform="" font-size="49">
+      <tspan dy="1em" x="5024" y="5198">SUITE</tspan>
+      <tspan dy="2em" x="5024" y="5198">5</tspan>
+    </text><text data-component="svg__label" data-label-id="p_91" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="4484" y="4602">128</tspan>
+    </text><text data-component="svg__label" data-label-id="p_420" class="label" transform="" font-size="49">
+      <tspan dy="1em" x="5211" y="5195">SUITE</tspan>
+      <tspan dy="2em" x="5211" y="5195">4</tspan>
+    </text><text data-component="svg__label" data-label-id="p_99" class="label" transform="rotate(-39,5951,5493) "
+      font-size="59">
+      <tspan dy="1em" x="5951" y="5493">223</tspan>
+      <tspan dy="2em" x="5951" y="5493">TABLES</tspan>
+    </text><text data-component="svg__label" data-label-id="p_427" class="label" transform="" font-size="49">
+      <tspan dy="1em" x="5971" y="4802">SUITE</tspan>
+      <tspan dy="2em" x="5971" y="4802">A</tspan>
+    </text><text data-component="svg__label" data-label-id="p_92" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="6111" y="5073">222</tspan>
+    </text><text data-component="svg__label" data-label-id="p_428" class="label" transform="" font-size="49">
+      <tspan dy="1em" x="5854" y="4923">SUITE</tspan>
+      <tspan dy="2em" x="5854" y="4923">B</tspan>
+    </text><text data-component="svg__label" data-label-id="p_93" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4354" y="4447">130</tspan>
+    </text><text data-component="svg__label" data-label-id="p_425" class="label" transform="" font-size="49">
+      <tspan dy="1em" x="4530" y="5032">SUITE</tspan>
+      <tspan dy="2em" x="4530" y="5032">8</tspan>
+    </text><text data-component="svg__label" data-label-id="p_94" class="label" transform="rotate(-48,6202,5229) "
+      font-size="59">
+      <tspan dy="1em" x="6202" y="5229">222</tspan>
+      <tspan dy="2em" x="6202" y="5229">TABLES</tspan>
+    </text><text data-component="svg__label" data-label-id="p_426" class="label" transform="" font-size="49">
+      <tspan dy="1em" x="4388" y="4928">SUITE</tspan>
+      <tspan dy="2em" x="4388" y="4928">9</tspan>
+    </text><text data-component="svg__label" data-label-id="p_95" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5873" y="5326">223</tspan>
+    </text><text data-component="svg__label" data-label-id="s_173" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="5648" y="7102">425</tspan>
+    </text><text data-component="svg__label" data-label-id="s_174" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3546" y="5778">330</tspan>
+    </text><text data-component="svg__label" data-label-id="s_175" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="5119" y="7157">426</tspan>
+    </text><text data-component="svg__label" data-label-id="s_38" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6335" y="3420">15</tspan>
+    </text><text data-component="svg__label" data-label-id="s_37" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6462" y="3272">14</tspan>
+    </text><text data-component="svg__label" data-label-id="s_39" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6208" y="3569">16</tspan>
+    </text><text data-component="svg__label" data-label-id="s_179" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3244" y="5426">331</tspan>
+    </text><text data-component="svg__label" data-label-id="p_114" class="label" transform="rotate(-13,5409,5768) "
+      font-size="59">
+      <tspan dy="1em" x="5409" y="5768">225</tspan>
+      <tspan dy="2em" x="5409" y="5768">TABLES</tspan>
+    </text><text data-component="svg__label" data-label-id="p_233" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2533" y="1900">244</tspan>
+    </text><text data-component="svg__label" data-label-id="p_112" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5382" y="5575">225</tspan>
+    </text><text data-component="svg__label" data-label-id="s_34" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6769" y="2696">11</tspan>
+    </text><text data-component="svg__label" data-label-id="s_33" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6822" y="2499">10</tspan>
+    </text><text data-component="svg__label" data-label-id="s_36" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6613" y="3124">13</tspan>
+    </text><text data-component="svg__label" data-label-id="s_35" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6700" y="2935">12</tspan>
+    </text><text data-component="svg__label" data-label-id="s_182" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3501" y="4621">233</tspan>
+    </text><text data-component="svg__label" data-label-id="s_183" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="4581" y="7101">427</tspan>
+    </text><text data-component="svg__label" data-label-id="s_184" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2942" y="5074">333</tspan>
+    </text><text data-component="svg__label" data-label-id="s_185" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3297" y="4323">235</tspan>
+    </text><text data-component="svg__label" data-label-id="s_188" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="4120" y="6935">428</tspan>
+    </text><text data-component="svg__label" data-label-id="s_189" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3768" y="6729">429</tspan>
+    </text><text data-component="svg__label" data-label-id="p_130" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4871" y="5578">227</tspan>
+    </text><text data-component="svg__label" data-label-id="p_247" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2648" y="1272">246</tspan>
+    </text><text data-component="svg__label" data-label-id="p_127" class="label" transform="" font-size="59">
+      <tspan dy="1em" x="5127" y="5799">226</tspan>
+      <tspan dy="2em" x="5127" y="5799">TABLES</tspan>
+    </text><text data-component="svg__label" data-label-id="p_241" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2733" y="1615">245</tspan>
+    </text><text data-component="svg__label" data-label-id="p_120" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5127" y="5602">226</tspan>
+    </text><text data-component="svg__label" data-label-id="s_193" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2640" y="4721">335</tspan>
+    </text><text data-component="svg__label" data-label-id="s_194" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3071" y="4058">237</tspan>
+    </text><text data-component="svg__label" data-label-id="s_196" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2808" y="3820">238</tspan>
+    </text><text data-component="svg__label" data-label-id="s_198" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="2337" y="4368">337</tspan>
+    </text><text data-component="svg__label" data-label-id="s_59" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="3990" y="3505">36</tspan>
+    </text><text data-component="svg__label" data-label-id="p_335" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="2069" y="3011">241</tspan>
+      <tspan dy="2em" x="2069" y="3011">B2</tspan>
+    </text><text data-component="svg__label" data-label-id="p_336" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="2054" y="2810">242</tspan>
+      <tspan dy="2em" x="2054" y="2810">B1</tspan>
+    </text><text data-component="svg__label" data-label-id="p_333" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="2168" y="3330">240</tspan>
+      <tspan dy="2em" x="2168" y="3330">B2</tspan>
+    </text><text data-component="svg__label" data-label-id="p_212" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6685" y="1723">158</tspan>
+    </text><text data-component="svg__label" data-label-id="p_334" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="2116" y="3159">241</tspan>
+      <tspan dy="2em" x="2116" y="3159">B1</tspan>
+    </text><text data-component="svg__label" data-label-id="p_331" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="2325" y="3689">239</tspan>
+      <tspan dy="2em" x="2325" y="3689">B2</tspan>
+    </text><text data-component="svg__label" data-label-id="p_332" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="2230" y="3524">240</tspan>
+      <tspan dy="2em" x="2230" y="3524">B1</tspan>
+    </text><text data-component="svg__label" data-label-id="p_330" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="5292" y="278">252</tspan>
+    </text><text data-component="svg__label" data-label-id="s_56" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4237" y="3910">33</tspan>
+    </text><text data-component="svg__label" data-label-id="s_55" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4334" y="4023">32</tspan>
+    </text><text data-component="svg__label" data-label-id="s_58" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="4087" y="3640">35</tspan>
+    </text><text data-component="svg__label" data-label-id="s_57" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4143" y="3800">34</tspan>
+    </text><text data-component="svg__label" data-label-id="p_339" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="7468" y="4204">216</tspan>
+      <tspan dy="2em" x="7468" y="4204">B1</tspan>
+    </text><text data-component="svg__label" data-label-id="p_219" class="label" transform="rotate(-37,6925,2121) "
+      font-size="119">
+      <tspan dy="1em" x="6925" y="2121">160</tspan>
+    </text><text data-component="svg__label" data-label-id="p_337" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="2071" y="2575">242</tspan>
+      <tspan dy="2em" x="2071" y="2575">B2</tspan>
+    </text><text data-component="svg__label" data-label-id="p_216" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="6858" y="1945">159</tspan>
+    </text><text data-component="svg__label" data-label-id="s_54" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4430" y="4135">31</tspan>
+    </text><text data-component="svg__label" data-label-id="p_338" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="7808" y="3812">214</tspan>
+      <tspan dy="2em" x="7808" y="3812">B3</tspan>
+    </text><text data-component="svg__label" data-label-id="p_346" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="2781" y="4213">237</tspan>
+      <tspan dy="2em" x="2781" y="4213">B2</tspan>
+    </text><text data-component="svg__label" data-label-id="p_347" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="2454" y="3831">239</tspan>
+      <tspan dy="2em" x="2454" y="3831">B1</tspan>
+    </text><text data-component="svg__label" data-label-id="p_105" class="label" transform="rotate(-23,5673,5670) "
+      font-size="59">
+      <tspan dy="1em" x="5673" y="5670">224</tspan>
+      <tspan dy="2em" x="5673" y="5670">TABLES</tspan>
+    </text><text data-component="svg__label" data-label-id="p_344" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="3022" y="4493">235</tspan>
+      <tspan dy="2em" x="3022" y="4493">B2</tspan>
+    </text><text data-component="svg__label" data-label-id="p_345" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="2904" y="4356">237</tspan>
+      <tspan dy="2em" x="2904" y="4356">B1</tspan>
+    </text><text data-component="svg__label" data-label-id="p_342" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="7108" y="4622">217</tspan>
+      <tspan dy="2em" x="7108" y="4622">B2</tspan>
+    </text><text data-component="svg__label" data-label-id="p_343" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="3134" y="4623">235</tspan>
+      <tspan dy="2em" x="3134" y="4623">B1</tspan>
+    </text><text data-component="svg__label" data-label-id="p_101" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5623" y="5489">224</tspan>
+    </text><text data-component="svg__label" data-label-id="p_340" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="7347" y="4345">216</tspan>
+      <tspan dy="2em" x="7347" y="4345">B2</tspan>
+    </text><text data-component="svg__label" data-label-id="p_341" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="7227" y="4484">217</tspan>
+      <tspan dy="2em" x="7227" y="4484">B1</tspan>
+    </text><text data-component="svg__label" data-label-id="s_45" class="label" transform="" font-size="59">
+      <tspan dy="1em" x="5784" y="4183">21</tspan>
+    </text><text data-component="svg__label" data-label-id="s_41" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="6043" y="3856">18</tspan>
+    </text><text data-component="svg__label" data-label-id="s_40" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="6138" y="3745">17</tspan>
+    </text><text data-component="svg__label" data-label-id="p_348" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="8008" y="3546">214</tspan>
+      <tspan dy="2em" x="8008" y="3546">B1</tspan>
+    </text><text data-component="svg__label" data-label-id="s_43" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5854" y="4076">20</tspan>
+    </text><text data-component="svg__label" data-label-id="p_349" class="label" transform="" font-size="31">
+      <tspan dy="1em" x="7917" y="3686">214</tspan>
+      <tspan dy="2em" x="7917" y="3686">B2</tspan>
+    </text><text data-component="svg__label" data-label-id="s_42" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5948" y="3966">19</tspan>
+    </text></g>
+</svg>

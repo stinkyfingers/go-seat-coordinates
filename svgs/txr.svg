@@ -1,0 +1,838 @@
+<svg data-component="svg" class="map__svg" viewBox="0 0 10240 7680"
+  style="background-image: url(&quot;https://mapsapi.tmol.io/maps/geometry/image/58/49/584999?removeFilters=ISM_Shadow&amp;avertaFonts=true&amp;app=PRD2663_EDP_NA&quot;); transform: rotate(0deg);">
+  <g class="seats"></g>
+  <g class="polygons">
+    <path data-component="svg__section" data-section-id="s_250" data-section-name="33"
+      class="block is-available is-filtered minimum"
+      d="M2916.46,3117.84C2949.68,2961.56,2982.9,2805.27,3016.12,2648.99C2888.96,2621.96,2761.8,2594.93,2634.64,2567.9C2618.31,2644.73,2601.98,2721.55,2585.65,2798.38L2585.65,2798.38C2695.92,2904.87,2806.19,3011.36,2916.46,3117.84Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_130" data-section-name="203" class="block"
+      d="M1681.91,2960.25L1625.5,3255.95L2014.78,3326.91L2073.23,3031.58L1681.91,2960.25Z"></path>
+    <path data-component="svg__section" data-section-id="s_251" data-section-name="244" class="block"
+      d="M2037.36,1816.07C2213.32,1715.54,2345.9,1639.87,2521.87,1539.35C2560.87,1606.9,2599.87,1674.45,2638.88,1742.01C2462.91,1842.53,2330.33,1918.21,2154.37,2018.73L2154.37,2018.73C2115.36,1951.18,2076.36,1883.62,2037.36,1816.07Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_252" data-section-name="32"
+      class="block is-available is-filtered minimum"
+      d="M3067.88,2405.47C3050.62,2486.64,3033.37,2567.82,3016.12,2648.99C2888.96,2621.96,2761.8,2594.93,2634.64,2567.9C2651.89,2486.73,2669.14,2405.56,2686.4,2324.39L2686.4,2324.39C2813.56,2351.41,2940.72,2378.44,3067.88,2405.47Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_253" data-section-name="242" class="block"
+      d="M3076.59,1222.37C3250.37,1123.1,3380.77,1048.67,3554.55,949.396C3593.55,1016.95,3632.55,1084.5,3671.55,1152.06C3497.77,1251.33,3367.38,1325.76,3193.6,1425.03L3193.6,1425.03C3154.6,1357.48,3115.6,1289.93,3076.59,1222.37Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_254" data-section-name="243" class="block"
+      d="M2565.25,1514.49C2735.7,1417.12,2862.76,1344.6,3033.21,1247.23C3072.21,1314.78,3111.21,1382.33,3150.22,1449.89C2979.77,1547.26,2852.71,1619.78,2682.26,1717.15L2682.26,1717.15C2643.26,1649.6,2604.26,1582.05,2565.25,1514.49Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_134" data-section-name="111"
+      class="block is-available is-filtered minimum"
+      d="M4122.46,5887.5L3739.79,6329.73L4093.41,6528.13L4380.43,6044.38L4137.04,5906.02L4122.46,5887.5Z"></path>
+    <path data-component="svg__section" data-section-id="s_135" data-section-name="201" class="block"
+      d="M1765.85,2520.25L1736.3,2675.16L2129.61,2746.76L2159.57,2595.36L1765.85,2520.25Z"></path>
+    <path data-component="svg__section" data-section-id="s_136" data-section-name="126"
+      class="block is-available is-filtered minimum"
+      d="M8024.22,3088.3L7448.2,3203.02L7503.93,3482.89L8101.72,3505.96L8024.22,3088.3Z"></path>
+    <path data-component="svg__section" data-section-id="s_257" data-section-name="235"
+      class="block is-available is-filtered minimum"
+      d="M7088.7,1356.51C6976.42,1244.82,6864.15,1133.13,6751.87,1021.44C6890.76,881.429,7029.66,741.414,7168.56,601.399C7282.29,711.631,7396.02,821.863,7509.74,932.095L7509.74,932.095C7369.4,1073.57,7229.05,1215.04,7088.7,1356.51Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_137" data-section-name="SB2" class="block"
+      d="M2142.72,2750.2L2086.75,3033.02L2265.59,3065.61L2319.62,2782.4L2142.72,2750.2Z"></path>
+    <path data-component="svg__section" data-section-id="s_258" data-section-name="236"
+      class="block is-available is-filtered middle"
+      d="M6379.93,651.509C6503.9,774.829,6627.87,898.15,6751.84,1021.47C6890.82,881.373,7029.8,741.276,7168.78,601.179C7043.25,479.432,6917.72,357.685,6792.19,235.938L6792.19,235.938C6716.2,312.539,6441.36,589.587,6379.93,651.509Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_259" data-section-name="237"
+      class="block is-available is-filtered middle"
+      d="M6562.01,467.961C6499.36,405.642,6408.93,316.766,6346.28,254.447C6285.59,315.63,6224.89,376.813,6164.2,437.995C6226.85,500.314,6317.28,589.19,6379.93,651.509L6379.93,651.509C6440.62,590.327,6501.32,529.144,6562.01,467.961Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_139" data-section-name="26"
+      class="block is-available is-filtered minimum"
+      d="M7437.0,3142.0L7421.0,3065.0L7386.0,2890.0L7186.0,3093.0L7220.01,3260.91L7451.5,3217.0L7437.0,3142.0Z"></path>
+    <path data-component="svg__section" data-section-id="s_70" data-section-name="219"
+      class="block is-available is-filtered middle"
+      d="M5860.68,6615.45L5578.65,6781.34L5620.93,6973.52L5954.56,6776.39L5860.68,6615.45Z"></path>
+    <path data-component="svg__section" data-section-id="s_72" data-section-name="214"
+      class="block is-available is-filtered minimum"
+      d="M3884.68,6433.8L3788.45,6604.12L4095.76,6776.62L4186.79,6603.2L3884.68,6433.8Z"></path>
+    <path data-component="svg__section" data-section-id="s_71" data-section-name="215"
+      class="block is-available is-filtered minimum"
+      d="M4187.67,6603.7L4096.65,6777.12L4446.49,6973.5L4508.08,6783.37L4187.67,6603.7Z"></path>
+    <path data-component="svg__section" data-section-id="s_78" data-section-name="207"
+      class="block is-available is-filtered minimum"
+      d="M2280.13,4103.15L1978.1,4184.87L2097.4,4599.08L2397.71,4520.23L2280.13,4103.15Z"></path>
+    <path data-component="svg__section" data-section-id="s_77" data-section-name="205" class="block"
+      d="M2152.54,3650.5L1848.75,3735.68L1894.29,3893.78L2197.42,3809.68L2152.54,3650.5Z"></path>
+    <path data-component="svg__section" data-section-id="s_79" data-section-name="212"
+      class="block is-available is-filtered minimum"
+      d="M3380.31,5904.45L3132.5,6097.96L3391.65,6429.45L3641.76,6237.2L3380.31,5904.45Z"></path>
+    <path data-component="svg__section" data-section-id="s_73" data-section-name="213"
+      class="block is-available is-filtered minimum"
+      d="M3642.37,6238.0L3392.25,6430.25L3506.99,6577.02L3787.44,6603.82L3883.78,6433.31L3726.55,6345.14L3642.37,6238.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_260" data-section-name="238"
+      class="block is-available is-filtered middle"
+      d="M6100.09,339.255C5972.35,339.255,5844.6,339.255,5716.86,339.255C5716.86,379.175,5716.86,419.095,5716.86,459.014C5844.6,459.014,5972.35,459.014,6100.09,459.014L6100.09,459.014C6100.09,419.095,6100.09,379.175,6100.09,339.255Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_261" data-section-name="130"
+      class="block is-available is-filtered middle"
+      d="M7384.91,1665.32L7299.91,1581.32L7277.91,1560.32L7173.91,1456.32L7171.91,1454.32L6638.54,1980.58L6956.6,2300.06L7495.21,1777.31L7384.91,1665.32Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_262" data-section-name="28" class="block"
+      d="M3855.84,1425.21C3996.14,1344.21,4136.45,1263.21,4276.75,1182.2C4307.06,1234.71,4337.38,1287.21,4367.69,1339.72C4249.62,1407.89,4131.54,1476.06,4013.46,1544.23C4007.8,1534.42,4002.14,1524.62,3996.48,1514.81L3996.48,1514.81C3949.6,1484.95,3902.72,1455.08,3855.84,1425.21Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_263" data-section-name="29"
+      class="block is-available is-filtered middle"
+      d="M3855.84,1425.21C3741.5,1491.23,3627.17,1557.24,3512.83,1623.25C3577.83,1735.83,3642.82,1848.4,3707.82,1960.98C3844.38,1882.13,3980.95,1803.29,4117.51,1724.44C4082.83,1664.37,4048.15,1604.3,4013.46,1544.23C4007.8,1534.42,4002.14,1524.62,3996.48,1514.81L3996.48,1514.81C3949.6,1484.95,3902.72,1455.08,3855.84,1425.21Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_264" data-section-name="30"
+      class="block is-available is-filtered middle"
+      d="M3325.87,2181.5C3453.18,2107.99,3580.5,2034.49,3707.82,1960.98C3642.82,1848.4,3577.83,1735.83,3512.83,1623.25C3385.51,1696.76,3258.2,1770.26,3130.88,1843.77L3130.88,1843.77C3195.88,1956.35,3260.87,2068.92,3325.87,2181.5Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_265" data-section-name="31"
+      class="block is-available is-filtered minimum"
+      d="M3067.88,2405.47C3073.94,2376.97,3080.0,2348.46,3086.06,2319.95C3165.99,2273.8,3245.92,2227.65,3325.86,2181.5C3260.86,2068.93,3195.86,1956.35,3130.87,1843.78C3000.8,1918.87,2870.74,1993.96,2740.67,2069.06C2722.58,2154.17,2704.49,2239.28,2686.4,2324.39L2686.4,2324.39C2813.56,2351.41,2940.72,2378.44,3067.88,2405.47Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_266" data-section-name="27" class="block"
+      d="M4367.7,1339.71C4512.94,1255.86,4658.17,1172.01,4803.4,1088.16C4773.09,1035.65,4742.77,983.148,4712.46,930.643C4567.23,1014.49,4421.99,1098.34,4276.76,1182.19L4276.76,1182.19C4307.07,1234.7,4337.39,1287.2,4367.7,1339.71Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_67" data-section-name="225"
+      class="block is-available is-filtered minimum"
+      d="M7482.15,4864.5L7182.5,5252.9L7426.34,5441.38L7727.9,5054.5L7482.15,4864.5Z"></path>
+    <path data-component="svg__section" data-section-id="s_69" data-section-name="221"
+      class="block is-available is-filtered middle"
+      d="M6355.71,6324.25L6141.8,6450.08L6231.26,6613.33L6287.99,6714.22L6547.32,6568.7L6355.71,6324.25Z"></path>
+    <path data-component="svg__section" data-section-id="s_68" data-section-name="223"
+      class="block is-available is-filtered minimum"
+      d="M6924.28,5587.55L6603.85,6002.89L6843.8,6188.65L7168.39,5772.24L6924.28,5587.55Z"></path>
+    <path data-component="svg__section" data-section-id="s_274" data-section-name="134" class="block"
+      d="M5977.72,696.811L5977.72,696.811C5672.37,696.811,5367.02,696.811,5068.07,696.811C5068.07,763.452,5068.07,813.127,5068.07,862.803L5068.07,862.803L5790.54,862.803L5977.64,727.237L5977.72,696.811Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_275" data-section-name="135" class="block"
+      d="M5068.0,782.874L5068.0,696.872L4493.5,696.872L4513.07,782.874L5068.0,782.874Z"></path>
+    <path data-component="svg__section" data-section-id="s_90" data-section-name="121"
+      class="block is-available is-filtered minimum"
+      d="M6854.15,4736.0L6624.85,5031.37L7064.37,5373.84L7292.71,5077.87L6854.15,4736.0Z"></path>
+    <path data-component="svg__section" data-section-id="s_99" data-section-name="106"
+      class="block is-available is-filtered minimum"
+      d="M2996.12,4456.4L2475.3,4720.31L2769.79,5095.12L3220.78,4741.84L2996.12,4456.4Z"></path>
+    <path data-component="svg__section" data-section-id="s_96" data-section-name="103"
+      class="block is-available is-filtered minimum"
+      d="M2747.63,3623.0L2173.45,3650.65L2282.02,4035.67L2822.37,3881.72L2747.63,3623.0Z"></path>
+    <path data-component="svg__section" data-section-id="s_98" data-section-name="105"
+      class="block is-available is-filtered minimum"
+      d="M2913.15,4195.95L2371.5,4353.0L2474.84,4719.45L2995.48,4455.63L2983.93,4440.95L2913.15,4195.95Z"></path>
+    <path data-component="svg__section" data-section-id="s_97" data-section-name="104"
+      class="block is-available is-filtered minimum"
+      d="M2822.65,3882.7L2282.3,4036.65L2371.23,4352.03L2912.87,4194.98L2822.65,3882.7Z"></path>
+    <path data-component="svg__section" data-section-id="s_163" data-section-name="1"
+      class="block is-available is-filtered minimum"
+      d="M2851.0,3066.0L2840.0,3123.0L2795.0,3362.0L2745.0,3622.0L2989.0,3611.0L3018.51,3453.46L3027.0,3410.0L3054.0,3267.0L2851.0,3066.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_166" data-section-name="141"
+      class="block is-available is-filtered middle"
+      d="M2493.65,2009.66C2469.76,2118.22,2445.87,2226.78,2421.99,2335.35L2421.99,2335.35C2539.57,2360.57,2657.16,2385.79,2657.16,2385.79C2680.11,2276.65,2703.08,2167.5,2726.04,2058.35L2726.04,2058.35C2648.58,2042.12,2571.11,2025.88,2493.65,2009.66Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_167" data-section-name="326" class="block"
+      d="M8546.89,1952.5L8193.9,2152.71L8240.9,2384.71L8615.98,2312.41L8546.89,1952.5Z"></path>
+    <path data-component="svg__section" data-section-id="s_201" data-section-name="142"
+      class="block is-available is-filtered minimum"
+      d="M2572.68,2796.68L2657.03,2385.88L2422.02,2335.45L2366.03,2597.01L2572.68,2796.68Z"></path>
+    <path data-component="svg__section" data-section-id="s_202" data-section-name="325" class="block"
+      d="M8615.98,2312.45L8240.9,2384.75L8326.06,2807.01L8694.81,2734.91L8615.98,2312.45Z"></path>
+    <path data-component="svg__section" data-section-id="s_205" data-section-name="234"
+      class="block is-available is-filtered minimum"
+      d="M7084.95,1354.77L7403.89,1666.56L7827.43,1236.28L7507.37,929.6L7084.95,1354.77Z"></path>
+    <path data-component="svg__section" data-section-id="s_206" data-section-name="233"
+      class="block is-available is-filtered minimum"
+      d="M7404.0,1666.56L7726.37,1991.33L8152.86,1557.82L7827.56,1236.3L7404.0,1666.56Z"></path>
+    <path data-component="svg__section" data-section-id="s_207" data-section-name="140"
+      class="block is-available is-filtered minimum"
+      d="M2905.59,1663.96L2492.17,1893.92L2464.11,2003.84L2726.1,2058.29L3028.47,1881.2L2905.59,1663.96Z"></path>
+    <path data-component="svg__section" data-section-id="s_208" data-section-name="129"
+      class="block is-available is-filtered minimum"
+      d="M7722.76,2006.81L7179.3,2519.64L6999.56,2341.23L6956.6,2300.06L7495.25,1775.3L7722.76,2006.81Z"></path>
+    <path data-component="svg__section" data-section-id="s_209" data-section-name="128"
+      class="block is-available is-filtered minimum"
+      d="M7284.84,2992.53L7893.05,2380.94L7853.09,2154.84L7722.76,2006.95L7179.3,2519.76L7215.14,2558.95L7284.84,2992.53Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_81" data-section-name="209"
+      class="block is-available is-filtered minimum"
+      d="M2602.3,4914.3L2359.8,5109.59L2651.14,5482.24L2898.58,5291.36L2602.3,4914.3Z"></path>
+    <path data-component="svg__section" data-section-id="s_80" data-section-name="210"
+      class="block is-available is-filtered middle"
+      d="M2899.19,5292.15L2651.75,5483.03L2895.46,5794.77L3143.67,5603.3L2899.19,5292.15Z"></path>
+    <path data-component="svg__section" data-section-id="s_83" data-section-name="211"
+      class="block is-available is-filtered minimum"
+      d="M3144.31,5604.1L2896.1,5795.57L3131.9,6097.18L3379.7,5903.68L3144.31,5604.1Z"></path>
+    <path data-component="svg__section" data-section-id="s_82" data-section-name="208"
+      class="block is-available is-filtered minimum"
+      d="M2398.0,4521.2L2097.7,4600.05L2177.18,4876.0L2359.2,5108.82L2601.69,4913.54L2456.53,4728.8L2398.0,4521.2Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_89" data-section-name="227" class="block"
+      d="M7942.61,4096.05L7855.89,4380.06L7780.35,4477.98L8029.38,4667.72L8131.39,4536.86L8244.22,4183.18L7942.61,4096.05Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_88" data-section-name="229"
+      class="block is-available is-filtered minimum"
+      d="M8397.39,3306.2L8094.99,3364.43L8122.22,3507.79L8058.4,3716.81L8363.19,3810.2L8444.02,3556.84L8397.39,3306.2Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_85" data-section-name="230"
+      class="block is-available is-filtered minimum"
+      d="M8310.63,2839.7L8006.4,2897.88L8094.82,3363.45L8397.22,3305.22L8310.63,2839.7Z"></path>
+    <path data-component="svg__section" data-section-id="s_84" data-section-name="217"
+      class="block is-available is-filtered minimum"
+      d="M5221.9,6782.25L4856.5,6782.97L4856.5,6973.79L5221.9,6973.79L5221.9,6782.25Z"></path>
+    <path data-component="svg__section" data-section-id="s_87" data-section-name="231"
+      class="block is-available is-filtered middle"
+      d="M8224.72,2378.05L7918.8,2436.76L8006.19,2896.92L8310.42,2838.74L8224.72,2378.05Z"></path>
+    <path data-component="svg__section" data-section-id="s_171" data-section-name="101"
+      class="block is-available is-filtered minimum"
+      d="M2372.4,2603.4L2254.02,3223.66L2801.01,3327.12L2850.93,3065.96L2420.95,2650.34L2372.4,2603.4Z"></path>
+    <path data-component="svg__section" data-section-id="s_172" data-section-name="102"
+      class="block is-available is-filtered minimum"
+      d="M2254.11,3223.75L2173.35,3649.67L2747.35,3622.04L2745.88,3616.94L2801.1,3327.21L2254.11,3223.75Z"></path>
+    <path data-component="svg__section" data-section-id="s_38" data-section-name="314"
+      class="block is-available is-filtered middle"
+      d="M5233.8,7118.45L4856.8,7118.45L4856.8,7447.43L5120.03,7447.11L5120.05,7224.29L5233.8,7224.3L5233.8,7118.45Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_37" data-section-name="313"
+      class="block is-available is-filtered middle"
+      d="M4855.8,7118.45L4463.0,7118.46L4463.0,7447.91L4855.8,7447.43L4855.8,7118.45Z"></path>
+    <path data-component="svg__section" data-section-id="s_178" data-section-name="139"
+      class="block is-available is-filtered minimum"
+      d="M3266.78,1398.59L2879.87,1619.91L3028.61,1881.24L3415.52,1659.92L3266.78,1398.59Z"></path>
+    <path data-component="svg__section" data-section-id="s_213" data-section-name="10"
+      class="block is-available is-filtered middle"
+      d="M4339.0,5320.0L4155.0,5465.0L4313.0,5665.0L4468.0,5485.0L4339.0,5320.0ZM3928.0,5643.0L3929.0,5644.0L4024.0,5764.0L4058.0,5806.0L4122.0,5887.0L4280.0,5704.0L4115.0,5496.0L3928.0,5643.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_214" data-section-name="11"
+      class="block is-available is-filtered middle"
+      d="M4631.0,5587.0L4482.0,5501.0L4480.0,5500.0L4468.0,5485.0L4313.0,5665.0L4326.0,5684.0L4515.0,5790.0L4631.0,5587.0ZM4122.0,5887.0L4137.0,5906.0L4372.0,6040.0L4489.0,5835.0L4293.0,5720.0L4280.0,5704.0L4122.0,5887.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_215" data-section-name="12" class="block"
+      d="M4631.0,5587.0L4515.0,5790.0L4724.0,5911.0L4744.0,5911.0L4809.0,5677.0L4786.5,5676.0L4784.0,5674.0L4631.0,5587.0ZM4489.0,5835.0L4372.0,6040.0L4385.0,6047.0L4464.0,6092.0L4507.0,6116.0L4559.0,6146.0L4593.55,6085.46L4675.96,5940.96L4602.0,5898.0L4489.0,5835.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_216" data-section-name="13"
+      class="block is-available is-filtered minimum"
+      d="M4559.0,6146.0L4634.0,6189.0L4649.0,6197.0L5047.0,6196.0L5045.0,5962.0L5045.0,5960.0L4711.0,5960.0L4676.0,5941.0L4559.0,6146.0ZM5045.0,5909.0L5043.0,5676.0L4809.0,5677.0L4744.0,5911.0L5045.0,5909.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_217" data-section-name="14"
+      class="block is-available is-filtered minimum"
+      d="M5282.0,5673.0L5256.0,5674.0L5214.0,5674.0L5043.0,5676.0L5045.0,5909.0L5345.0,5909.0L5282.0,5673.0ZM5047.0,6196.0L5054.0,6196.0L5426.0,6194.0L5444.0,6194.0L5490.0,6166.0L5512.0,6154.0L5393.0,5950.0L5380.0,5958.0L5045.0,5960.0L5045.0,5962.0L5047.0,6196.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_218" data-section-name="15"
+      class="block is-available is-filtered minimum"
+      d="M5452.0,5586.0L5436.0,5596.0L5301.5,5674.0L5282.0,5673.0L5345.0,5909.0L5365.0,5907.0L5569.0,5788.0L5452.0,5586.0ZM5595.0,5833.0L5476.0,5900.0L5393.01,5950.01L5512.0,6154.0L5714.0,6036.0L5595.0,5833.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_219" data-section-name="16"
+      class="block is-available is-filtered middle"
+      d="M5953.0,5897.0L5968.0,5878.0L5810.0,5700.0L5799.0,5714.0L5595.0,5833.0L5714.0,6036.0L5953.0,5897.0ZM5618.0,5479.0L5606.0,5496.0L5452.0,5586.0L5569.0,5788.0L5762.0,5676.0L5775.0,5660.0L5618.0,5479.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_34" data-section-name="310"
+      class="block is-available is-filtered minimum"
+      d="M3615.94,6664.5L3415.65,6993.17L3803.15,7215.24L3996.44,6882.37L3615.94,6664.5Z"></path>
+    <path data-component="svg__section" data-section-id="s_33" data-section-name="315"
+      class="block is-available is-filtered middle"
+      d="M5435.35,7118.45L5234.8,7118.46L5234.8,7224.31L5435.33,7224.32L5435.35,7118.45Z"></path>
+    <path data-component="svg__section" data-section-id="s_36" data-section-name="312"
+      class="block is-available is-filtered minimum"
+      d="M4271.87,7040.05L4073.5,7370.15L4301.22,7500.65L4325.72,7448.1L4462.0,7447.93L4462.0,7118.48L4408.85,7118.48L4271.87,7040.05Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_35" data-section-name="311"
+      class="block is-available is-filtered minimum"
+      d="M3997.3,6882.85L3804.0,7215.72L4072.61,7369.66L4270.98,7039.56L3997.3,6882.85Z"></path>
+    <path data-component="svg__section" data-section-id="s_30" data-section-name="307"
+      class="block is-available is-filtered minimum"
+      d="M2745.77,5635.85L2449.25,5872.48L2768.65,6283.49L3071.78,6052.86L2745.77,5635.85Z"></path>
+    <path data-component="svg__section" data-section-id="s_32" data-section-name="309"
+      class="block is-available is-filtered minimum"
+      d="M3351.27,6410.35L3048.1,6643.07L3243.49,6894.5L3414.76,6992.65L3615.05,6663.98L3496.47,6596.08L3351.27,6410.35Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_31" data-section-name="308"
+      class="block is-available is-filtered middle"
+      d="M3072.43,6053.65L2769.3,6284.28L3047.51,6642.29L3350.68,6409.57L3072.43,6053.65Z"></path>
+    <path data-component="svg__section" data-section-id="s_27" data-section-name="304"
+      class="block is-available is-filtered minimum"
+      d="M2105.25,4698.65L1742.0,4802.04L1814.96,5056.24L1953.32,5234.27L2257.95,5011.81L2158.99,4885.22L2105.25,4698.65Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_220" data-section-name="17"
+      class="block is-available is-filtered minimum"
+      d="M5976.0,5486.0L5810.0,5700.0L5968.0,5878.0L5995.0,5843.0L6034.0,5792.0L6162.0,5628.0L5976.0,5486.0ZM5775.0,5660.0L5935.0,5454.0L5749.0,5312.0L5665.0,5420.0L5618.0,5479.0L5775.0,5660.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_26" data-section-name="303"
+      class="block is-available is-filtered minimum"
+      d="M1985.65,4283.45L1622.7,4386.41L1741.72,4801.11L2104.97,4697.72L1985.65,4283.45Z"></path>
+    <path data-component="svg__section" data-section-id="s_100" data-section-name="108"
+      class="block is-available is-filtered minimum"
+      d="M3449.68,5032.7L2998.45,5386.17L3230.19,5681.12L3681.63,5327.41L3449.68,5032.7Z"></path>
+    <path data-component="svg__section" data-section-id="s_221" data-section-name="18" class="block"
+      d="M5833.0,5202.0L5749.0,5312.0L5935.0,5454.0L6110.0,5229.0L5978.0,5124.0L5895.0,5231.0L5843.0,5190.0L5833.0,5202.0ZM6320.0,5425.0L6337.0,5403.0L6151.0,5258.0L5976.0,5486.0L6162.0,5628.0L6299.0,5451.0L6320.0,5425.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_29" data-section-name="306"
+      class="block is-available is-filtered minimum"
+      d="M2420.12,5219.25L2121.55,5450.76L2448.65,5871.67L2745.17,5635.04L2420.12,5219.25Z"></path>
+    <path data-component="svg__section" data-section-id="s_101" data-section-name="110"
+      class="block is-available is-filtered minimum"
+      d="M3906.52,5613.15L3454.8,5967.0L3738.96,6328.67L4121.82,5886.7L3906.52,5613.15Z"></path>
+    <path data-component="svg__section" data-section-id="s_222" data-section-name="19"
+      class="block is-available is-filtered minimum"
+      d="M6337.0,5403.0L6364.0,5368.0L6455.0,5251.0L6547.0,5132.0L6548.0,5133.0L6553.0,5126.0L6366.0,4982.0L6151.0,5258.0L6337.0,5403.0ZM5978.0,5124.0L6110.0,5229.0L6326.0,4950.0L6193.0,4847.0L5978.0,5124.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_28" data-section-name="305"
+      class="block is-available is-filtered middle"
+      d="M2258.54,5012.6L1953.9,5235.07L2120.92,5449.98L2419.49,5218.48L2258.54,5012.6Z"></path>
+    <path data-component="svg__section" data-section-id="s_102" data-section-name="112"
+      class="block is-available is-filtered minimum"
+      d="M4381.31,6044.9L4094.3,6528.64L4513.36,6763.6L4669.92,6196.96L4648.95,6197.04L4381.31,6044.9Z"></path>
+    <path data-component="svg__section" data-section-id="s_223" data-section-name="2"
+      class="block is-available is-filtered middle"
+      d="M2745.0,3621.91L2758.0,3665.91L2840.0,3948.91L3067.0,3881.91L2989.0,3610.91L2745.0,3621.91ZM3298.04,3509.04L3100.09,3311.9L3041.0,3610.91L3115.0,3867.91L3341.0,3801.91L3282.04,3597.99L3298.04,3509.04Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_103" data-section-name="114"
+      class="block is-available is-filtered middle"
+      d="M5221.5,6194.85L4875.7,6196.17L4875.7,6763.33L5221.5,6762.69L5221.5,6194.85Z"></path>
+    <path data-component="svg__section" data-section-id="s_224" data-section-name="20"
+      class="block is-available is-filtered minimum"
+      d="M6553.0,5126.0L6759.0,4861.0L6572.0,4715.0L6366.0,4982.0L6553.0,5126.0ZM6326.0,4950.0L6531.0,4685.0L6398.0,4583.0L6193.0,4847.0L6326.0,4950.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_104" data-section-name="116"
+      class="block is-available is-filtered minimum"
+      d="M5708.08,6039.8L5443.96,6193.96L5428.0,6194.02L5573.26,6761.83L5982.71,6520.91L5708.08,6039.8Z"></path>
+    <path data-component="svg__section" data-section-id="s_225" data-section-name="21"
+      class="block is-available is-filtered middle"
+      d="M6463.0,4497.0L6464.0,4498.0L6398.0,4583.0L6531.0,4685.0L6701.0,4467.0L6515.0,4323.0L6412.0,4457.0L6463.0,4497.0ZM7005.5,4540.0L7019.0,4523.0L6835.0,4377.0L6572.0,4715.0L6759.0,4861.0L6915.5,4659.0L7005.5,4540.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_105" data-section-name="118"
+      class="block is-available is-filtered minimum"
+      d="M6165.08,5623.65L5968.1,5877.41L6343.2,6308.63L6606.33,5967.56L6165.08,5623.65Z"></path>
+    <path data-component="svg__section" data-section-id="s_226" data-section-name="22"
+      class="block is-available is-filtered middle"
+      d="M6701.0,4467.0L6859.0,4262.0L6675.0,4119.0L6515.0,4323.0L6701.0,4467.0ZM7019.0,4523.0L7020.0,4524.0L7334.0,4118.0L7119.0,4009.0L6835.0,4377.0L7019.0,4523.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_106" data-section-name="120"
+      class="block is-available is-filtered minimum"
+      d="M6624.23,5032.15L6393.9,5328.86L6834.27,5672.07L7063.75,5374.62L6624.23,5032.15Z"></path>
+    <path data-component="svg__section" data-section-id="s_227" data-section-name="23"
+      class="block is-available is-filtered middle"
+      d="M7203.99,3707.0L7118.99,4009.0L7333.99,4118.0L7432.99,3773.0L7203.99,3707.0ZM6859.99,3878.0L6857.99,3880.0L6674.9,4119.11L6859.06,4262.06L7069.99,3992.0L7048.99,3981.0L6859.99,3878.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_107" data-section-name="122"
+      class="block is-available is-filtered middle"
+      d="M7083.36,4440.75L6854.75,4735.24L7293.31,5077.1L7521.0,4781.97L7083.36,4440.75Z"></path>
+    <path data-component="svg__section" data-section-id="s_228" data-section-name="24"
+      class="block is-available is-filtered middle"
+      d="M6931.0,3630.0L6860.0,3878.0L7049.0,3981.0L7070.0,3992.0L7157.0,3691.0L6931.0,3630.0ZM7264.0,3493.0L7204.0,3707.0L7433.0,3773.0L7509.0,3508.5L7505.0,3482.0L7261.0,3473.0L7264.0,3493.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_108" data-section-name="124"
+      class="block is-available is-filtered minimum"
+      d="M7421.91,3811.35L7333.95,4117.98L7837.77,4371.38L7961.62,3966.45L7421.91,3811.35Z"></path>
+    <path data-component="svg__section" data-section-id="s_229" data-section-name="3"
+      class="block is-available is-filtered middle"
+      d="M3418.0,4075.0L3355.0,3853.0L3341.0,3802.0L3115.0,3868.0L3194.0,4140.0L3418.0,4075.0ZM2840.0,3949.0L2846.0,3970.0L2883.0,4098.0L2918.5,4219.0L3146.0,4154.0L3067.0,3882.0L2840.0,3949.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_25" data-section-name="302"
+      class="block is-available is-filtered minimum"
+      d="M1863.73,3860.15L1500.3,3959.92L1622.43,4385.45L1985.38,4282.49L1863.73,3860.15Z"></path>
+    <path data-component="svg__section" data-section-id="s_24" data-section-name="301" class="block"
+      d="M1704.05,3686.8L1427.05,3704.7L1500.03,3958.97L1863.46,3859.19L1823.9,3721.85L1704.05,3686.8Z"></path>
+    <path data-component="svg__section" data-section-id="s_230" data-section-name="4"
+      class="block is-available is-filtered middle"
+      d="M2982.0,4434.0L2984.0,4441.0L2996.0,4458.0L3211.0,4347.0L3199.0,4332.0L3147.0,4154.0L2918.5,4219.0L2982.0,4434.0ZM3457.0,4202.0L3456.0,4200.0L3418.0,4075.0L3194.0,4140.0L3243.0,4308.0L3256.0,4325.0L3469.0,4217.0L3457.0,4202.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_110" data-section-name="107"
+      class="block is-available is-filtered minimum"
+      d="M3221.39,4742.65L2770.4,5095.94L2997.85,5385.42L3449.08,5031.95L3221.39,4742.65Z"></path>
+    <path data-component="svg__section" data-section-id="s_198" data-section-name="232" class="block"
+      d="M8224.77,2377.91L8150.77,2007.91L7941.09,1772.55L7726.35,1991.46L7862.87,2145.91L7918.71,2436.65L8224.77,2377.91Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_231" data-section-name="5"
+      class="block is-available is-filtered middle"
+      d="M3094.0,4582.0L3111.0,4604.0L3176.0,4685.0L3363.0,4539.0L3211.0,4347.0L2996.0,4458.0L3005.0,4470.0L3086.0,4572.0L3094.0,4582.0ZM3586.0,4363.0L3469.0,4217.0L3256.0,4325.0L3401.0,4509.0L3586.0,4363.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_59" data-section-name="206"
+      class="block is-available is-filtered minimum"
+      d="M2197.68,3810.6L1894.55,3894.7L1977.84,4183.89L2279.88,4102.17L2197.68,3810.6Z"></path>
+    <path data-component="svg__section" data-section-id="s_111" data-section-name="109"
+      class="block is-available is-filtered middle"
+      d="M3682.25,5328.2L3230.8,5681.9L3454.18,5966.21L3905.9,5612.36L3682.25,5328.2Z"></path>
+    <path data-component="svg__section" data-section-id="s_232" data-section-name="6"
+      class="block is-available is-filtered middle"
+      d="M3692.0,4496.0L3691.0,4495.0L3586.0,4363.0L3401.0,4509.0L3576.0,4731.0L3655.0,4668.0L3708.0,4626.0L3645.0,4546.0L3639.0,4539.0L3646.0,4533.0L3692.0,4496.0ZM3176.0,4685.0L3351.0,4907.0L3538.0,4761.0L3363.0,4539.0L3176.0,4685.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_112" data-section-name="113"
+      class="block is-available is-filtered middle"
+      d="M4874.67,6196.15L4670.92,6196.93L4514.25,6763.96L4874.67,6763.3L4874.67,6196.15Z"></path>
+    <path data-component="svg__section" data-section-id="s_233" data-section-name="7"
+      class="block is-available is-filtered middle"
+      d="M3655.0,4668.0L3576.0,4731.0L3758.0,4962.0L3890.0,4858.0L3708.0,4626.0L3655.0,4668.0ZM3719.0,4993.0L3538.0,4761.0L3351.0,4907.0L3533.0,5139.0L3719.0,4993.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_113" data-section-name="115"
+      class="block is-available is-filtered middle"
+      d="M5427.02,6194.05L5222.5,6194.83L5222.5,6762.67L5572.32,6762.03L5427.02,6194.05Z"></path>
+    <path data-component="svg__section" data-section-id="s_234" data-section-name="8"
+      class="block is-available is-filtered middle"
+      d="M3889.56,4858.35L3758.0,4962.0L3986.0,5251.0L4116.72,5146.71L3889.56,4858.35ZM3719.0,4993.0L3533.0,5139.0L3772.0,5443.0L3959.0,5297.0L3719.0,4993.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_114" data-section-name="117"
+      class="block is-available is-filtered minimum"
+      d="M5967.46,5878.2L5952.97,5896.86L5708.95,6039.29L5983.58,6520.4L6342.41,6309.26L5967.46,5878.2Z"></path>
+    <path data-component="svg__section" data-section-id="s_235" data-section-name="9"
+      class="block is-available is-filtered middle"
+      d="M4169.0,5105.0L3986.0,5251.0L4155.0,5465.0L4270.77,5373.77L4241.5,5334.75L4204.95,5285.85L4269.9,5233.95L4169.0,5105.0ZM3959.0,5297.0L3772.0,5443.0L3787.0,5463.0L3910.0,5620.0L3928.0,5643.0L4115.0,5496.0L3959.0,5297.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_115" data-section-name="119"
+      class="block is-available is-filtered minimum"
+      d="M6393.32,5329.65L6165.7,5622.87L6606.95,5966.77L6833.69,5672.87L6393.32,5329.65Z"></path>
+    <path data-component="svg__section" data-section-id="s_236" data-section-name="25"
+      class="block is-available is-filtered middle"
+      d="M7452.0,3217.0L7386.95,3229.9L7219.91,3260.91L7236.0,3349.0L7261.0,3473.0L7505.0,3482.0L7499.0,3454.0L7452.0,3217.0ZM7142.0,3137.0L6945.0,3337.0L6972.0,3480.0L6970.0,3488.0L6930.5,3630.0L7157.0,3691.0L7213.0,3491.0L7142.0,3137.0Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_116" data-section-name="123"
+      class="block is-available is-filtered minimum"
+      d="M7333.27,4118.85L7084.0,4439.95L7521.63,4781.17L7836.87,4372.56L7333.27,4118.85Z"></path>
+    <path data-component="svg__section" data-section-id="s_117" data-section-name="125"
+      class="block is-available is-filtered minimum"
+      d="M7504.12,3483.9L7508.91,3507.94L7422.15,3810.4L7961.88,3965.51L8101.91,3507.04L7504.12,3483.9Z"></path>
+    <path data-component="svg__section" data-section-id="s_118" data-section-name="127"
+      class="block is-available is-filtered minimum"
+      d="M7893.0,2381.05L7385.9,2890.0L7448.04,3202.05L8024.06,3087.33L7893.0,2381.05Z"></path>
+    <path data-component="svg__section" data-section-id="s_56" data-section-name="220"
+      class="block is-available is-filtered middle"
+      d="M6140.92,6450.6L5861.55,6614.92L5955.44,6775.87L6230.57,6613.3L6140.92,6450.6Z"></path>
+    <path data-component="svg__section" data-section-id="s_55" data-section-name="222"
+      class="block is-available is-filtered middle"
+      d="M6603.26,6003.7L6356.45,6323.61L6548.07,6568.07L6843.2,6189.45L6603.26,6003.7Z"></path>
+    <path data-component="svg__section" data-section-id="s_58" data-section-name="216"
+      class="block is-available is-filtered middle"
+      d="M4855.49,6782.95L4509.04,6783.63L4447.45,6973.76L4855.49,6973.77L4855.49,6782.95Z"></path>
+    <path data-component="svg__section" data-section-id="s_57" data-section-name="218"
+      class="block is-available is-filtered middle"
+      d="M5577.71,6781.55L5222.9,6782.25L5222.9,6973.79L5620.0,6973.8L5577.71,6781.55Z"></path>
+    <path data-component="svg__section" data-section-id="s_52" data-section-name="228" class="block"
+      d="M8058.12,3717.75L7942.9,4095.1L8244.52,4182.24L8362.91,3811.14L8058.12,3717.75Z"></path>
+    <path data-component="svg__section" data-section-id="s_54" data-section-name="224"
+      class="block is-available is-filtered minimum"
+      d="M7181.85,5253.75L6924.9,5586.8L7169.01,5771.5L7425.68,5442.22L7181.85,5253.75Z"></path>
+    <path data-component="svg__section" data-section-id="s_53" data-section-name="226"
+      class="block is-available is-filtered minimum"
+      d="M7779.72,4478.8L7482.75,4863.72L7728.51,5053.72L8028.75,4668.54L7779.72,4478.8Z"></path>
+    <path data-component="svg__section" data-section-id="s_240" data-section-name="133"
+      class="block is-available is-filtered minimum"
+      d="M6534.91,822.324L6440.7,733.093L6386.9,786.397L6335.25,733.772L5996.06,720.426L5795.34,916.807L5761.34,951.807L6109.34,1296.81L6561.91,849.324L6534.91,822.324Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_241" data-section-name="132"
+      class="block is-available is-filtered minimum"
+      d="M6874.91,1160.32L6561.91,849.324L6109.34,1296.81L6370.53,1555.42L6289.53,1634.42L6340.34,1685.81L6874.91,1160.32Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_49" data-section-name="317"
+      class="block is-available is-filtered minimum"
+      d="M7395.12,5513.9L7121.2,5865.39L7424.77,6105.13L7704.86,5745.57L7395.12,5513.9Z"></path>
+    <path data-component="svg__section" data-section-id="s_242" data-section-name="131"
+      class="block is-available is-filtered minimum"
+      d="M7065.91,1348.32L6959.91,1245.32L6874.91,1160.32L6340.34,1685.81L6341.34,1686.81L6637.34,1981.81L7171.91,1454.32L7065.91,1348.32Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_48" data-section-name="316"
+      class="block is-available is-filtered minimum"
+      d="M7120.6,5866.2L6905.5,6142.21L7090.74,6297.74L7373.67,6170.76L7424.16,6105.94L7120.6,5866.2Z"></path>
+    <path data-component="svg__section" data-section-id="s_243" data-section-name="138"
+      class="block is-available is-filtered minimum"
+      d="M3653.81,1177.32L3266.9,1398.64L3415.64,1659.97L3802.55,1438.65L3653.81,1177.32Z"></path>
+    <path data-component="svg__section" data-section-id="s_123" data-section-name="SB4" class="block"
+      d="M2027.92,3330.3L1992.55,3509.03L2174.39,3543.71L2208.81,3363.28L2027.92,3330.3Z"></path>
+    <path data-component="svg__section" data-section-id="s_244" data-section-name="137"
+      class="block is-available is-filtered minimum"
+      d="M4040.72,955.999L3653.81,1177.32L3802.55,1438.65L4189.47,1217.33L4040.72,955.999Z"></path>
+    <path data-component="svg__section" data-section-id="s_124" data-section-name="SB3" class="block"
+      d="M2086.55,3034.0L2028.1,3329.34L2208.99,3362.31L2265.4,3066.6L2086.55,3034.0Z"></path>
+    <path data-component="svg__section" data-section-id="s_245" data-section-name="136"
+      class="block is-available is-filtered minimum"
+      d="M4493.45,696.976L4040.72,955.999L4189.47,1217.33L4563.2,1003.56L4493.45,696.976Z"></path>
+    <path data-component="svg__section" data-section-id="s_125" data-section-name="SB1" class="block"
+      d="M2172.51,2599.6L2142.9,2749.23L2319.78,2781.43L2348.08,2633.09L2172.51,2599.6Z"></path>
+    <path data-component="svg__section" data-section-id="s_246" data-section-name="241" class="block"
+      d="M3597.93,924.542C3771.93,825.14,3902.54,750.592,4076.54,651.19C4115.54,718.743,4154.54,786.297,4193.55,853.85C4019.55,953.253,3888.93,1027.8,3714.94,1127.2L3714.94,1127.2C3675.93,1059.65,3636.93,992.096,3597.93,924.542Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_126" data-section-name="204" class="block"
+      d="M1625.34,3256.9L1592.15,3430.91L1979.6,3504.82L2014.62,3327.86L1625.34,3256.9Z"></path>
+    <path data-component="svg__section" data-section-id="s_247" data-section-name="240" class="block"
+      d="M4119.92,626.336C4294.5,526.602,4425.7,451.721,4600.28,351.987C4639.28,419.541,4678.28,487.094,4717.28,554.648C4542.7,654.382,4411.51,729.262,4236.93,828.996L4236.93,828.996C4197.93,761.443,4158.93,693.889,4119.92,626.336Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_127" data-section-name="202" class="block"
+      d="M1736.1,2676.15L1682.1,2959.23L2073.43,3030.56L2129.4,2747.75L1736.1,2676.15Z"></path>
+    <path data-component="svg__section" data-section-id="s_248" data-section-name="239"
+      class="block is-available is-filtered middle"
+      d="M5718.07,339.255C5590.32,339.255,5462.58,339.255,5334.84,339.255C5334.84,379.175,5334.84,419.095,5334.84,459.014C5462.58,459.014,5590.32,459.014,5718.07,459.014L5718.07,459.014C5718.07,419.095,5718.07,379.175,5718.07,339.255Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_45" data-section-name="320"
+      class="block is-available is-filtered minimum"
+      d="M8186.96,4427.85L8149.17,4546.31L7961.35,4787.32L8273.44,5015.64L8521.6,4697.08L8566.95,4544.4L8186.96,4427.85Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_44" data-section-name="321"
+      class="block is-available is-filtered middle"
+      d="M8250.87,4227.5L8187.25,4426.91L8567.22,4543.46L8582.92,4490.59L8386.55,4263.99L8250.87,4227.5Z"></path>
+    <path data-component="svg__section" data-section-id="s_47" data-section-name="318"
+      class="block is-available is-filtered minimum"
+      d="M7684.2,5142.95L7395.7,5513.14L7705.44,5744.81L7987.75,5382.4L7684.2,5142.95Z"></path>
+    <path data-component="svg__section" data-section-id="s_46" data-section-name="319"
+      class="block is-available is-filtered minimum"
+      d="M7960.75,4788.15L7684.85,5142.18L7988.4,5381.62L8272.85,5016.47L7960.75,4788.15Z"></path>
+    <path data-component="svg__section" data-section-id="s_41" data-section-name="324"
+      class="block is-available is-filtered minimum"
+      d="M8695.04,2736.35L8326.2,2807.92L8423.02,3333.21L8797.14,3259.09L8695.04,2736.35Z"></path>
+    <path data-component="svg__section" data-section-id="s_43" data-section-name="323"
+      class="block is-available is-filtered minimum"
+      d="M8797.33,3260.05L8423.2,3334.18L8464.46,3558.01L8420.65,3695.33L8783.82,3814.25L8857.28,3566.97L8797.33,3260.05Z">
+    </path>
+    <path data-component="svg__section" data-section-id="s_42" data-section-name="322"
+      class="block is-available is-filtered middle"
+      d="M8420.37,3696.3L8356.25,3897.29L8536.61,3947.62L8760.58,3892.58L8783.56,3815.23L8420.37,3696.3Z"></path>
+  </g>
+  <g class="labels"><text data-component="svg__label" data-label-id="s_250" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="2800" y="2721">33</tspan>
+    </text><text data-component="svg__label" data-label-id="s_130" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="1847" y="3087">203</tspan>
+    </text><text data-component="svg__label" data-label-id="s_251" class="label" transform="" font-size="98">
+      <tspan dy="1em" x="2334" y="1702">244</tspan>
+    </text><text data-component="svg__label" data-label-id="s_252" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="2850" y="2422">32</tspan>
+    </text><text data-component="svg__label" data-label-id="s_253" class="label" transform="" font-size="98">
+      <tspan dy="1em" x="3370" y="1110">242</tspan>
+    </text><text data-component="svg__label" data-label-id="s_254" class="label" transform="" font-size="98">
+      <tspan dy="1em" x="2853" y="1404">243</tspan>
+    </text><text data-component="svg__label" data-label-id="s_134" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="4073" y="6127">111</tspan>
+    </text><text data-component="svg__label" data-label-id="s_135" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="1946" y="2578">201</tspan>
+    </text><text data-component="svg__label" data-label-id="s_136" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="7787" y="3235">126</tspan>
+    </text><text data-component="svg__label" data-label-id="s_257" class="label" transform="" font-size="98">
+      <tspan dy="1em" x="7130" y="923">235</tspan>
+    </text><text data-component="svg__label" data-label-id="s_137" class="label" transform="" font-size="79">
+      <tspan dy="1em" x="2202" y="2863">SB2</tspan>
+    </text><text data-component="svg__label" data-label-id="s_258" class="label" transform="" font-size="98">
+      <tspan dy="1em" x="6774" y="573">236</tspan>
+    </text><text data-component="svg__label" data-label-id="s_259" class="label" transform="" font-size="98">
+      <tspan dy="1em" x="6353" y="366">237</tspan>
+    </text><text data-component="svg__label" data-label-id="s_139" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="7321" y="3053">26</tspan>
+    </text><text data-component="svg__label" data-label-id="s_70" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5753" y="6733">219</tspan>
+    </text><text data-component="svg__label" data-label-id="s_72" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3987" y="6548">214</tspan>
+    </text><text data-component="svg__label" data-label-id="s_71" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4308" y="6729">215</tspan>
+    </text><text data-component="svg__label" data-label-id="s_78" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="2187" y="4295">207</tspan>
+    </text><text data-component="svg__label" data-label-id="s_77" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="2022" y="3716">205</tspan>
+    </text><text data-component="svg__label" data-label-id="s_79" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3385" y="6111">212</tspan>
+    </text><text data-component="svg__label" data-label-id="s_73" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3638" y="6392">213</tspan>
+    </text><text data-component="svg__label" data-label-id="s_260" class="label" transform="" font-size="98">
+      <tspan dy="1em" x="5908" y="328">238</tspan>
+    </text><text data-component="svg__label" data-label-id="s_261" class="label" transform="" font-size="148">
+      <tspan dy="1em" x="7067" y="1793">130</tspan>
+    </text><text data-component="svg__label" data-label-id="s_262" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4134" y="1306">28</tspan>
+    </text><text data-component="svg__label" data-label-id="s_263" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3814" y="1620">29</tspan>
+    </text><text data-component="svg__label" data-label-id="s_264" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3418" y="1846">30</tspan>
+    </text><text data-component="svg__label" data-label-id="s_265" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3005" y="2068">31</tspan>
+    </text><text data-component="svg__label" data-label-id="s_266" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4539" y="1071">27</tspan>
+    </text><text data-component="svg__label" data-label-id="s_67" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="7453" y="5097">225</tspan>
+    </text><text data-component="svg__label" data-label-id="s_69" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="6334" y="6462">221</tspan>
+    </text><text data-component="svg__label" data-label-id="s_68" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="6884" y="5831">223</tspan>
+    </text><text data-component="svg__label" data-label-id="s_274" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5522" y="715">134</tspan>
+    </text><text data-component="svg__label" data-label-id="s_275" class="label" transform="" font-size="90">
+      <tspan dy="1em" x="4780" y="683">135</tspan>
+    </text><text data-component="svg__label" data-label-id="s_90" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="6957" y="4972">121</tspan>
+    </text><text data-component="svg__label" data-label-id="s_99" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="2853" y="4677">106</tspan>
+    </text><text data-component="svg__label" data-label-id="s_96" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="2487" y="3718">103</tspan>
+    </text><text data-component="svg__label" data-label-id="s_98" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="2671" y="4354">105</tspan>
+    </text><text data-component="svg__label" data-label-id="s_97" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="2595" y="4034">104</tspan>
+    </text><text data-component="svg__label" data-label-id="s_163" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="2911" y="3349">1</tspan>
+    </text><text data-component="svg__label" data-label-id="s_166" class="label" transform="rotate(1,2570,2127) "
+      font-size="98">
+      <tspan dy="1em" x="2570" y="2127">141</tspan>
+    </text><text data-component="svg__label" data-label-id="s_167" class="label" transform="" font-size="118">
+      <tspan dy="1em" x="8404" y="2142">326</tspan>
+    </text><text data-component="svg__label" data-label-id="s_201" class="label" transform="rotate(1,2506,2460) "
+      font-size="98">
+      <tspan dy="1em" x="2506" y="2460">142</tspan>
+    </text><text data-component="svg__label" data-label-id="s_202" class="label" transform="" font-size="118">
+      <tspan dy="1em" x="8467" y="2488">325</tspan>
+    </text><text data-component="svg__label" data-label-id="s_205" class="label" transform="" font-size="98">
+      <tspan dy="1em" x="7454" y="1243">234</tspan>
+    </text><text data-component="svg__label" data-label-id="s_206" class="label" transform="" font-size="98">
+      <tspan dy="1em" x="7776" y="1556">233</tspan>
+    </text><text data-component="svg__label" data-label-id="s_207" class="label" transform="rotate(1,2761,1822) "
+      font-size="98">
+      <tspan dy="1em" x="2761" y="1822">140</tspan>
+    </text><text data-component="svg__label" data-label-id="s_208" class="label" transform="" font-size="148">
+      <tspan dy="1em" x="7340" y="2063">129</tspan>
+    </text><text data-component="svg__label" data-label-id="s_209" class="label" transform="" font-size="148">
+      <tspan dy="1em" x="7536" y="2415">128</tspan>
+    </text><text data-component="svg__label" data-label-id="s_81" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="2627" y="5143">209</tspan>
+    </text><text data-component="svg__label" data-label-id="s_80" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="2896" y="5487">210</tspan>
+    </text><text data-component="svg__label" data-label-id="s_83" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3136" y="5794">211</tspan>
+    </text><text data-component="svg__label" data-label-id="s_82" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="2335" y="4744">208</tspan>
+    </text><text data-component="svg__label" data-label-id="s_89" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="8019" y="4311">227</tspan>
+    </text><text data-component="svg__label" data-label-id="s_88" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="8262" y="3497">229</tspan>
+    </text><text data-component="svg__label" data-label-id="s_85" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="8201" y="3045">230</tspan>
+    </text><text data-component="svg__label" data-label-id="s_84" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5038" y="6822">217</tspan>
+    </text><text data-component="svg__label" data-label-id="s_87" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="8113" y="2581">231</tspan>
+    </text><text data-component="svg__label" data-label-id="s_171" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="2507" y="2938">101</tspan>
+    </text><text data-component="svg__label" data-label-id="s_172" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="2476" y="3369">102</tspan>
+    </text><text data-component="svg__label" data-label-id="s_38" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="4987" y="7200">314</tspan>
+    </text><text data-component="svg__label" data-label-id="s_37" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="4658" y="7200">313</tspan>
+    </text><text data-component="svg__label" data-label-id="s_178" class="label" transform="rotate(1,3151,1570) "
+      font-size="98">
+      <tspan dy="1em" x="3151" y="1570">139</tspan>
+    </text><text data-component="svg__label" data-label-id="s_213" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4109" y="5610">10</tspan>
+    </text><text data-component="svg__label" data-label-id="s_213" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4307" y="5420">10</tspan>
+    </text><text data-component="svg__label" data-label-id="s_214" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4470" y="5579">11</tspan>
+    </text><text data-component="svg__label" data-label-id="s_214" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4310" y="5815">11</tspan>
+    </text><text data-component="svg__label" data-label-id="s_215" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4525" y="5925">12</tspan>
+    </text><text data-component="svg__label" data-label-id="s_215" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4656" y="5679">12</tspan>
+    </text><text data-component="svg__label" data-label-id="s_216" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4883" y="5745">13</tspan>
+    </text><text data-component="svg__label" data-label-id="s_216" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4821" y="6001">13</tspan>
+    </text><text data-component="svg__label" data-label-id="s_217" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5216" y="6004">14</tspan>
+    </text><text data-component="svg__label" data-label-id="s_217" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5159" y="5751">14</tspan>
+    </text><text data-component="svg__label" data-label-id="s_218" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5424" y="5680">15</tspan>
+    </text><text data-component="svg__label" data-label-id="s_218" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5531" y="5923">15</tspan>
+    </text><text data-component="svg__label" data-label-id="s_219" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5600" y="5571">16</tspan>
+    </text><text data-component="svg__label" data-label-id="s_219" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5757" y="5803">16</tspan>
+    </text><text data-component="svg__label" data-label-id="s_34" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="3706" y="6856">310</tspan>
+    </text><text data-component="svg__label" data-label-id="s_33" class="label" transform="" font-size="89">
+      <tspan dy="1em" x="5334" y="7121">315</tspan>
+    </text><text data-component="svg__label" data-label-id="s_36" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="4300" y="7200">312</tspan>
+    </text><text data-component="svg__label" data-label-id="s_35" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="4035" y="7043">311</tspan>
+    </text><text data-component="svg__label" data-label-id="s_30" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="2758" y="5878">307</tspan>
+    </text><text data-component="svg__label" data-label-id="s_32" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="3336" y="6617">309</tspan>
+    </text><text data-component="svg__label" data-label-id="s_31" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="3058" y="6264">308</tspan>
+    </text><text data-component="svg__label" data-label-id="s_27" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="1986" y="4867">304</tspan>
+    </text><text data-component="svg__label" data-label-id="s_220" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5776" y="5425">17</tspan>
+    </text><text data-component="svg__label" data-label-id="s_220" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5965" y="5611">17</tspan>
+    </text><text data-component="svg__label" data-label-id="s_26" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="1862" y="4459">303</tspan>
+    </text><text data-component="svg__label" data-label-id="s_100" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="3338" y="5274">108</tspan>
+    </text><text data-component="svg__label" data-label-id="s_221" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="6151" y="5375">18</tspan>
+    </text><text data-component="svg__label" data-label-id="s_221" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5924" y="5232">18</tspan>
+    </text><text data-component="svg__label" data-label-id="s_29" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="2432" y="5461">306</tspan>
+    </text><text data-component="svg__label" data-label-id="s_101" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="3794" y="5875">110</tspan>
+    </text><text data-component="svg__label" data-label-id="s_222" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="6352" y="5133">19</tspan>
+    </text><text data-component="svg__label" data-label-id="s_222" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="6144" y="4981">19</tspan>
+    </text><text data-component="svg__label" data-label-id="s_28" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="2186" y="5147">305</tspan>
+    </text><text data-component="svg__label" data-label-id="s_102" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="4406" y="6319">112</tspan>
+    </text><text data-component="svg__label" data-label-id="s_223" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3160" y="3547">2</tspan>
+    </text><text data-component="svg__label" data-label-id="s_223" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="2897" y="3676">2</tspan>
+    </text><text data-component="svg__label" data-label-id="s_103" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="5047" y="6396">114</tspan>
+    </text><text data-component="svg__label" data-label-id="s_224" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="6355" y="4711">20</tspan>
+    </text><text data-component="svg__label" data-label-id="s_224" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="6552" y="4845">20</tspan>
+    </text><text data-component="svg__label" data-label-id="s_104" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="5679" y="6314">116</tspan>
+    </text><text data-component="svg__label" data-label-id="s_225" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="6797" y="4539">21</tspan>
+    </text><text data-component="svg__label" data-label-id="s_225" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="6549" y="4437">21</tspan>
+    </text><text data-component="svg__label" data-label-id="s_105" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="6279" y="5870">118</tspan>
+    </text><text data-component="svg__label" data-label-id="s_226" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="7065" y="4191">22</tspan>
+    </text><text data-component="svg__label" data-label-id="s_226" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="6696" y="4223">22</tspan>
+    </text><text data-component="svg__label" data-label-id="s_106" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="6727" y="5269">120</tspan>
+    </text><text data-component="svg__label" data-label-id="s_227" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="7283" y="3830">23</tspan>
+    </text><text data-component="svg__label" data-label-id="s_227" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="6887" y="3974">23</tspan>
+    </text><text data-component="svg__label" data-label-id="s_107" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="7187" y="4676">122</tspan>
+    </text><text data-component="svg__label" data-label-id="s_228" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="7008" y="3723">24</tspan>
+    </text><text data-component="svg__label" data-label-id="s_228" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="7360" y="3550">24</tspan>
+    </text><text data-component="svg__label" data-label-id="s_108" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="7650" y="3988">124</tspan>
+    </text><text data-component="svg__label" data-label-id="s_229" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3261" y="3901">3</tspan>
+    </text><text data-component="svg__label" data-label-id="s_229" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="2984" y="3975">3</tspan>
+    </text><text data-component="svg__label" data-label-id="s_25" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="1741" y="4039">302</tspan>
+    </text><text data-component="svg__label" data-label-id="s_24" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="1634" y="3722">301</tspan>
+    </text><text data-component="svg__label" data-label-id="s_230" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3316" y="4128">4</tspan>
+    </text><text data-component="svg__label" data-label-id="s_230" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3058" y="4226">4</tspan>
+    </text><text data-component="svg__label" data-label-id="s_110" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="3108" y="4981">107</tspan>
+    </text><text data-component="svg__label" data-label-id="s_198" class="label" transform="" font-size="98">
+      <tspan dy="1em" x="7974" y="2048">232</tspan>
+    </text><text data-component="svg__label" data-label-id="s_231" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3422" y="4287">5</tspan>
+    </text><text data-component="svg__label" data-label-id="s_231" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3188" y="4444">5</tspan>
+    </text><text data-component="svg__label" data-label-id="s_59" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="2086" y="3941">206</tspan>
+    </text><text data-component="svg__label" data-label-id="s_111" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="3567" y="5564">109</tspan>
+    </text><text data-component="svg__label" data-label-id="s_232" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3551" y="4480">6</tspan>
+    </text><text data-component="svg__label" data-label-id="s_232" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3352" y="4646">6</tspan>
+    </text><text data-component="svg__label" data-label-id="s_112" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="4729" y="6433">113</tspan>
+    </text><text data-component="svg__label" data-label-id="s_233" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3718" y="4722">7</tspan>
+    </text><text data-component="svg__label" data-label-id="s_233" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3533" y="4875">7</tspan>
+    </text><text data-component="svg__label" data-label-id="s_113" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="5353" y="6430">115</tspan>
+    </text><text data-component="svg__label" data-label-id="s_234" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3746" y="5147">8</tspan>
+    </text><text data-component="svg__label" data-label-id="s_234" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3935" y="4983">8</tspan>
+    </text><text data-component="svg__label" data-label-id="s_114" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="6009" y="6117">117</tspan>
+    </text><text data-component="svg__label" data-label-id="s_235" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4126" y="5220">9</tspan>
+    </text><text data-component="svg__label" data-label-id="s_235" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="3935" y="5402">9</tspan>
+    </text><text data-component="svg__label" data-label-id="s_115" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="6498" y="5565">119</tspan>
+    </text><text data-component="svg__label" data-label-id="s_236" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="7081" y="3386">25</tspan>
+    </text><text data-component="svg__label" data-label-id="s_236" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="7355" y="3295">25</tspan>
+    </text><text data-component="svg__label" data-label-id="s_116" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="7452" y="4351">123</tspan>
+    </text><text data-component="svg__label" data-label-id="s_117" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="7765" y="3611">125</tspan>
+    </text><text data-component="svg__label" data-label-id="s_118" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="7711" y="2821">127</tspan>
+    </text><text data-component="svg__label" data-label-id="s_56" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="6045" y="6557">220</tspan>
+    </text><text data-component="svg__label" data-label-id="s_55" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="6589" y="6218">222</tspan>
+    </text><text data-component="svg__label" data-label-id="s_58" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="4665" y="6825">216</tspan>
+    </text><text data-component="svg__label" data-label-id="s_57" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="5410" y="6823">218</tspan>
+    </text><text data-component="svg__label" data-label-id="s_52" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="8150" y="3895">228</tspan>
+    </text><text data-component="svg__label" data-label-id="s_54" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="7174" y="5457">224</tspan>
+    </text><text data-component="svg__label" data-label-id="s_53" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="7754" y="4710">226</tspan>
+    </text><text data-component="svg__label" data-label-id="s_240" class="label" transform="" font-size="148">
+      <tspan dy="1em" x="6161" y="817">133</tspan>
+    </text><text data-component="svg__label" data-label-id="s_241" class="label" transform="" font-size="148">
+      <tspan dy="1em" x="6492" y="1183">132</tspan>
+    </text><text data-component="svg__label" data-label-id="s_49" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="7411" y="5725">317</tspan>
+    </text><text data-component="svg__label" data-label-id="s_242" class="label" transform="" font-size="148">
+      <tspan dy="1em" x="6756" y="1487">131</tspan>
+    </text><text data-component="svg__label" data-label-id="s_48" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="7152" y="6016">316</tspan>
+    </text><text data-component="svg__label" data-label-id="s_243" class="label" transform="" font-size="98">
+      <tspan dy="1em" x="3534" y="1362">138</tspan>
+    </text><text data-component="svg__label" data-label-id="s_123" class="label" transform="" font-size="79">
+      <tspan dy="1em" x="2100" y="3392">SB4</tspan>
+    </text><text data-component="svg__label" data-label-id="s_244" class="label" transform="" font-size="98">
+      <tspan dy="1em" x="3921" y="1141">137</tspan>
+    </text><text data-component="svg__label" data-label-id="s_124" class="label" transform="" font-size="79">
+      <tspan dy="1em" x="2146" y="3154">SB3</tspan>
+    </text><text data-component="svg__label" data-label-id="s_245" class="label" transform="" font-size="98">
+      <tspan dy="1em" x="4308" y="920">136</tspan>
+    </text><text data-component="svg__label" data-label-id="s_125" class="label" transform="" font-size="79">
+      <tspan dy="1em" x="2244" y="2646">SB1</tspan>
+    </text><text data-component="svg__label" data-label-id="s_246" class="label" transform="" font-size="98">
+      <tspan dy="1em" x="3891" y="812">241</tspan>
+    </text><text data-component="svg__label" data-label-id="s_126" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="1802" y="3324">204</tspan>
+    </text><text data-component="svg__label" data-label-id="s_247" class="label" transform="" font-size="98">
+      <tspan dy="1em" x="4414" y="513">240</tspan>
+    </text><text data-component="svg__label" data-label-id="s_127" class="label" transform="" font-size="99">
+      <tspan dy="1em" x="1904" y="2797">202</tspan>
+    </text><text data-component="svg__label" data-label-id="s_248" class="label" transform="" font-size="98">
+      <tspan dy="1em" x="5526" y="328">239</tspan>
+    </text><text data-component="svg__label" data-label-id="s_45" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="8271" y="4622">320</tspan>
+    </text><text data-component="svg__label" data-label-id="s_44" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="8369" y="4323">321</tspan>
+    </text><text data-component="svg__label" data-label-id="s_47" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="7691" y="5362">318</tspan>
+    </text><text data-component="svg__label" data-label-id="s_46" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="7976" y="4999">319</tspan>
+    </text><text data-component="svg__label" data-label-id="s_41" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="8559" y="2952">324</tspan>
+    </text><text data-component="svg__label" data-label-id="s_43" class="label" transform="" font-size="149">
+      <tspan dy="1em" x="8646" y="3445">323</tspan>
+    </text><text data-component="svg__label" data-label-id="s_42" class="label" transform="" font-size="119">
+      <tspan dy="1em" x="8550" y="3769">322</tspan>
+    </text></g>
+</svg>
